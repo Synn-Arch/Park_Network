@@ -1,4 +1,4 @@
 tol_m,lines,spearman int_n vs tol 10,spearman int_r3 vs tol 10,spearman int_r7 vs tol 10
-5,218783,0.981,0.976,0.977
+5,218783,0.983,0.976,0.978
 10,181920,1.0,1.0,1.0
 15,165959,0.98,0.987,0.989

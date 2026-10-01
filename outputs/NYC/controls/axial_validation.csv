@@ -1,12 +1,19 @@
 check,measure,n,max abs diff,max rel diff,pearson,spearman
-A. same graph,Connectivity,2556,0.0,0.0,1.0,1.0
-A. same graph,Node Count,2556,0.0,0.0,0.9999999999999998,1.0
-A. same graph,Mean Depth,2526,4.7585398554872427e-07,5.7820732473036355e-08,0.9999999999999949,0.9999999999999999
-A. same graph,Integration [HH],2504,1.1884115336258105e-07,5.788241897119167e-08,0.9999999999999949,1.0
-A. same graph,Node Count R3,2556,0.0,0.0,1.0,0.9999999999999999
-A. same graph,Mean Depth R3,2526,1.1862777915538913e-07,5.4719013478571494e-08,0.9999999999999788,1.0
-A. same graph,Integration [HH] R3,2504,2.3785754876826104e-07,5.740444742624737e-08,0.9999999999999971,0.9999999908280796
-A. same graph,Choice,2514,76404.31314171292,9000000000000.0,0.9987304824686212,0.9937075980134288
-B. connection rule,Connectivity,2310,,,0.9568185987454356,0.8576395765765729
-B. connection rule,Integration [HH],2310,,,0.95006271430626,0.9474839415545093
-B. connection rule,Integration [HH] R3,2310,,,0.9058238438594385,0.8871670290164644
+A. same graph,Connectivity,2556.0,0.0,0.0,1.0,1.0
+A. same graph,Node Count,2556.0,0.0,0.0,0.9999999999999998,1.0
+A. same graph,Mean Depth,2526.0,4.7585398554872427e-07,5.7820732473036355e-08,0.9999999999999949,0.9999999999999999
+A. same graph,Integration [HH],2504.0,1.1884115336258105e-07,5.788241897119167e-08,0.9999999999999949,1.0
+A. same graph,Node Count R3,2556.0,0.0,0.0,1.0,0.9999999999999999
+A. same graph,Mean Depth R3,2526.0,1.1862777915538913e-07,5.4719013478571494e-08,0.9999999999999788,1.0
+A. same graph,Integration [HH] R3,2504.0,2.3785754876826104e-07,5.740444742624737e-08,0.9999999999999971,0.9999999908280796
+A. same graph,Choice,2514.0,76404.31314171292,,0.9987304824686212,0.9937075980134288
+B. connection rule,Connectivity,2310.0,,,0.9568185987454356,0.8576395765765729
+B. connection rule,Integration [HH],2310.0,,,0.95006271430626,0.9474839415545093
+B. connection rule,Integration [HH] R3,2310.0,,,0.9058238438594385,0.8871670290164644
+B. links,links in both,4339.0,,,,
+B. links,only network-node rule,40.0,,,,
+B. links,only geometric rule,1088.0,,,,
+B. links,agreement (Jaccard),0.794,,,,
+B. links,geometric-only: lines only touch after the extension,1028.0,,,,
+B. links,"geometric-only: lines really cross, bridge/tunnel involved",43.0,,,,
+B. links,"geometric-only: lines really cross, no shared node",17.0,,,,

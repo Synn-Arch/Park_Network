@@ -7,8 +7,8 @@
 |---|---|---|
 | `axial_lines.gpkg` | axial line 135,773개 | 선 도형과 axial 지표 (EPSG:32618) |
 | `segment_controls.parquet` | 가로 세그먼트 409,172개 | 세그먼트별 axial·angular 값 (GeoParquet) |
-| `cluster_street_controls.csv` | 정의 × 군집 | 군집 100 m 상업 영역 안 가로 값의 길이 가중 평균·최댓값 |
-| `park_street_controls.csv` | 공원 | 공원별 100 m 영역 안 가로 값 |
+| `cluster_street_controls.csv` | 규칙 × 정의 × 군집 | 군집 상업 영역(길 따라 100 m)의 가로 값: 길이 가중 평균·최댓값. `rule` = nearest(주) / overlap(민감도) / buffer(직선 버퍼, 비교) |
+| `park_street_controls.csv` | 규칙 × 공원 | 공원별 상업 영역의 가로 값 |
 | `control_correlations.csv` / `.png` | | 통제변수 간 Spearman 상관 |
 | `axial_validation.csv` | | alcyon(depthmapX 엔진)과의 대조 결과 |
 | `axial_tolerance_sensitivity.csv` | | 허용 횡편차 5·10·15 m 민감도 |
@@ -29,7 +29,7 @@
 | `nach_{r}` | NACH 유사 = log(choice + 1) / log(farness + 3), 반경 r m (Cityseer 각도) |
 | `*_mean`, `*_max` | 영역 안 가로 세그먼트의 길이 가중 평균, 최댓값 |
 | `top10_nach_1600_share`, `top10_ax_int_n_share` | 영역 안 가로 길이 중 도시 상위 10% 가로의 비율 |
-| `street_len_m`, `n_segments`, `basis` | 집계에 쓴 길이·세그먼트 수, 기준(`street` = 가로만, `all` = 가로가 없어 전체 사용) |
+| `street_len_m`, `basis` | 집계에 쓴 가로 길이, 기준(`street` = 가로, `all` = 버퍼 안에 가로가 없어 전체 사용, `none` = 값 없음) |
 
 ## Axial line 만드는 법
 - 가로 중심선(C 망)에서 교차점마다 가장 곧게 이어지는 세그먼트를 잇고(편차 < 30°), Douglas–Peucker로 허용 횡편차 10 m 안의 직선 조각으로 나눈다.
@@ -40,4 +40,5 @@
 - axial과 angular 값은 서로 상관이 있다(`control_correlations.csv`). 한 모형에는 계열마다 한두 개만 넣는다.
 - N2 군집의 "큰길 비율" 속성은 NACH에서 만든 것이므로 `nach_*`와 같이 넣지 않는다.
 - 보행망이 끊긴 시스템(스태튼아일랜드 등)은 `ax_int_n`이 시스템별로 계산된다. 보로 고정효과와 함께 쓴다.
+- 선이 1,000개 미만인 작은 시스템(섬, 부두, 끊긴 공원길)은 axial Integration·Choice가 비어 있다. `ax_connectivity`와 angular 값은 있다.
 - POI 단위 값은 노트북의 `attach_points()`로 붙인다.

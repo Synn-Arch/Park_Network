@@ -1,0 +1,11 @@
+file,source,size_mb,downloaded,vintage
+nyc_blocks_2020.zip,https://data.cityofnewyork.us/api/geospatial/wmsu-5muw,7.2,2026-10-01,"2020 census blocks (NYC DCP, clipped to shoreline)"
+nyc_tracts_2020.geojson,https://data.cityofnewyork.us/resource/63ge-mke6.geojson,7.8,2026-10-01,2020 census tracts (NYC DCP)
+lodes_ny_wac_2023.csv.gz,https://lehd.ces.census.gov/data/lodes/LODES8/ny/wac/ny_wac_S000_JT00_2023.csv.gz,2.8,2026-10-01,"LODES 8.4, 2023"
+nyc_zoning_202608.zip,https://s-media.nyc.gov/agencies/dcp/assets/files/zip/data-tools/bytes/gis-zoning-features/nycgiszoningfeatures_202608shp.zip,5.2,2026-10-01,"NYC DCP zoning features, 2026-08"
+mta_subway_stations.csv,https://data.ny.gov/resource/39hk-dx4f.csv,0.1,2026-10-01,MTA Subway Stations
+mta_subway_entrances.csv,https://data.ny.gov/resource/i9wp-a4ja.csv,0.3,2026-10-01,MTA Subway Entrances and Exits: 2024
+pluto_26v2.csv,https://data.cityofnewyork.us/resource/64uk-42ks.csv,102.5,2026-10-01,PLUTO 26v2
+census2020_blocks.csv,"https://api.census.gov/data/2020/dec/pl (P1_001N,H1_001N; block:*)",1.0,2026-10-01,2020 Census PL 94-171
+acs2024_blockgroups.csv,https://api.census.gov/data/2024/acs/acs5 (B01003_001E; block group:*),0.1,2026-10-01,ACS 5-year 2020–2024
+acs2024_tracts.csv,"https://api.census.gov/data/2024/acs/acs5 (B19013_001E,B01003_001E,B15003_001E,B15003_022E,B15003_023E,B15003_024E,B15003_025E; tract:*)",0.1,2026-10-01,ACS 5-year 2020–2024

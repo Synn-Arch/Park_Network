@@ -22,10 +22,15 @@
 | [11_step10_regrouping.ipynb](11_step10_regrouping.ipynb) | **최종 묶음**: 네 정의(D·N1·N2·N3)에 같은 절차 적용(보로 단위 퍼콜레이션 필터 → Louvain γ=2 → 합의 → 도보 10분 분할), 정의 간 비교(ARI·묶음 쌍 겹침) | `outputs/{AREA}/regroup/` (`park_groups_final.csv`, `map_final_groups.html`) |
 | [12_step11_export_geojson.ipynb](12_step11_export_geojson.ipynb) | **정의별 GeoJSON**: 공원(묶음 id·고립 지수·상태), 묶음 볼록껍질, 공원 간 관계선. D·N1·N2·N3 + 보조 N1rel·N1knn, 데이터 사전 포함 | `outputs/{AREA}/geojson/` |
 | [13_step12_slides.ipynb](13_step12_slides.ipynb) | **발표 자료(영어·한글)**: 쉬운 말 본문 + 기술 부록, 정의 요약 다이어그램, 결과 지도, 네이티브 차트 | `outputs/{AREA}/slides/` (`NYC_park_networks_EN/KO.pptx`, `figs/`) |
-| [14_step13_cluster_table.ipynb](14_step13_cluster_table.ipynb) | **회귀 준비물**: 정의별 모든 공원 → 군집 id(단독 포함), 군집 속성표(면적·보행 범위·내부 연결·큰길 비율·고립), 100 m 상업 링 폴리곤 | `outputs/{AREA}/clusters/` |
+| [14_step13_cluster_table.ipynb](14_step13_cluster_table.ipynb) | **회귀 준비물**: 정의별 모든 공원 → 군집 id(단독 포함), 군집 속성표, **상업 영역**(공원 가장자리에서 길을 따라 100 m 안의 가로, 가장 가까운 공원 기준으로 나눔), 비교용 직선 버퍼 | `outputs/{AREA}/clusters/` |
+| [15_step14_street_controls.ipynb](15_step14_street_controls.ipynb) | **회귀 통제변수(가로 구조)**: 가로 중심선에서 뽑은 axial line의 Connectivity·Integration(HH)·Choice, Cityseer NAIN·NACH 유사(400–3200 m), 군집·공원 100 m 영역 집계, POI 연결 함수, alcyon(depthmapX 엔진) 대조 | `outputs/{AREA}/controls/` |
+| [16_step15_context_controls.ipynb](16_step15_context_controls.ipynb) | **회귀 통제변수(주변 여건)**: ACS 인구·소득·학력, LODES 일자리, PLUTO 토지이용, 용도지역, 지하철, 공원 공급을 상업 영역과 주변 400 m로 집계 | `outputs/{AREA}/controls/` |
+| [17_step16_poi_tables.ipynb](17_step16_poi_tables.ipynb) | **POI 배정·지표와 분석 표**: POI 배정 규칙(합성 점으로 점검), 공원·군집 단위 분석 표, D와 N의 일치 유형, VIF. `Data/Advan/`에 POI 파일을 넣으면 결과변수까지 채운다 | `outputs/{AREA}/analysis/` |
 
 ### 실행 방법
 - 커널: `py13env` (Python 3.13, `cityseer==5.8.0`)
+- STEP 14는 `igraph`가 필요하다. alcyon 대조 절은 R과 R 패키지 `alcyon`이 있을 때만 실행되고, 없으면 건너뛴다.
+- STEP 15는 Census API 키가 필요하다. 저장소 루트의 `CensusAPIkey.txt`(git에서 제외됨)에 키를 한 줄로 넣는다. 원자료는 `Data/external/`(git에서 제외됨)에 받는다.
 - 각 노트북의 첫 셀(공통 설정)에서 `STUDY_AREA`를 고른다: `"Brooklyn"`(파일럿) 또는 `"NYC"`(전체). 환경변수 `PARK_STUDY_AREA`로도 지정할 수 있다.
 - STEP 1–3의 결과는 지역과 무관하다(NYC 전체, `Data/derived/network/`). STEP 4 이후 결과는 `Data/derived/{AREA}/`와 `outputs/{AREA}/`에 저장된다.
 - 명령줄 실행 예:
@@ -55,7 +60,19 @@
   3. 동반소속 합의 ≥ 0.5
   4. 도보 10분 지름 분할
   - N1만 각도 가중치를 쓴다.
-- **회귀 단위**(STEP 13): 정의마다 모든 공원이 정확히 한 군집에 속한다(단독 공원 포함). 군집 상업 영역 = 구성 공원 100 m 버퍼 − 공원 부지.
+- **회귀 단위**(STEP 13): 정의마다 모든 공원이 정확히 한 군집에 속한다(단독 공원 포함).
+- **상업 영역**(STEP 13): 공원 가장자리에서 **보행망을 따라 100 m** 안에 있는 가로다. 직선 버퍼가 아니다.
+  - 출발선은 공원에 붙은 가로 중 공원 경계 20 m 안의 구간이다. C 망은 중심선이라 공원 앞길은 길 양쪽이 모두 거리 0이다.
+  - POI는 가장 가까운 가로 지점(50 m 이내)에 붙이고, 그 지점이 100 m 안이면 포함한다. 공원 부지 안의 POI는 뺀다.
+  - **POI 배정**: 네트워크 거리가 가장 짧은 공원의 군집에 한 번만 넣는다(`nearest`, 주 분석). 닿는 모든 공원에 넣는 방식(`overlap`)은 민감도로 둔다.
+  - 직선 100 m 버퍼(`buffer`)는 비교용으로 남긴다.
+  - 밀도의 분모는 배정된 가로 길이(가로 100 m당 업소 수)가 주, 영역 면적이 보조다.
+- **POPS(민간 소유 공공공간)는 쓰지 않는다.** 공원 집합은 NYC Parks 자료만이다.
+- **가로 구조 통제변수**(STEP 14): 상업 활동 회귀에서 "큰길 효과"를 통제하는 용도이고, 공원 네트워크 정의에는 쓰지 않는다.
+  - **Axial**: 진짜 axial map은 NYC 규모에서 만들 수 없어, 가로 중심선(C 망)에서 직선 조각을 뽑아 axial line으로 쓴다(허용 횡편차 10 m, 민감도 5·15 m). 선은 보행망의 같은 교차점을 지나면 연결된다.
+  - 지표는 고전 정의(Mean Depth → RA → RRA → Integration(HH))이고, 같은 연결 그래프에서 alcyon과 수치가 일치한다. 본 계산은 Python(igraph)이고 alcyon은 검증에만 쓴다.
+  - **Segment angular**: Cityseer 각도 중심성으로 만든 NAIN·NACH 유사 값(400/800/1600/3200 m).
+  - 선이 1,000개 미만인 고립 시스템은 axial Integration·Choice를 비운다.
 - **선형 공원 구간 분할**(STEP 3):
   - 대상: Parkway·Strip·Mall이거나 매우 길쭉한(compactness ≥ 20) 공원 중 지름 1 km 이상
   - 이런 공원은 약 400 m 구간으로 나눠 노드로 쓴다. 200 acres 상위집합 기준 32개 공원 → 274개 구간이고, 100 acres 이하 주 분석 대상만 보면 25개 공원 → 180개 구간이다.

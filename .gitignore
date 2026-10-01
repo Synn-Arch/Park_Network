@@ -9,3 +9,11 @@ Data/nyc_walk_network/
 
 # Derived analysis data (regenerate from STEP notebooks)
 Data/derived/
+
+CensusAPIkey.txt
+
+# Census API key (never commit)
+CensusAPIkey.txt
+
+# Downloaded raw control data (re-download with STEP 15)
+Data/external/
