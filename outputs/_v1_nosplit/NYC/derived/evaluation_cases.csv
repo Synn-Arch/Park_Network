@@ -1,0 +1,31 @@
+case,i,name_i,j,name_j,D_net,D_euc,A_1600,A_3200
+far but connected,B228,Dr. Green Playground,B419,Sutter Ballfields,1595.2545,1618.2362048711436,27.82651,27.82651
+far but connected,B068,Parade Ground,B148,Rolph Henry Playground,1592.5288,1546.3960088978308,24.36145,24.36145
+far but connected,B260,Howard Playground,B475,Herbal Garden of East NY,1592.4587,1612.978939663247,18.153858,18.153858
+far but connected,M056,Morningside Park,M392,El Gallo Garden,1589.4749,1540.6139480808974,9.317503,9.317503
+far but connected,Q284,Sixteen Oaks Grove,Q321,Van Alst Playground,1589.4232,1521.5068354589014,24.999336,24.999336
+far but connected,B209,Galapo Playground,B393,Sheepshead Bay Piers,1580.9062,1579.7172167119038,7.385539,7.385539
+far but connected,B293,Classon Playground,B422,Bkln Bears Rockwell Pl Garden,1580.1735,1566.448471519033,15.081119,15.081119
+far but connected,B023,Lafayette Playground,B400,Hattie Carthan Community Garden,1578.0177,1527.452146118752,0.8462127,0.8462127
+far but connected,B023,Lafayette Playground,B140,Banneker Playground,1578.0176,1527.7573206239451,0.8462127,0.8462127
+far but connected,M089,Union Square Park,M360,The High Line,1575.7476,1467.999061662561,12.134756,12.134756
+far but connected,M204,Moore Playground,M384,Pueblo Unido Garden,1573.7279,1577.3698241189734,31.049196,31.049196
+far but connected,M204,Moore Playground,M382,110th Street Block Association Garden,1573.7279,1608.350804597016,31.049196,31.049196
+far but connected,B026,Cuyler Gore Park,B472,Greene Av United Neighbors Association *,1571.4546,1725.6550961722266,12.911856,12.911856
+far but connected,B006,Beattie Square,B420,Umoja Garden,1568.7872,1568.2430991913973,44.43889,44.43889
+far but connected,X052,Triangle,X320,Jardin De La Familia,1557.5769,1589.9331698997482,15.008272,15.008272
+near but not connected,M092A,Haven Avenue,M099,J. Hood Wright Park,130.64395,51.91514885641399,340.779,340.779
+near but not connected,M092B,Park,M099,J. Hood Wright Park,130.64395,59.595999518292615,285.84335,285.84335
+near but not connected,X148A2,Plimpton Playground,X148A3,Bridge Playground,116.981445,93.59131893430634,210.17508,210.17508
+near but not connected,Q313,Arverne Playground,Q520,Arverne East Nature Preserve,105.80394,61.656233335322426,196.78749,196.78749
+near but not connected,M273,Wagner Houses Pool,M302,Detective Omar Edwards Park,124.51561,135.1456854976847,192.84125,192.84125
+near but not connected,M025,Duane Park,M308,Washington Market Park,96.131645,107.17741662775892,183.9405,183.9405
+near but not connected,B223B,Dimattina Playground,B223C,Park,122.71036,116.0995505895512,180.8281,180.8281
+near but not connected,B255A,Park,B255B,Park,87.66319,34.15386330606489,180.38116,180.38116
+near but not connected,M324,Earth People,M370,Sam and Sadie Koenig Garden,130.09918,98.96838751271196,180.19357,180.19357
+near but not connected,M325A,La Casita Garden,M370,Sam and Sadie Koenig Garden,130.09918,84.52576614294168,180.19357,180.19357
+near but not connected,M313,6BC Botanical Garden,M370,Sam and Sadie Koenig Garden,147.13654,160.21287027140795,180.12799,180.12799
+near but not connected,X317,Rainbow Garden,X338,Courtlandt Avenue Association Garden,123.51868,96.88351124669838,179.9667,179.9667
+near but not connected,B070,Machate Circle,B255M,Park,142.72533,67.98193685473451,173.11969,173.11969
+near but not connected,B210R,Park,B338,Tom McDonald Triangle,78.314,75.01327748169973,166.63269,166.63269
+near but not connected,X014,Horseshoe Playground,X332,Schomberg Academy Garden,124.84379,97.05773453930655,166.057,166.057

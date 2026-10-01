@@ -1,0 +1,31 @@
+case,i,name_i,j,name_j,D_net,D_euc,A_1600,A_3200
+far but connected,B228,Dr. Green Playground,B419,Sutter Ballfields,1595.2545,1618.2362048711436,27.82651,27.82651
+far but connected,B068,Parade Ground,B148,Rolph Henry Playground,1592.5288,1546.3960088978308,24.36145,24.36145
+far but connected,B260,Howard Playground,B475,Herbal Garden of East NY,1592.4587,1612.978939663247,18.153858,18.153858
+far but connected,B209,Galapo Playground,B393,Sheepshead Bay Piers,1580.9062,1579.7172167119038,7.385539,7.385539
+far but connected,B293,Classon Playground,B422,Bkln Bears Rockwell Pl Garden,1580.1735,1566.448471519033,15.081119,15.081119
+far but connected,B023,Lafayette Playground,B400,Hattie Carthan Community Garden,1578.0177,1527.452146118752,0.8462127,0.8462127
+far but connected,B023,Lafayette Playground,B140,Banneker Playground,1578.0176,1527.7573206239451,0.8462127,0.8462127
+far but connected,B026,Cuyler Gore Park,B472,Greene Av United Neighbors Association *,1571.4546,1725.6550961722266,12.911856,12.911856
+far but connected,B006,Beattie Square,B420,Umoja Garden,1568.7872,1568.2430991913973,44.43889,44.43889
+far but connected,B260,Howard Playground,B450,Clara's Garden,1556.7327,1572.2923184223107,18.123257,18.123257
+far but connected,B058,McCarren Park,B142,Bedford Playground,1556.4519,1485.7685748532058,42.104523,42.104523
+far but connected,B221,Steuben Playground,B243,Golconda Playground,1549.9905,1497.9903783349093,37.48699,37.48699
+far but connected,B223QB,Marcy Green Center,B311,Ten Eyck Playground,1546.9739,1470.7360280838864,42.53357,42.53357
+far but connected,B247,Breukelen Ballfields,B360,Remsen Playground,1541.5704,1559.8086320159887,23.24027,23.24027
+far but connected,B442,Ps 149 Artsy Bloom Community Garden,B563,Student Farm Project,1525.4902,1544.1883359554656,29.161896,29.161896
+near but not connected,B223B,Dimattina Playground,B223C,Park,122.71036,116.0995505895512,180.8281,180.8281
+near but not connected,B255A,Park,B255B,Park,87.66319,34.15386330606489,180.38116,180.38116
+near but not connected,B070,Machate Circle,B255M,Park,142.72533,67.98193685473451,173.11969,173.11969
+near but not connected,B210R,Park,B338,Tom McDonald Triangle,78.314,75.01327748169973,166.63269,166.63269
+near but not connected,B597,Kingsborough Houses Bergen Playground,B599,Kingsborough Houses Pacific Playground,123.471344,82.20892674962498,164.23778,164.23778
+near but not connected,B255I,Park,B255L,"Captain John McKenna, IV Park",139.99908,140.61194301946162,148.57333,148.57333
+near but not connected,B255K,Sitting Area,B255L,"Captain John McKenna, IV Park",139.99908,44.475722262793795,148.57333,148.57333
+near but not connected,B223G,Hillside Dog Park,B431,Brooklyn Bridge Park,136.75897,117.12258217172328,141.59041,141.59041
+near but not connected,B223DJ,Brooklyn Heights Promenade,B223H,Harry Chapin Playground,110.87587,123.40992301912048,115.36465,115.36465
+near but not connected,B040,Grand Army Plaza,B159,Mount Prospect Park,107.81514,127.78396192631621,111.30342,111.30342
+near but not connected,B210L,64th Street Community Garden,B210N,Park,73.26197,77.72297964749507,106.047516,106.047516
+near but not connected,B070,Machate Circle,B255N,Park,131.44531,69.53394887950108,104.21682,104.21682
+near but not connected,B210L,64th Street Community Garden,B210M,Park,99.06203,52.47107645533543,103.171455,103.171455
+near but not connected,B223OC,Rodney Park South,B223QA,Marcy Green South,147.16673,56.05100505879323,100.48014,100.48014
+near but not connected,B223OC,Rodney Park South,B223QB,Marcy Green Center,147.16673,129.18146775957644,98.539406,98.539406

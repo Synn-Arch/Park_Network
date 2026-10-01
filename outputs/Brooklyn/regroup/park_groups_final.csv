@@ -1,0 +1,622 @@
+park_id,name,typecategory,borough,acres,parent_id,N1abs_g1_nolimit,N1abs_g1,N1abs_g2_nolimit,N1abs_g2,N1abs_g4_nolimit,N1abs_g4,D_group_nolimit,D_group,N2_group_nolimit,N2_group,N3_group_nolimit,N3_group,N1rel_group_nolimit,N1rel_group,N1knn_group_nolimit,N1knn_group,N1abs_iso,D_iso,N2_iso,N3_iso,N1rel_iso,N1knn_iso,N1abs_status,N2_status,N3_status,D_status,n_grouped,n_isolated,cross_status
+B001,American Playground,Playground,B,0.896,B001,54,66,63,70,62,66,7,20,25,40,-1,-1,2,26,44,98,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B002,Amersfort Park,Neighborhood Park,B,3.557,B002,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,17,37,0.583,0.667,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B003,Bartel-Pritchard Square,Triangle/Plaza,B,1.711,B003,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,143,11,-1,0.25,0.667,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B006,Beattie Square,Triangle/Plaza,B,0.012,B006,26,33,1,4,58,-1,18,45,33,56,-1,-1,3,52,52,119,0.0,0.333,0.333,0.812,0.0,0.5,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B007,Bensonhurst Park,Recreational Field/Courts,B,17.5,B007,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,112,38,88,0.333,0.667,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B008,Betsy Head Park,Community Park,B,10.555,B008,35,44,37,46,3,4,2,7,6,12,-1,-1,4,65,45,106,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B012,Brower Park,Neighborhood Park,B,7.047,B012,2,2,30,39,34,34,3,9,13,20,-1,-1,1,6,25,60,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B016,Maria Hernandez Park,Neighborhood Park,B,6.873,B016,22,23,14,22,41,40,18,44,40,76,-1,-1,3,51,5,6,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B017,Bushwick Playground,Jointly Operated Playground,B,2.783,B017,22,22,14,21,41,39,10,24,40,75,-1,-1,3,34,5,5,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B019,Carroll Park,Neighborhood Park,B,1.874,B019,90,79,96,82,91,80,-1,-1,36,65,-1,-1,6,118,12,21,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B021,Commodore Barry Park,Community Park,B,10.391,B021,23,26,8,13,45,42,27,72,38,70,-1,-1,3,30,6,8,0.0,0.0,0.0,0.562,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B022,Sarah J.S. Tompkins Garnet Playground,Playground,B,1.101,B022,63,68,62,69,140,104,-1,-1,22,-1,-1,-1,2,-1,52,118,0.0,0.667,0.333,0.875,0.0,0.0,grouped,beyond walk limit,robust isolated,unstable,1,1,definition-specific
+B023,Lafayette Playground,Playground,B,0.517,B023,28,40,3,11,50,47,20,55,71,111,17,2,3,52,14,22,0.125,0.333,0.0,0.312,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B024,Orient Grove,Garden,B,0.149,B024,52,62,61,66,61,63,32,79,44,84,-1,-1,2,29,44,101,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B025,Cooper Park,Neighborhood Park,B,6.401,B025,52,62,61,66,61,63,32,79,44,84,-1,-1,2,29,44,101,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B026,Cuyler Gore Park,Neighborhood Park,B,1.158,B026,23,25,8,14,47,45,4,13,17,33,-1,-1,3,33,6,14,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B027,Veterans Triangle,Triangle/Plaza,B,0.025,B027,37,51,41,52,6,9,25,68,4,10,-1,-1,4,63,61,138,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B029#1,Eastern Parkway (1/10),Parkway,B,63.636,B029,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,12,26,62,0.25,0.667,0.667,1.0,0.0,0.5,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B029#10,Eastern Parkway (10/10),Parkway,B,63.636,B029,2,3,30,40,32,29,1,2,9,15,-1,-1,1,9,25,58,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B029#2,Eastern Parkway (2/10),Parkway,B,63.636,B029,2,3,30,40,34,32,1,2,14,25,-1,-1,1,9,25,58,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B029#3,Eastern Parkway (3/10),Parkway,B,63.636,B029,-1,-1,-1,-1,-1,-1,16,37,62,100,-1,-1,3,57,14,26,0.167,0.0,0.333,1.0,0.0,0.5,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B029#4,Eastern Parkway (4/10),Parkway,B,63.636,B029,2,6,30,40,32,29,1,1,9,15,-1,-1,1,10,25,57,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B029#5,Eastern Parkway (5/10),Parkway,B,63.636,B029,2,2,30,39,34,32,-1,-1,14,25,-1,-1,1,6,25,60,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B029#6,Eastern Parkway (6/10),Parkway,B,63.636,B029,2,2,30,39,34,34,3,9,13,20,-1,-1,1,6,25,60,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B029#7,Eastern Parkway (7/10),Parkway,B,63.636,B029,3,10,31,42,37,36,16,37,49,89,-1,-1,1,12,26,62,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B029#8,Eastern Parkway (8/10),Parkway,B,63.636,B029,26,-1,1,-1,52,-1,16,38,33,-1,-1,-1,1,17,14,26,0.0,0.0,0.333,0.875,0.0,0.0,beyond walk limit,beyond walk limit,robust isolated,grouped,0,1,definition-specific
+B029#9,Eastern Parkway (9/10),Parkway,B,63.636,B029,3,10,31,42,37,36,-1,-1,49,89,-1,-1,1,12,26,62,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B030#1,Eastern Parkway Extension (1/6),Mall,B,2.064,B030,2,7,27,33,31,26,1,4,9,16,-1,-1,1,2,24,55,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B030#2,Eastern Parkway Extension (2/6),Mall,B,2.064,B030,2,7,27,33,31,26,1,0,9,16,-1,-1,1,1,24,55,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B030#3,Eastern Parkway Extension (3/6),Mall,B,2.064,B030,12,16,17,28,25,23,10,28,16,29,-1,-1,1,2,47,109,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B030#4,Eastern Parkway Extension (4/6),Mall,B,2.064,B030,2,7,27,33,31,26,1,4,9,16,-1,-1,1,1,24,55,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B030#5,Eastern Parkway Extension (5/6),Mall,B,2.064,B030,12,16,17,28,25,23,10,28,16,29,-1,-1,3,37,47,109,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B030#6,Eastern Parkway Extension (6/6),Mall,B,2.064,B030,2,6,30,40,32,29,1,1,9,15,-1,-1,1,10,25,57,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B031,Fidelity Triangle,Triangle/Plaza,B,0.005,B031,52,60,61,64,61,61,7,19,25,41,-1,-1,2,28,44,100,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B032,Fort Greene Park,Community Park,B,30.168,B032,23,27,8,15,47,46,4,11,17,32,-1,-1,3,32,6,11,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B033,Fort Hamilton Triangle,Triangle/Plaza,B,0.019,B033,-1,-1,-1,-1,-1,-1,63,123,76,116,-1,-1,6,140,30,69,0.25,0.333,0.333,1.0,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B035,John Paul Jones Park,Neighborhood Park,B,5.317,B035,153,114,160,118,168,118,63,123,76,116,-1,-1,6,139,30,69,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B036,Fort Stirling Park,Triangle/Plaza,B,0.214,B036,93,85,99,88,94,82,37,91,37,68,-1,-1,6,130,59,131,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B037,Freedom Triangle,Triangle/Plaza,B,0.004,B037,22,21,14,20,41,38,18,45,40,74,-1,-1,3,52,5,4,0.0,0.333,0.111,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B038,Fulton Park,Neighborhood Park,B,1.987,B038,2,5,29,35,34,30,11,30,14,22,-1,-1,3,38,24,53,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B040,Grand Army Plaza,Triangle/Plaza,B,14.257,B040,16,-1,21,-1,27,-1,16,38,62,100,-1,-1,6,123,11,-1,0.042,0.0,0.333,0.75,0.0,0.0,beyond walk limit,grouped,unstable,grouped,1,0,definition-specific
+B041,Grant Gore,Triangle/Plaza,B,0.019,B041,3,10,31,42,37,36,34,81,49,89,-1,-1,1,11,26,-1,0.0,0.0,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B042,Gravesend Park,Neighborhood Park,B,6.379,B042,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,-1,38,-1,0.667,1.0,1.0,0.875,0.0,0.0,unstable,robust isolated,robust isolated,robust isolated,0,2,isolated in ≥2
+B043,Greenpoint Playground,Playground,B,0.504,B043,54,-1,63,-1,62,-1,13,34,24,39,-1,-1,2,-1,44,99,0.0,0.0,0.0,0.938,0.0,0.0,beyond walk limit,grouped,robust isolated,grouped,1,1,definition-specific
+B044,Dr. Ronald McNair Park,Neighborhood Park,B,1.361,B044,3,9,31,41,37,35,16,37,49,88,-1,-1,3,57,26,61,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B045,Heisser Triangle,Triangle/Plaza,B,0.027,B045,22,23,14,22,41,40,10,25,40,76,-1,-1,3,35,5,6,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B047A,Highland Park Childrens Garden,Garden,B,0.41,B047A,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,68,51,-1,0.5,0.667,1.0,0.938,0.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B049,Irving Square Park,Neighborhood Park,B,2.76,B049,22,22,14,21,41,39,10,24,40,75,-1,-1,3,34,5,5,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B050,Van Voorhees Playground,Playground,B,5.739,B050,90,80,96,83,90,-1,37,89,36,66,-1,-1,6,128,12,17,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B051,Kelly Park Playground,Neighborhood Park,B,3.449,B051,107,95,114,99,120,98,68,129,83,123,-1,-1,5,104,36,77,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B052,Leif Ericson Park,Neighborhood Park,B,16.8,B052,136,105,143,109,151,109,36,88,78,119,-1,-1,6,146,29,68,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B054,Lincoln Terrace / Arthur S. Somers Park,Community Park,B,17.14,B054,2,6,30,40,34,32,1,1,14,24,-1,-1,1,10,25,57,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B055,Sternberg Park,Playground,B,4.044,B055,-1,-1,-1,-1,-1,-1,35,82,21,35,-1,-1,2,23,44,102,0.25,0.0,0.222,1.0,0.0,0.5,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B056,Martin Luther King Jr. Playground,Playground,B,2.29,B056,45,53,51,58,17,15,23,63,1,1,-1,-1,4,72,55,126,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B058,McCarren Park,Community Park,B,36.493,B058,52,61,61,65,61,62,6,18,25,43,-1,-1,2,27,44,104,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B060,McKinley Park,Neighborhood Park,B,8.25,B060,136,105,143,109,151,109,49,-1,-1,-1,-1,-1,6,138,29,66,0.0,0.333,0.333,1.0,0.0,0.0,grouped,unstable,robust isolated,beyond walk limit,1,1,definition-specific
+B061,McLaughlin Park,Recreational Field/Courts,B,1.976,B061,93,84,100,89,95,85,27,70,39,71,-1,-1,6,131,-1,-1,0.0,0.0,0.0,1.0,0.0,0.75,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B062,Memorial Gore,Triangle/Plaza,B,0.066,B062,52,62,61,66,61,63,32,79,44,84,-1,-1,2,29,44,101,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B063,Milestone Park,Neighborhood Park,B,0.476,B063,-1,-1,-1,-1,-1,-1,71,132,-1,-1,-1,-1,5,111,38,89,0.5,0.0,1.0,0.875,0.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B066,Owl's Head Park,Neighborhood Park,B,24.218,B066,137,106,144,110,152,110,36,87,78,119,-1,-1,6,132,29,64,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B068,Parade Ground,Recreational Field/Courts,B,39.5,B068,108,96,115,100,121,99,38,92,56,94,-1,-1,5,99,40,90,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B070,Machate Circle,Triangle/Plaza,B,4.32,B070,-1,-1,-1,-1,-1,-1,38,92,56,94,-1,-1,6,-1,11,16,0.667,0.0,0.0,0.875,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B077,Coffey Park,Neighborhood Park,B,8.271,B077,-1,-1,-1,-1,-1,-1,26,-1,53,91,-1,-1,6,115,12,19,0.25,0.333,0.333,1.0,0.5,0.0,unstable,grouped,robust isolated,beyond walk limit,1,1,definition-specific
+B078,Grace Playground,Jointly Operated Playground,B,2.73,B078,45,54,47,56,20,19,23,62,1,1,-1,-1,4,80,55,127,0.0,0.333,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B079,Saratoga Park,Neighborhood Park,B,3.214,B079,12,14,17,26,25,21,20,58,16,27,-1,-1,3,39,15,33,0.0,0.0,0.0,0.562,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B080,Asser Levy Park,Community Park,B,21.039,B080,86,76,86,77,75,70,50,107,29,48,-1,-1,5,94,48,111,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B082#1,Shore Park and Parkway (1/10),Community Park,B,58.0,B082,137,106,144,110,152,110,36,88,78,119,-1,-1,6,146,29,68,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B082#10,Shore Park and Parkway (10/10),Community Park,B,58.0,B082,-1,-1,-1,-1,-1,-1,36,87,78,119,-1,-1,6,132,31,-1,0.25,0.0,0.0,1.0,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B082#2,Shore Park and Parkway (2/10),Community Park,B,58.0,B082,-1,-1,-1,-1,-1,-1,67,128,-1,-1,-1,-1,5,-1,30,-1,0.75,0.333,0.667,1.0,0.0,0.5,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B082#3,Shore Park and Parkway (3/10),Community Park,B,58.0,B082,-1,-1,-1,-1,-1,-1,36,85,-1,-1,-1,-1,6,134,29,65,0.458,0.333,0.556,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B082#4,Shore Park and Parkway (4/10),Community Park,B,58.0,B082,153,114,160,118,168,118,63,123,76,116,-1,-1,6,139,30,69,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B082#5,Shore Park and Parkway (5/10),Community Park,B,58.0,B082,-1,-1,-1,-1,-1,-1,36,85,-1,-1,-1,-1,6,133,30,-1,0.833,0.0,1.0,1.0,0.5,0.5,robust isolated,robust isolated,robust isolated,grouped,0,3,isolated in all
+B082#7,Shore Park and Parkway (7/10),Community Park,B,58.0,B082,-1,-1,-1,-1,-1,-1,63,123,76,116,-1,-1,-1,-1,30,69,0.25,0.333,0.0,1.0,1.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B082#8,Shore Park and Parkway (8/10),Community Park,B,58.0,B082,135,104,142,108,150,108,67,128,84,124,-1,-1,6,134,29,65,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B082#9,Shore Park and Parkway (9/10),Community Park,B,58.0,B082,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,135,-1,-1,0.583,0.667,0.667,1.0,0.0,1.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B087,Sunset Park,Community Park,B,24.498,B087,77,73,77,74,69,68,64,124,80,120,-1,-1,6,144,31,72,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B088,Herbert Von King Park,Community Park,B,7.819,B088,26,38,1,9,59,59,19,47,33,61,-1,-1,3,45,14,25,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B089,Lowry Triangle,Triangle/Plaza,B,0.11,B089,26,29,1,0,52,49,16,40,33,52,-1,-1,1,18,14,27,0.0,0.333,0.0,0.812,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B090,Sobel Playground,Playground,B,0.135,B090,53,65,90,79,82,75,39,94,23,37,-1,-1,3,42,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B093,Weeksville Playground,Playground,B,0.295,B093,2,8,30,-1,34,-1,1,3,15,26,136,14,1,3,24,54,0.083,0.333,0.333,0.25,0.0,0.0,beyond walk limit,grouped,grouped,grouped,2,0,grouped in ≥2
+B094,Sgt. Joyce Kilmer Square,Triangle/Plaza,B,0.001,B094,-1,-1,-1,-1,-1,-1,68,129,82,122,-1,-1,5,104,38,82,0.25,0.333,0.333,1.0,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B095,Ennis Playground,Playground,B,0.554,B095,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,141,33,73,0.75,0.667,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B096,Sgt. William Dougherty Playground,Playground,B,0.429,B096,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2,28,-1,-1,0.583,0.667,0.667,1.0,0.0,1.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B097,Sledge Playground,Playground,B,0.328,B097,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,17,-1,0.75,0.667,1.0,1.0,0.5,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B098,Martin Luther Playground,Playground,B,0.913,B098,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,-1,31,-1,0.25,0.667,0.667,0.812,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B099,Lt. Joseph Petrosino Park,Playground,B,0.871,B099,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,-1,38,-1,0.667,1.0,1.0,1.0,0.0,0.25,unstable,robust isolated,robust isolated,robust isolated,0,2,isolated in ≥2
+B100,Seth Low Playground/ Bealin Square,Neighborhood Park,B,4.945,B100,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,105,38,83,0.25,0.667,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B102,Crispus Attucks Playground,Playground,B,0.934,B102,23,24,9,16,46,43,16,40,17,30,-1,-1,3,59,6,13,0.0,0.0,0.0,0.812,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B103,Cypress Hills Playground,Neighborhood Park,B,4.947,B103,-1,-1,-1,-1,-1,-1,33,80,47,86,-1,-1,4,74,63,141,0.25,0.333,0.0,0.938,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B105,Taaffe Playground,Neighborhood Park,B,1.821,B105,26,30,1,1,59,-1,53,111,33,53,-1,-1,3,48,7,-1,0.0,0.333,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B106A,Police Officer John G. Scarangella Park,Neighborhood Park,B,3.214,B106A,117,100,124,104,130,103,59,118,66,106,-1,-1,5,110,38,86,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B106B,Lafayette Playground,Jointly Operated Playground,B,1.187,B106B,-1,-1,-1,-1,-1,-1,59,118,-1,-1,-1,-1,5,110,38,86,0.417,0.0,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B107,Lion's Pride Playground,Playground,B,0.865,B107,34,42,39,47,5,5,25,65,35,63,-1,-1,4,60,58,130,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B109,Bill Brown Playground,Neighborhood Park,B,3.214,B109,105,94,112,98,118,97,9,23,65,105,-1,-1,5,88,36,80,0.0,0.333,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B110,Marion Hopkinson Playground,Neighborhood Park,B,1.32,B110,11,12,15,23,80,73,10,26,10,18,-1,-1,1,4,4,2,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B111,Washington Park,Neighborhood Park,B,3.03,B111,-1,-1,-1,-1,-1,-1,72,133,-1,-1,-1,-1,6,125,33,-1,0.25,0.0,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B111A,Washington Skate Park,Jointly Operated Playground,B,1.549,B111A,-1,-1,-1,-1,-1,-1,72,133,-1,-1,-1,-1,6,125,-1,-1,0.833,0.0,1.0,1.0,0.0,0.75,robust isolated,robust isolated,robust isolated,grouped,0,3,isolated in all
+B113A,Cadman Plaza Park,Neighborhood Park,B,10.384,B113A,93,84,100,90,95,85,27,70,39,71,-1,-1,6,131,60,133,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B113B,Korean War Veterans Plaza,Neighborhood Park,B,1.195,B113B,93,84,100,89,95,85,27,70,39,71,-1,-1,6,131,60,133,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B113C,Columbus Park,Neighborhood Park,B,5.43,B113C,93,84,99,87,95,85,27,70,39,71,-1,-1,6,131,60,133,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B113E,Walt Whitman Park,Triangle/Plaza,B,2.913,B113E,93,84,99,87,95,85,27,70,39,71,-1,-1,6,131,60,133,0.25,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B114,Msgr. McGolrick Park,Neighborhood Park,B,9.134,B114,52,60,61,64,61,61,7,19,25,41,-1,-1,2,28,44,100,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B115,Cohn Triangle,Triangle/Plaza,B,0.07,B115,55,67,91,80,88,77,39,94,23,38,-1,-1,2,20,43,96,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B116,Zion Triangle,Triangle/Plaza,B,0.213,B116,35,43,37,43,3,2,1,0,14,24,-1,-1,4,66,45,107,0.0,0.0,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B117,Lindsay Triangle,Triangle/Plaza,B,0.039,B117,63,68,62,69,140,104,35,82,21,35,-1,-1,3,49,52,117,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B118A,St. Mary's Park,Recreational Field/Courts,B,0.345,B118A,90,79,96,82,91,80,65,126,36,65,-1,-1,6,118,12,21,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B118B,St. Mary's Park,Playground,B,0.367,B118B,90,79,96,82,91,80,65,126,36,65,-1,-1,6,118,12,21,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B121,Dodger Playground,Playground,B,0.293,B121,-1,-1,-1,-1,-1,-1,14,35,-1,-1,-1,-1,1,14,-1,-1,0.5,0.333,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B123,Alben Square,Triangle/Plaza,B,0.005,B123,75,72,75,73,67,67,8,22,26,45,-1,-1,6,121,31,71,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B124,William Sheridan Playground,Jointly Operated Playground,B,1.17,B124,96,87,103,91,98,86,5,15,41,77,-1,-1,2,21,43,97,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B125,Calvert Vaux Park,Recreational Field/Courts,B,85.527,B125,-1,-1,-1,-1,-1,-1,70,131,-1,-1,-1,-1,5,-1,38,-1,0.583,0.0,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B126,Red Hook Recreation Area,Community Park,B,58.503,B126,90,78,96,81,91,79,65,125,36,64,-1,-1,6,117,12,20,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B126A,Todd Triangle,Triangle/Plaza,B,0.035,B126A,-1,-1,-1,-1,-1,-1,65,125,-1,-1,-1,-1,-1,-1,-1,-1,1.0,0.0,1.0,1.0,1.0,1.0,robust isolated,robust isolated,robust isolated,grouped,0,3,isolated in all
+B127,Martinez Playground,Recreational Field/Courts,B,1.373,B127,141,109,148,113,156,113,35,84,64,103,-1,-1,2,23,43,93,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B128,Colonel David Marcus Playground,Playground,B,1.974,B128,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,106,38,84,0.25,0.667,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B129,Kaiser Park,Community Park,B,26.257,B129,86,77,86,78,75,71,12,32,30,49,-1,-1,5,89,48,112,0.0,0.0,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B130,Greenwood Playground,Neighborhood Park,B,3.39,B130,68,70,68,71,110,93,38,93,67,107,-1,-1,6,137,33,74,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B131,Rudd Playground,Playground,B,1.278,B131,12,16,17,28,25,23,10,28,16,29,-1,-1,-1,-1,15,32,0.0,0.0,0.0,1.0,1.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B132,Gilbert Ramirez Park,Neighborhood Park,B,1.034,B132,-1,-1,-1,-1,-1,-1,18,43,-1,-1,-1,-1,3,50,-1,-1,0.583,0.333,1.0,1.0,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B135,Newtown Barge Playground,Recreational Field/Courts,B,6.235,B135,-1,-1,-1,-1,-1,-1,13,34,-1,-1,-1,-1,-1,-1,44,99,0.75,0.0,1.0,1.0,1.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B137,Sixteen Sycamores Playground,Playground,B,0.567,B137,-1,-1,-1,-1,-1,-1,4,12,-1,-1,-1,-1,3,31,-1,-1,0.25,0.0,0.667,0.875,0.0,0.75,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B139,Heckscher Playground,Playground,B,1.24,B139,-1,-1,-1,-1,-1,-1,10,25,-1,-1,-1,-1,3,35,-1,-1,0.75,0.333,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B140,Banneker Playground,Jointly Operated Playground,B,1.67,B140,26,38,1,9,59,59,19,47,33,61,-1,-1,3,45,14,25,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B141,City Line Park,Jointly Operated Playground,B,6.05,B141,45,55,53,62,11,11,31,78,2,2,-1,-1,4,73,63,140,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B142,Bedford Playground,Playground,B,0.996,B142,55,67,91,80,88,77,39,94,23,38,-1,-1,2,20,43,96,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B144,Ocean Hill Playground,Jointly Operated Playground,B,1.595,B144,2,8,27,34,31,27,1,3,9,17,-1,-1,1,0,24,54,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B145,Thomas Greene Playground,Community Park,B,2.525,B145,16,18,21,30,27,24,21,59,62,101,-1,-1,6,124,11,15,0.0,0.333,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B146,Quaker Parrot Park at the Dust Bowl,Recreational Field/Courts,B,1.65,B146,136,105,143,109,151,109,36,86,78,118,-1,-1,6,145,29,67,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B147,Monsignor Crawford Field,Recreational Field/Courts,B,2.291,B147,-1,-1,-1,-1,-1,-1,61,120,-1,-1,-1,-1,5,107,17,41,0.417,0.0,0.667,0.875,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B148,Rolph Henry Playground,Playground,B,0.213,B148,-1,-1,-1,-1,-1,-1,58,117,-1,-1,-1,-1,1,16,40,-1,0.417,0.333,0.778,0.875,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B149A,Elton Playground,Playground,B,0.622,B149A,-1,-1,-1,-1,-1,-1,17,41,48,87,152,15,4,71,54,125,0.333,0.333,0.0,0.25,0.0,0.0,unstable,grouped,grouped,grouped,2,0,grouped in ≥2
+B149B,Linwood Playground,Playground,B,0.705,B149B,-1,-1,-1,-1,-1,-1,17,41,3,4,-1,-1,4,71,-1,-1,0.25,0.333,0.333,1.0,0.0,1.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B150,Kolbert Playground,Playground,B,1.581,B150,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,38,-1,0.333,1.0,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,robust isolated,0,1,definition-specific
+B151,Dome Playground,Neighborhood Park,B,1.385,B151,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,119,38,87,0.25,0.667,0.667,0.875,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B152,Rappaport Playground,Neighborhood Park,B,1.148,B152,75,72,75,73,67,67,-1,-1,26,45,-1,-1,6,121,31,71,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B153,South Pacific Playground,Neighborhood Park,B,2.264,B153,2,8,27,34,31,27,1,3,9,17,-1,-1,1,0,24,54,0.0,0.0,0.0,0.688,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B154,Berry Playground,Playground,B,0.327,B154,-1,-1,-1,-1,-1,-1,5,15,-1,-1,-1,-1,-1,-1,43,97,0.75,0.0,1.0,1.0,1.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B155,Triangle,Triangle/Plaza,B,0.017,B155,45,56,49,57,18,16,29,75,50,90,-1,-1,4,75,55,128,0.0,0.0,0.333,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B156,Powell Playground,Playground,B,1.024,B156,37,47,40,48,2,1,1,5,5,11,-1,-1,4,78,61,135,0.0,0.0,0.0,0.562,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B157,Kelly Park Playground,Jointly Operated Playground,B,1.447,B157,107,95,114,99,120,98,68,129,83,123,-1,-1,5,104,36,77,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B158,Garibaldi Playground,Playground,B,0.437,B158,-1,-1,-1,-1,-1,-1,71,132,-1,-1,-1,-1,5,111,38,89,0.667,0.0,1.0,0.875,0.0,0.25,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B159,Mount Prospect Park,Neighborhood Park,B,7.79,B159,-1,-1,-1,-1,-1,-1,16,38,-1,-1,-1,-1,1,17,-1,-1,0.75,0.0,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B160,Ketchum Triangle,Triangle/Plaza,B,0.057,B160,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,105,38,83,0.583,0.667,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B161,James Forten Playground,Playground,B,0.59,B161,26,29,1,0,52,49,16,38,33,52,-1,-1,1,17,14,27,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B162,Brizzi Playground,Playground,B,0.649,B162,75,72,75,73,67,67,8,22,26,44,-1,-1,6,120,31,70,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B163,Sperandeo Brothers Playground,Jointly Operated Playground,B,2.799,B163,45,58,47,54,20,17,22,61,3,3,-1,-1,4,70,54,123,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B164,Bath Beach Park,Playground,B,2.964,B164,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,38,-1,0.583,1.0,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,robust isolated,0,1,definition-specific
+B165,Spring Creek Park,Nature Area,B,54.963,B165,97,88,104,92,99,87,28,73,42,81,-1,-1,4,81,21,50,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B165A,Spring Creek Park,Nature Area,B,2.203,B165A,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0.0,0.0,0.0,0.0,0.0,1.0,unstable,unstable,unstable,unstable,0,0,definition-specific
+B166B,Homecrest Playground,Playground,B,2.372,B166B,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,85,-1,-1,0.833,0.667,1.0,1.0,0.0,0.75,robust isolated,robust isolated,robust isolated,unstable,0,3,isolated in all
+B166C,Coney Island Boat Basin,Recreational Field/Courts,B,36.81,B166C,-1,-1,-1,-1,-1,-1,70,131,-1,-1,-1,-1,-1,-1,-1,-1,0.875,0.0,1.0,1.0,1.0,1.0,robust isolated,robust isolated,robust isolated,grouped,0,3,isolated in all
+B166D,McGuire Fields,Recreational Field/Courts,B,77.181,B166D,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,17,-1,0.75,0.667,1.0,1.0,1.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B166E,Sixteen Lindens Triangle,Triangle/Plaza,B,0.487,B166E,-1,-1,-1,-1,-1,-1,41,-1,-1,-1,-1,-1,5,85,36,-1,0.75,0.333,1.0,1.0,0.5,0.0,unstable,robust isolated,robust isolated,beyond walk limit,0,2,isolated in ≥2
+B167,La Guardia Playground,Playground,B,0.406,B167,-1,-1,-1,-1,-1,-1,5,16,23,37,-1,-1,2,22,43,94,0.25,0.0,0.0,1.0,0.5,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B167A,La Guardia Playground,Recreational Field/Courts,B,0.773,B167A,53,65,90,79,82,75,5,16,23,37,-1,-1,3,42,43,94,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B168,Continental Army Plaza,Triangle/Plaza,B,0.532,B168,-1,-1,-1,-1,-1,-1,5,16,23,37,-1,-1,2,22,43,94,0.25,0.0,0.0,1.0,0.5,0.5,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B169A,Brighton Playground,Playground,B,1.225,B169A,-1,-1,-1,-1,-1,-1,50,107,29,48,-1,-1,5,94,48,111,0.25,0.333,0.333,0.875,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B169B,Poseidon Playground,Recreational Field/Courts,B,2.944,B169B,86,77,86,78,75,71,15,36,30,49,-1,-1,5,91,48,114,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B171,Linden Sitting Area,Triangle/Plaza,B,0.139,B171,111,98,118,102,124,101,69,130,70,110,-1,-1,4,64,17,44,0.0,0.0,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B172,Heffernan Triangle,Triangle/Plaza,B,0.029,B172,-1,-1,-1,-1,-1,-1,8,22,26,44,-1,-1,6,120,31,70,0.25,0.333,0.0,1.0,0.0,0.5,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B173,Fraser Square,Triangle/Plaza,B,0.667,B173,144,110,151,114,159,114,66,127,81,121,-1,-1,5,95,19,46,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B174,Park,Triangle/Plaza,B,0.061,B174,-1,-1,-1,-1,-1,-1,69,130,-1,-1,-1,-1,4,64,61,-1,0.5,0.0,0.667,0.75,0.0,0.5,unstable,unstable,unstable,grouped,0,0,definition-specific
+B175,Dahill Triangle,Triangle/Plaza,B,0.006,B175,152,113,159,117,167,117,60,119,74,114,-1,-1,5,106,38,84,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B176,Trust Triangle,Triangle/Plaza,B,0.078,B176,-1,-1,-1,-1,-1,-1,54,112,-1,-1,-1,-1,5,97,17,35,0.667,0.333,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B178,Flatbush Malls,Mall,B,0.73,B178,109,97,116,101,122,100,62,121,75,115,-1,-1,5,113,40,91,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B179,Flatbush Malls,Mall,B,0.8,B179,109,97,116,101,122,100,62,121,75,115,-1,-1,5,113,40,91,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B180,Flatbush Mall,Mall,B,0.02,B180,109,97,116,101,122,100,62,121,75,115,-1,-1,5,113,40,91,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B182,Howard Malls,Triangle/Plaza,B,0.191,B182,35,44,37,44,3,3,2,6,6,12,-1,-1,4,67,45,107,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B184,Avenue R Mall,Mall,B,0.258,B184,-1,-1,-1,-1,-1,-1,68,129,-1,-1,-1,-1,5,104,38,82,0.417,0.333,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B190,Barone Triangle,Triangle/Plaza,B,0.15,B190,127,101,134,105,142,105,47,103,59,97,-1,-1,5,108,17,40,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B191,Park,Triangle/Plaza,B,0.097,B191,75,72,75,73,67,67,8,22,26,45,-1,-1,6,121,31,71,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B192,Russell Pedersen Playground,Jointly Operated Playground,B,1.37,B192,135,104,142,108,150,108,67,128,84,124,-1,-1,6,135,29,65,0.083,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B192A,Fort Hamilton Athletic Field,Recreational Field/Courts,B,6.02,B192A,135,104,142,108,150,108,67,128,84,124,-1,-1,6,135,29,65,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B193,Hamilton Metz Field,Neighborhood Park,B,2.112,B193,2,-1,30,-1,34,-1,-1,-1,14,-1,-1,-1,1,-1,25,-1,0.0,0.667,0.333,0.938,0.0,0.0,beyond walk limit,beyond walk limit,robust isolated,unstable,0,1,definition-specific
+B194,Harmony Triangle,Triangle/Plaza,B,0.1,B194,63,68,62,69,140,104,35,82,21,35,-1,-1,3,49,52,117,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B196,Pvt. Sonsire Triangle,Triangle/Plaza,B,0.036,B196,52,61,61,65,61,62,6,18,25,43,-1,-1,2,27,44,104,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B197,Mellett Playground,Neighborhood Park,B,1.056,B197,107,95,114,99,120,98,-1,-1,83,123,-1,-1,5,-1,36,77,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B200,Elizabeth Stroud Playground,Playground,B,0.29,B200,-1,-1,-1,-1,-1,-1,11,30,-1,-1,-1,-1,3,38,-1,-1,0.208,0.0,0.667,0.75,0.0,1.0,unstable,unstable,unstable,grouped,0,0,definition-specific
+B202,Lithuania Square,Triangle/Plaza,B,0.02,B202,52,63,61,67,61,64,35,83,22,36,-1,-1,2,24,44,102,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B205,Corporal Wiltshire Square,Triangle/Plaza,B,0.051,B205,-1,-1,-1,-1,-1,-1,-1,-1,82,122,-1,-1,5,-1,38,-1,0.083,0.667,0.333,1.0,0.0,0.0,unstable,grouped,robust isolated,unstable,1,1,definition-specific
+B206,Sunners Playground,Playground,B,0.197,B206,151,112,158,116,166,116,-1,-1,73,113,-1,-1,5,100,17,36,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B207,Sarsfield Playground,Playground,B,0.579,B207,144,110,151,114,159,114,66,127,81,121,-1,-1,5,95,19,46,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B208,Pfc Norton Playground,Playground,B,0.55,B208,145,111,152,115,160,115,57,116,69,109,-1,-1,5,96,19,45,0.0,0.0,0.0,0.562,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B209,Galapo Playground,Playground,B,0.565,B209,105,93,112,97,118,96,-1,-1,65,104,-1,-1,5,84,36,79,0.0,0.667,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B210A,John Allen Payne Playground,Playground,B,1.51,B210A,138,107,145,111,153,111,36,88,78,119,-1,-1,6,146,29,68,0.0,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B210B,D'Emic Playground,Playground,B,1.13,B210B,77,-1,77,-1,69,-1,64,-1,80,-1,-1,-1,6,-1,31,-1,0.0,0.333,0.0,1.0,0.0,0.0,beyond walk limit,beyond walk limit,robust isolated,beyond walk limit,0,1,definition-specific
+B210C,Cough Triangle,Triangle/Plaza,B,0.032,B210C,90,78,96,81,91,79,65,126,36,64,-1,-1,6,117,12,20,0.0,0.333,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B210F,Admiral Triangle,Playground,B,0.433,B210F,90,78,96,81,91,79,65,126,36,64,-1,-1,6,117,12,20,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B210G,Triangle Three Sixteen,Triangle/Plaza,B,0.28,B210G,-1,-1,-1,-1,-1,-1,56,114,68,-1,-1,-1,6,141,12,-1,0.333,0.333,0.333,0.875,0.0,0.25,unstable,beyond walk limit,robust isolated,grouped,0,1,definition-specific
+B210H,Harold Ickes Playground,Playground,B,1.816,B210H,90,81,96,84,90,78,26,69,36,67,-1,-1,6,116,12,18,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B210I,Gonzalo Plasencia Playground,Jointly Operated Playground,B,1.236,B210I,77,73,77,74,69,68,64,124,80,120,-1,-1,6,144,31,72,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B210J,Pena Herrera Playground,Jointly Operated Playground,B,0.736,B210J,77,73,77,74,69,68,64,124,80,120,-1,-1,6,144,31,72,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B210L,64th Street Community Garden,Strip,B,0.009,B210L,-1,-1,-1,-1,-1,-1,36,88,-1,-1,-1,-1,6,146,-1,-1,0.75,0.0,0.889,1.0,0.0,0.75,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B210M,Park,Strip,B,0.008,B210M,138,107,145,111,153,111,36,88,78,119,-1,-1,6,146,29,68,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B210N,Park,Strip,B,0.002,B210N,-1,-1,-1,-1,-1,-1,36,88,-1,-1,-1,-1,6,146,30,-1,0.5,0.0,1.0,1.0,0.0,0.5,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B210O,Park,Strip,B,0.006,B210O,136,105,143,109,151,109,36,86,78,118,-1,-1,6,145,29,67,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B210P,Dan Ross Playground,Playground,B,0.256,B210P,-1,-1,-1,-1,-1,-1,49,105,-1,-1,-1,-1,6,138,30,-1,0.417,0.0,0.667,1.0,0.0,0.5,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B210Q,Park,Strip,B,0.004,B210Q,131,103,138,107,146,107,49,105,61,99,-1,-1,6,138,37,81,0.167,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B210R,Park,Strip,B,0.004,B210R,-1,-1,-1,-1,-1,-1,49,105,-1,-1,-1,-1,-1,-1,-1,-1,0.75,0.0,1.0,1.0,1.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B210S,Park,Strip,B,0.004,B210S,158,115,165,119,173,119,49,105,77,117,-1,-1,5,114,37,81,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B210T,Park,Strip,B,0.004,B210T,158,115,165,119,173,119,49,105,77,117,-1,-1,5,114,37,81,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B210U,Park,Strip,B,0.002,B210U,-1,-1,-1,-1,-1,-1,63,122,-1,-1,-1,-1,6,140,28,63,0.5,0.333,1.0,1.0,0.5,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B210V,Park,Parkway,B,0.586,B210V,-1,-1,-1,-1,-1,-1,63,122,-1,-1,-1,-1,-1,-1,28,63,0.5,0.333,1.0,1.0,1.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B210W,John J Carty Park,Neighborhood Park,B,8.565,B210W,153,114,160,118,168,118,63,123,76,116,-1,-1,6,140,30,69,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B211,Lady Moody Triangle,Triangle/Plaza,B,0.052,B211,117,100,124,104,130,103,-1,-1,66,106,-1,-1,5,109,38,85,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B212,Hot Spot Tot Lot,Playground,B,0.322,B212,109,97,116,101,122,100,62,121,75,115,-1,-1,5,113,40,91,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B213,Gravesend Triangle,Triangle/Plaza,B,0.06,B213,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,109,36,-1,0.417,0.667,0.778,1.0,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B214,Linden Park,Jointly Operated Playground,B,9.322,B214,97,90,104,94,99,89,48,104,42,80,-1,-1,4,83,21,48,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B215,Decatur Playground,Jointly Operated Playground,B,1.5,B215,10,11,16,25,79,72,11,29,28,47,8,1,3,56,4,0,0.25,0.333,0.333,0.25,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B216,Raymond Bush Playground,Jointly Operated Playground,B,2.015,B216,26,35,1,6,57,53,19,51,33,58,61,7,3,55,15,31,0.0,0.333,0.0,0.125,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B217,Marcy Playground,Community Park,B,3.201,B217,26,34,1,5,59,60,19,52,33,57,-1,-1,3,44,14,24,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B218,Paerdegat Park,Community Park,B,3.56,B218,114,99,121,103,127,102,45,101,58,96,-1,-1,5,103,19,47,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B219,Callahan-Kelly Playground,Community Park,B,3.461,B219,12,16,17,28,25,23,10,28,16,29,-1,-1,1,2,47,109,0.0,0.0,0.0,0.875,0.0,0.5,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B220,Washington Hall Park,Playground,B,0.901,B220,26,30,1,1,52,-1,53,111,33,53,-1,-1,3,46,6,12,0.0,0.333,0.333,0.5,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B221,Steuben Playground,Neighborhood Park,B,1.171,B221,64,69,58,63,86,76,53,111,19,34,38,-1,3,46,6,10,0.0,0.0,0.0,0.312,0.0,0.0,grouped,grouped,beyond walk limit,grouped,2,0,grouped in ≥2
+B222,Pierrepont Playground,Playground,B,0.503,B222,93,86,99,86,94,83,37,90,37,69,-1,-1,6,127,59,132,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B223A,Dimattina Playground,Recreational Field/Courts,B,1.38,B223A,90,78,96,81,91,79,26,69,36,64,-1,-1,6,117,12,20,0.125,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223B,Dimattina Playground,Playground,B,0.52,B223B,-1,-1,-1,-1,-1,-1,26,69,-1,-1,-1,-1,-1,-1,-1,-1,0.75,0.0,1.0,1.0,1.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B223C,Park,Strip,B,0.003,B223C,90,81,96,84,90,78,26,69,36,67,-1,-1,6,116,12,18,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223DA,Adam Yauch Park,Playground,B,1.363,B223DA,93,86,99,86,94,83,37,89,37,69,-1,-1,6,128,59,132,0.0,0.0,0.0,0.688,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B223DB,Brooklyn Heights Promenade,Triangle/Plaza,B,0.026,B223DB,93,86,99,86,94,83,37,90,37,69,157,16,6,127,59,132,0.0,0.0,0.0,0.375,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B223DC,Brooklyn Heights Promenade,Triangle/Plaza,B,0.04,B223DC,93,86,99,86,94,83,37,90,37,69,157,16,6,127,59,132,0.0,0.0,0.0,0.375,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B223DD,Brooklyn Heights Promenade,Triangle/Plaza,B,0.108,B223DD,93,86,99,86,94,83,37,90,37,69,-1,-1,6,127,59,132,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223DE,Brooklyn Heights Promenade,Triangle/Plaza,B,0.21,B223DE,93,86,99,86,94,83,37,90,37,69,-1,-1,6,127,59,132,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223DF,Brooklyn Heights Promenade,Triangle/Plaza,B,0.08,B223DF,93,86,99,86,94,83,37,90,37,69,-1,-1,6,127,59,132,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223DG,Brooklyn Heights Promenade,Triangle/Plaza,B,0.32,B223DG,93,85,99,88,94,82,37,91,37,68,157,16,6,130,59,131,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B223DH,Brooklyn Heights Promenade,Triangle/Plaza,B,0.093,B223DH,93,85,99,88,94,82,37,91,37,68,-1,-1,6,130,59,131,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B223DI,Brooklyn Heights Promenade,Triangle/Plaza,B,0.138,B223DI,93,85,99,88,94,82,37,91,37,68,157,16,6,130,59,131,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B223DJ,Brooklyn Heights Promenade,Triangle/Plaza,B,0.09,B223DJ,93,85,99,88,94,82,37,91,37,68,-1,-1,6,130,59,131,0.0,0.0,0.0,0.375,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B223DK,Brooklyn Heights Promenade,Triangle/Plaza,B,1.093,B223DK,93,86,99,86,94,83,37,90,37,69,-1,-1,6,130,59,132,0.0,0.0,0.0,0.875,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223E,Fruit Street Sitting Area,Triangle/Plaza,B,0.92,B223E,93,85,99,88,94,82,37,91,37,68,-1,-1,6,130,59,131,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B223F,Squibb Park,Neighborhood Park,B,0.626,B223F,93,85,99,88,94,82,37,91,37,68,-1,-1,6,130,59,131,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B223G,Hillside Dog Park,Neighborhood Park,B,2.06,B223G,93,85,99,88,94,82,37,91,37,68,-1,-1,6,130,59,131,0.0,0.0,0.0,1.0,0.5,0.5,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223H,Harry Chapin Playground,Playground,B,0.3,B223H,93,85,99,88,94,82,37,91,37,68,-1,-1,6,130,59,131,0.0,0.0,0.0,1.0,0.0,0.5,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223I,Anchorage Plaza,Triangle/Plaza,B,2.2,B223I,93,83,100,90,95,84,27,70,39,72,-1,-1,6,129,60,134,0.0,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223IA,Clumber Corner,Parkway,B,0.947,B223IA,93,83,100,90,95,84,27,70,39,72,-1,-1,6,129,60,134,0.0,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223IB,Bar and Grill Park,Parkway,B,0.489,B223IB,93,83,100,90,95,84,27,71,39,72,-1,-1,6,129,60,134,0.0,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223IC,Park,Triangle/Plaza,B,0.047,B223IC,-1,-1,-1,-1,-1,-1,27,71,-1,-1,-1,-1,-1,-1,-1,-1,0.75,0.0,1.0,1.0,1.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B223JA,Park,Triangle/Plaza,B,0.09,B223JA,-1,-1,-1,-1,-1,-1,27,71,-1,-1,-1,-1,-1,-1,60,134,0.5,0.0,1.0,1.0,1.0,0.5,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B223JB,Susan Smith McKinney Steward Park,Playground,B,1.884,B223JB,93,83,100,90,95,84,27,71,39,72,-1,-1,6,129,60,134,0.0,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223JC,Bridge Park 3,Recreational Field/Courts,B,1.934,B223JC,93,83,100,90,95,84,27,71,39,72,-1,-1,6,129,60,134,0.0,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223JD,Maritcha R. Lyons Park,Triangle/Plaza,B,0.233,B223JD,93,83,100,90,95,84,27,71,39,72,-1,-1,6,129,60,134,0.0,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223K,Trinity Park,Parkway,B,6.3,B223K,23,26,8,13,45,42,27,71,38,70,-1,-1,3,30,6,8,0.0,0.0,0.0,0.688,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B223MA,Arbor Place,Triangle/Plaza,B,0.068,B223MA,23,26,8,13,45,42,27,72,38,70,-1,-1,3,30,6,8,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B223NA,Classon Playground,Playground,B,2.982,B223NA,64,69,58,63,86,76,53,110,19,34,-1,-1,3,43,6,10,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223NB,Classon Triangle,Triangle/Plaza,B,0.206,B223NB,-1,-1,-1,-1,-1,-1,53,110,-1,-1,-1,-1,3,43,52,118,0.5,0.0,0.444,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B223NC,Penn Triangle,Playground,B,0.183,B223NC,-1,-1,-1,-1,-1,-1,53,110,19,34,-1,-1,3,43,6,10,0.25,0.0,0.0,1.0,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B223OB,Marcy Park South,Recreational Field/Courts,B,0.357,B223OB,53,65,90,79,82,75,5,14,23,37,-1,-1,3,42,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223OC,Rodney Park South,Recreational Field/Courts,B,0.392,B223OC,53,65,90,79,82,75,5,14,23,37,-1,-1,2,25,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223PA,Rodney Park Center,Recreational Field/Courts,B,0.237,B223PA,53,65,90,79,82,75,5,14,23,37,-1,-1,2,25,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223PB,Rodney Park North,Recreational Field/Courts,B,0.37,B223PB,53,65,90,79,82,75,5,14,23,37,-1,-1,2,25,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223PC,Strawberry Playground,Playground,B,0.319,B223PC,53,65,90,79,82,75,5,14,23,37,-1,-1,2,25,43,95,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223PD,Rodney Playground Center,Neighborhood Park,B,0.189,B223PD,53,65,90,79,82,75,5,14,23,37,-1,-1,2,25,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223PE,Blue Playground,Playground,B,0.29,B223PE,53,65,90,79,82,75,5,14,23,37,-1,-1,2,25,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223QA,Marcy Green South,Triangle/Plaza,B,0.104,B223QA,53,65,90,79,82,75,5,14,23,37,-1,-1,3,42,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223QB,Marcy Green Center,Triangle/Plaza,B,0.195,B223QB,53,65,90,79,82,75,5,14,23,37,-1,-1,3,42,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223QC,Marcy Green North,Triangle/Plaza,B,0.137,B223QC,53,65,90,79,82,75,5,14,23,37,-1,-1,3,42,43,95,0.0,0.0,0.0,1.0,0.0,0.5,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223R,Jaime Campiz Playground,Playground,B,0.752,B223R,52,64,61,68,61,65,6,17,25,42,-1,-1,2,22,44,103,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B223S,Macri Triangle,Triangle/Plaza,B,0.57,B223S,52,64,61,68,61,65,6,17,25,43,-1,-1,2,27,44,104,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223T,Father Giorgio Triangle,Triangle/Plaza,B,0.067,B223T,52,61,61,65,61,62,6,18,25,43,-1,-1,2,27,44,104,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B223U,Lentol Garden,Triangle/Plaza,B,0.762,B223U,-1,-1,-1,-1,-1,-1,7,19,25,41,-1,-1,2,27,44,100,0.25,0.333,0.0,1.0,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B223V,Badame Sessa Triangle,Triangle/Plaza,B,0.067,B223V,52,61,61,65,61,62,6,18,25,43,-1,-1,2,27,44,104,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B224,P.O. Reinaldo Salgado Playground,Neighborhood Park,B,2.289,B224,21,19,13,18,56,52,20,56,34,62,61,-1,3,40,15,34,0.0,0.0,0.0,0.375,0.0,0.0,grouped,grouped,beyond walk limit,grouped,2,0,grouped in ≥2
+B224A,Citizens For A Better Community,Garden,B,0.299,B224A,21,19,13,18,56,52,20,56,34,62,62,-1,3,40,15,34,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,beyond walk limit,grouped,2,0,grouped in ≥2
+B225,St. Andrew's Playground,Neighborhood Park,B,3.38,B225,2,1,30,38,34,33,24,64,14,21,-1,-1,1,5,25,59,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B226,Mt. Carmel Triangle,Triangle/Plaza,B,0.102,B226,52,64,61,68,61,65,6,17,25,43,-1,-1,2,27,44,104,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B227,P.S. 125 Playground,Playground,B,0.208,B227,35,46,37,46,1,0,2,8,6,13,-1,-1,4,65,45,106,0.0,0.333,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B228,Dr. Green Playground,Playground,B,1.791,B228,35,46,37,45,1,0,2,8,6,13,-1,-1,4,79,45,105,0.0,0.0,0.0,0.688,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B229,Triangle,Triangle/Plaza,B,0.019,B229,-1,-1,-1,-1,-1,-1,61,120,-1,-1,-1,-1,5,107,17,41,0.583,0.0,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B230,Nicholas Naquan Heyward Jr. Park,Neighborhood Park,B,1.041,B230,-1,-1,-1,-1,-1,-1,46,102,-1,-1,-1,-1,6,122,-1,-1,0.75,0.0,1.0,1.0,0.0,0.75,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B231,Samuel Goldberg Triangle,Triangle/Plaza,B,0.015,B231,152,113,159,117,167,117,60,119,74,114,-1,-1,5,106,38,84,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B232,Dean Playground,Neighborhood Park,B,1.3,B232,-1,-1,-1,-1,-1,-1,4,13,-1,-1,-1,-1,6,123,23,-1,0.375,0.333,1.0,0.875,0.0,0.5,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B233,Park,Triangle/Plaza,B,0.312,B233,-1,-1,-1,-1,-1,-1,27,70,38,70,-1,-1,3,30,6,8,0.417,0.0,0.0,1.0,0.5,0.5,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B234,Tilden Playground,Neighborhood Park,B,1.19,B234,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,19,-1,0.833,1.0,1.0,1.0,0.0,0.0,robust isolated,robust isolated,robust isolated,robust isolated,0,3,isolated in all
+B235,Herman Dolgon Playground,Neighborhood Park,B,1.894,B235,105,93,112,97,118,96,-1,-1,65,104,-1,-1,5,84,36,79,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B236,Glenwood Playground,Neighborhood Park,B,1.43,B236,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,102,17,42,0.333,0.667,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B237,John Hancock Playground,Jointly Operated Playground,B,1.547,B237,26,36,1,7,59,57,16,39,33,59,-1,-1,3,58,14,28,0.0,0.333,0.333,0.812,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B239,Sheepshead Playground,Jointly Operated Playground,B,2.087,B239,84,75,84,76,73,69,52,109,27,46,-1,-1,5,86,35,76,0.0,0.0,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B240,Tucker Place,Triangle/Plaza,B,0.155,B240,-1,-1,-1,-1,-1,-1,41,96,-1,-1,-1,-1,5,87,36,78,0.833,0.0,1.0,1.0,0.0,0.0,robust isolated,robust isolated,robust isolated,grouped,0,3,isolated in all
+B242,Meucci Triangle,Triangle/Plaza,B,0.045,B242,117,100,124,104,130,103,59,118,66,106,-1,-1,5,110,38,86,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B243,Golconda Playground,Neighborhood Park,B,1.5,B243,23,26,8,13,45,42,27,72,38,70,-1,-1,3,30,6,8,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B244,McDonald Playground,Neighborhood Park,B,3.485,B244,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,109,38,85,0.417,0.667,1.0,0.875,0.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B245,St. John's Park,Community Park,B,9.04,B245,2,3,30,36,34,31,11,31,14,23,-1,-1,1,7,25,58,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B246,Jerome Playground,Jointly Operated Playground,B,0.694,B246,97,-1,104,-1,99,-1,28,-1,42,80,-1,-1,4,-1,21,-1,0.0,0.333,0.0,1.0,0.0,0.0,beyond walk limit,grouped,robust isolated,beyond walk limit,1,1,definition-specific
+B247,Breukelen Ballfields,Community Park,B,16.16,B247,97,90,104,94,99,89,42,97,42,78,-1,-1,4,83,21,48,0.0,0.0,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B248,Fox Playground,Jointly Operated Playground,B,2.27,B248,151,112,158,116,166,116,-1,-1,73,113,-1,-1,5,100,17,36,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B249,Van Dyke Playground,Neighborhood Park,B,1.398,B249,35,46,37,45,3,-1,25,66,7,-1,-1,-1,4,61,-1,-1,0.0,0.333,0.333,1.0,0.0,1.0,grouped,beyond walk limit,robust isolated,grouped,1,1,definition-specific
+B250,Nostrand Playground,Jointly Operated Playground,B,3.023,B250,114,-1,121,-1,127,-1,-1,-1,58,-1,-1,-1,5,-1,19,-1,0.0,0.667,0.333,0.938,0.0,0.0,beyond walk limit,beyond walk limit,robust isolated,unstable,0,1,definition-specific
+B251,Manhattan Beach Park,Community Park,B,42.941,B251,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1.0,1.0,1.0,1.0,1.0,1.0,robust isolated,robust isolated,robust isolated,robust isolated,0,3,isolated in all
+B252,West Playground,Neighborhood Park,B,2.387,B252,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,35,-1,0.5,0.667,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B253,Albert L. Parham Playground,Jointly Operated Playground,B,1.253,B253,23,27,8,15,47,46,4,11,17,32,44,4,3,32,6,11,0.0,0.0,0.0,0.25,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B254,Wingate Park,Jointly Operated Playground,B,5.888,B254,-1,-1,-1,-1,-1,-1,58,117,72,112,-1,-1,1,16,41,92,0.25,0.333,0.333,0.938,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B255A,Park,Strip,B,0.002,B255A,-1,-1,-1,-1,-1,-1,56,114,-1,-1,-1,-1,6,141,33,73,0.75,0.0,1.0,1.0,0.0,0.5,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B255B,Park,Strip,B,0.113,B255B,-1,-1,-1,-1,-1,-1,56,114,-1,-1,-1,-1,6,141,33,73,0.333,0.0,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B255C,Purple Playground,Playground,B,0.711,B255C,81,74,81,75,107,92,56,115,68,108,-1,-1,6,142,33,75,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B255D,Park,Parkway,B,0.281,B255D,81,74,81,75,107,92,56,115,68,108,-1,-1,6,142,33,75,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B255E,Park,Triangle/Plaza,B,0.736,B255E,81,74,81,75,107,92,56,115,68,108,-1,-1,6,142,33,75,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B255F,Detective Joseph Mayrose Park,Neighborhood Park,B,1.314,B255F,81,74,81,75,107,92,56,115,68,108,-1,-1,6,142,33,75,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B255G,Butterfly Gardens,Neighborhood Park,B,0.442,B255G,-1,-1,-1,-1,-1,-1,56,115,68,108,-1,-1,6,142,33,75,0.5,0.0,0.333,0.938,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B255H,Thomas J. Cuite Park,Playground,B,0.487,B255H,70,71,70,72,112,94,38,93,67,107,-1,-1,6,137,33,74,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B255I,Park,Parkway,B,0.438,B255I,70,71,70,72,112,94,38,93,67,107,-1,-1,6,137,33,74,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B255J,Seeley Park,Triangle/Plaza,B,0.364,B255J,-1,-1,-1,-1,-1,-1,38,93,67,107,-1,-1,6,137,33,74,0.25,0.0,0.0,0.875,0.5,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B255K,Sitting Area,Triangle/Plaza,B,0.93,B255K,70,71,70,72,112,94,38,93,67,107,-1,-1,6,137,33,74,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B255L,"Captain John McKenna, IV Park",Triangle/Plaza,B,0.48,B255L,68,70,68,71,110,93,38,93,67,107,-1,-1,6,137,33,74,0.0,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B255M,Park,Triangle/Plaza,B,0.205,B255M,-1,-1,-1,-1,-1,-1,38,92,67,107,-1,-1,-1,-1,-1,-1,0.75,0.0,0.0,1.0,1.0,0.75,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B255N,Park,Triangle/Plaza,B,0.116,B255N,-1,-1,-1,-1,-1,-1,38,92,56,94,-1,-1,-1,-1,11,16,0.75,0.0,0.0,1.0,1.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B255O,Park,Triangle/Plaza,B,0.058,B255O,-1,-1,-1,-1,-1,-1,38,-1,67,-1,-1,-1,6,143,33,-1,0.5,0.333,0.0,1.0,0.5,0.0,unstable,beyond walk limit,robust isolated,beyond walk limit,0,1,definition-specific
+B257,Frost Playground,Playground,B,0.739,B257,-1,-1,-1,-1,-1,-1,32,79,-1,-1,-1,-1,-1,-1,44,101,0.5,0.333,0.778,1.0,1.0,0.5,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B258,Brevoort Playground,Playground,B,1.485,B258,12,14,17,26,25,21,20,57,16,27,-1,-1,3,39,15,33,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B259,Underwood Park,Neighborhood Park,B,1.187,B259,26,31,1,2,52,51,4,10,33,54,-1,-1,3,33,6,12,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B260,Howard Playground,Community Park,B,1.0,B260,37,47,40,48,2,1,1,4,5,11,-1,-1,4,79,61,135,0.0,0.0,0.0,0.562,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B260A,Howard Pool,Community Park,B,0.67,B260A,-1,-1,-1,-1,-1,-1,1,4,9,16,-1,-1,4,79,45,105,0.083,0.0,0.0,0.875,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B261,Sankofa Park,Playground,B,0.847,B261,45,53,51,59,12,13,23,63,3,5,-1,-1,4,72,54,125,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B262,Potomac Playground,Jointly Operated Playground,B,1.315,B262,26,37,1,8,59,58,19,50,33,60,-1,-1,3,56,15,30,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B263,Sumner Playground,Jointly Operated Playground,B,1.97,B263,-1,-1,-1,-1,-1,-1,19,54,-1,-1,-1,-1,3,54,-1,-1,0.75,0.0,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B264,Roebling Playground,Jointly Operated Playground,B,1.23,B264,53,65,90,79,82,75,39,94,23,37,-1,-1,3,42,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B265,Rainbow Playground,Playground,B,0.46,B265,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,-1,31,-1,0.333,1.0,0.667,0.812,0.0,0.0,unstable,unstable,robust isolated,robust isolated,0,1,definition-specific
+B266,Star Spangled Playground,Jointly Operated Playground,B,1.687,B266,26,32,1,3,52,50,19,49,33,55,-1,-1,3,48,6,9,0.125,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B267,Winthrop Playground,Jointly Operated Playground,B,1.252,B267,-1,-1,-1,-1,-1,-1,-1,-1,72,112,-1,-1,1,15,41,92,0.25,0.667,0.333,0.938,0.0,0.0,unstable,grouped,robust isolated,unstable,1,1,definition-specific
+B268,Nautilus Playground,Playground,B,1.38,B268,86,77,86,78,75,71,15,36,30,49,-1,-1,5,91,48,114,0.125,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B269,Jesse Owens Playground,Jointly Operated Playground,B,2.326,B269,28,40,3,11,50,47,20,55,71,111,17,2,3,52,14,22,0.125,0.333,0.0,0.312,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B270,Brownsville Playground,Community Park,B,3.017,B270,37,51,41,52,6,9,25,68,4,10,-1,-1,4,63,61,138,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B271,Railroad Playground,Neighborhood Park,B,2.3,B271,111,98,118,102,124,101,-1,-1,70,110,-1,-1,4,-1,17,44,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B272,Marlboro Playground,Neighborhood Park,B,1.072,B272,-1,-1,-1,-1,-1,-1,55,113,-1,-1,-1,-1,5,110,38,86,0.5,0.333,1.0,1.0,0.5,0.5,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B273,Aimee Triangle,Triangle/Plaza,B,0.11,B273,145,111,152,115,160,115,57,116,69,109,-1,-1,5,96,19,45,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B274,Bayview Playground,Jointly Operated Playground,B,1.21,B274,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,21,-1,0.833,1.0,1.0,1.0,0.0,0.5,robust isolated,robust isolated,robust isolated,robust isolated,0,3,isolated in all
+B275,Grady Playground,Jointly Operated Playground,B,3.403,B275,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0.917,0.667,1.0,1.0,1.0,0.75,robust isolated,robust isolated,robust isolated,unstable,0,3,isolated in all
+B277,Benson Playground,Jointly Operated Playground,B,0.934,B277,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,112,38,88,0.417,0.667,0.667,0.875,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B278,Sam Leggio Triangle,Triangle/Plaza,B,0.011,B278,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,68,53,121,0.5,0.667,1.0,1.0,0.5,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B279,Wilson Playground,Jointly Operated Playground,B,1.606,B279,98,91,105,95,100,90,42,98,42,79,-1,-1,5,93,17,39,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B282,Patrick O'Rourke Playground,Jointly Operated Playground,B,1.23,B282,131,103,138,107,146,107,-1,-1,61,-1,-1,-1,6,-1,37,-1,0.167,0.667,0.333,0.875,0.0,0.0,grouped,beyond walk limit,robust isolated,unstable,1,1,definition-specific
+B283,Belmont Playground,Jointly Operated Playground,B,0.682,B283,-1,-1,-1,-1,-1,-1,43,99,-1,-1,-1,-1,4,77,55,-1,0.5,0.333,0.667,1.0,0.0,0.5,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B284,Marc And Jason's Playground,Community Park,B,1.148,B284,-1,-1,-1,-1,-1,-1,14,35,-1,-1,-1,-1,1,14,-1,-1,0.583,0.333,1.0,1.0,0.0,0.75,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B285,Harry Maze Playground,Neighborhood Park,B,2.427,B285,-1,-1,-1,-1,-1,-1,44,100,57,95,-1,-1,5,101,17,43,0.25,0.0,0.333,1.0,0.5,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B286,Bartlett Playground,Playground,B,1.032,B286,-1,-1,-1,-1,-1,-1,35,82,-1,-1,-1,-1,3,49,-1,-1,0.583,0.333,1.0,0.875,0.0,0.75,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B287,Andries Playground,Jointly Operated Playground,B,0.964,B287,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,19,-1,0.333,0.667,0.667,0.562,0.0,0.0,unstable,unstable,unstable,unstable,0,0,definition-specific
+B288,Slope Park Playground,Jointly Operated Playground,B,0.504,B288,81,74,81,75,107,92,56,115,68,108,-1,-1,6,142,33,75,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B289,Cutinella Triangle,Triangle/Plaza,B,0.076,B289,117,100,124,104,130,103,55,113,66,106,-1,-1,5,110,38,86,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B290,Public Place,Triangle/Plaza,B,0.112,B290,45,-1,53,-1,11,-1,43,99,-1,-1,-1,-1,4,77,-1,-1,0.167,0.333,0.667,0.875,0.0,0.75,beyond walk limit,unstable,robust isolated,grouped,0,1,definition-specific
+B291,Power Playground,Neighborhood Park,B,2.295,B291,-1,-1,-1,-1,-1,-1,54,112,-1,-1,-1,-1,5,97,17,35,0.417,0.333,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B292,Pratt Playground,Neighborhood Park,B,0.918,B292,-1,-1,-1,-1,-1,-1,53,111,-1,-1,-1,-1,3,48,-1,-1,0.417,0.333,0.667,0.812,0.0,1.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B293,Classon Playground,Jointly Operated Playground,B,1.336,B293,26,32,1,3,52,50,19,48,33,55,-1,-1,3,47,6,9,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B294,Jackie Robinson Park Playground,Jointly Operated Playground,B,1.774,B294,2,5,29,35,34,30,11,30,14,22,-1,-1,3,38,24,53,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B295,Oxport Playground,Jointly Operated Playground,B,1.033,B295,23,26,8,13,45,42,27,72,38,70,38,-1,3,30,6,8,0.0,0.0,0.0,0.375,0.0,0.0,grouped,grouped,beyond walk limit,grouped,2,0,grouped in ≥2
+B296,Luna Playground,Playground,B,1.76,B296,-1,-1,-1,-1,-1,-1,50,106,-1,-1,-1,-1,-1,-1,-1,-1,0.75,0.333,1.0,1.0,1.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B297,Albemarle Playground,Jointly Operated Playground,B,0.538,B297,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,136,38,-1,0.333,0.667,0.667,0.875,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B298,Stockton Playground,Jointly Operated Playground,B,1.089,B298,-1,-1,-1,-1,-1,-1,19,52,-1,-1,-1,-1,3,44,7,-1,0.25,0.0,0.667,0.875,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B300,Oracle Playground,Jointly Operated Playground,B,0.703,B300,23,27,8,15,47,46,4,11,17,32,44,4,3,32,6,11,0.0,0.333,0.0,0.25,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B301,Greene Playground,Jointly Operated Playground,B,0.917,B301,26,31,1,2,52,51,4,10,33,54,-1,-1,3,33,14,-1,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B302,Charlie's Place,Playground,B,1.26,B302,-1,-1,-1,-1,-1,-1,19,-1,-1,-1,-1,-1,3,49,-1,-1,0.75,0.333,1.0,1.0,0.0,1.0,unstable,robust isolated,robust isolated,beyond walk limit,0,2,isolated in ≥2
+B304,Kennedy King Playground,Jointly Operated Playground,B,0.79,B304,1,0,26,31,117,95,-1,-1,54,92,169,17,5,98,64,142,0.375,0.667,0.333,0.5,0.0,0.0,grouped,grouped,grouped,unstable,3,0,grouped in all
+B305,P.S. 279 Playground,Jointly Operated Playground,B,0.23,B305,-1,-1,-1,-1,-1,-1,42,98,-1,-1,-1,-1,5,93,17,39,0.75,0.333,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B306,Playground 286,Jointly Operated Playground,B,0.868,B306,105,94,112,98,118,97,52,109,65,105,-1,-1,5,86,36,80,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B307,Tiger Playground,Jointly Operated Playground,B,0.926,B307,-1,-1,-1,-1,-1,-1,10,26,-1,-1,-1,-1,3,36,4,2,0.75,0.0,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B308,Yak Playground,Jointly Operated Playground,B,0.444,B308,105,94,112,98,118,97,52,109,65,105,-1,-1,5,86,36,80,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B309,Pink Playground,Playground,B,1.0,B309,140,108,147,112,155,112,51,108,63,102,-1,-1,4,76,21,49,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B310,Bushwick Playground,Community Park,B,1.29,B310,22,20,14,19,41,37,18,46,40,73,-1,-1,3,50,5,3,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B311,Ten Eyck Playground,Jointly Operated Playground,B,1.091,B311,141,109,148,113,156,113,35,84,64,103,-1,-1,2,23,43,93,0.0,0.333,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B312,Woodruff Playground,Jointly Operated Playground,B,0.536,B312,140,108,147,112,155,112,51,108,63,102,-1,-1,4,76,21,49,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B313,El Shabazz Playground,Jointly Operated Playground,B,0.89,B313,10,11,16,25,79,72,11,29,28,47,-1,-1,3,38,4,0,0.333,0.333,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B315,Surf Playground,Jointly Operated Playground,B,0.933,B315,86,77,86,78,75,71,15,36,30,49,-1,-1,5,91,48,114,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B316,DiGilio Playground,Community Park,B,0.826,B316,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,119,38,87,0.375,0.667,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B317,Lafayette Gardens Playground,Playground,B,0.705,B317,26,32,1,3,52,50,19,48,33,55,-1,-1,3,47,6,9,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B320,Park Slope Playground,Jointly Operated Playground,B,0.955,B320,16,18,21,30,27,24,40,95,62,101,-1,-1,6,126,11,15,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B321,Edmonds Playground,Jointly Operated Playground,B,0.917,B321,23,27,8,15,47,46,4,11,17,32,-1,-1,3,32,6,11,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B322,Pulaski Playground,Jointly Operated Playground,B,1.416,B322,102,92,109,96,104,91,19,54,46,85,-1,-1,3,54,62,139,0.333,0.0,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B323,Hattie Carthan Playground,Jointly Operated Playground,B,1.195,B323,26,37,1,8,57,53,19,51,33,60,61,7,3,55,15,30,0.0,0.0,0.333,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B324,Jacob Joffe Fields,Community Park,B,2.984,B324,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,17,-1,0.5,0.667,0.889,0.875,0.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B325,Fish Playground,Jointly Operated Playground,B,1.035,B325,12,15,17,27,25,22,10,27,16,28,-1,-1,1,4,47,110,0.0,0.0,0.0,0.562,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B326,Cobble Hill Park,Neighborhood Park,B,0.585,B326,90,80,96,83,91,-1,37,89,36,66,-1,-1,6,128,12,17,0.083,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B329,Lindower Park,Community Park,B,6.7,B329,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,107,-1,-1,0.667,0.667,1.0,1.0,0.0,0.5,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B330,Hickman Playground,Jointly Operated Playground,B,2.656,B330,-1,-1,-1,-1,-1,-1,47,103,59,97,-1,-1,5,108,17,40,0.25,0.333,0.0,1.0,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B331,Neptune Playground,Jointly Operated Playground,B,1.243,B331,-1,-1,-1,-1,-1,-1,50,106,-1,-1,-1,-1,-1,-1,-1,-1,0.75,0.333,1.0,1.0,1.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B332,Evergreen Playground,Jointly Operated Playground,B,0.87,B332,-1,-1,-1,-1,-1,-1,10,26,-1,-1,-1,-1,3,36,4,2,0.5,0.0,0.556,0.75,0.0,0.0,unstable,unstable,unstable,grouped,0,0,definition-specific
+B334,Fermi Playground,Jointly Operated Playground,B,1.061,B334,22,21,14,20,41,38,18,44,40,74,-1,-1,3,51,5,4,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B335,Bildersee Playground,Jointly Operated Playground,B,1.416,B335,129,102,136,106,144,106,-1,-1,60,98,-1,-1,5,102,17,42,0.0,0.667,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B337,Century Playground,Jointly Operated Playground,B,2.282,B337,86,76,86,77,75,70,50,107,29,48,-1,-1,5,94,48,111,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B338,Tom McDonald Triangle,Triangle/Plaza,B,0.032,B338,-1,-1,-1,-1,-1,-1,49,105,61,99,-1,-1,6,138,29,66,0.167,0.0,0.0,0.875,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B339,Newport Playground,Jointly Operated Playground,B,0.918,B339,37,50,41,51,6,8,25,67,4,8,-1,-1,4,62,61,136,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B340,Garden Playground,Jointly Operated Playground,B,0.915,B340,22,20,14,19,41,37,18,46,40,73,-1,-1,3,50,5,3,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B342,100% Playground,Jointly Operated Playground,B,1.616,B342,98,91,105,95,100,90,30,76,42,79,-1,-1,5,92,17,38,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B343,Osborn Playground,Neighborhood Park,B,1.9,B343,37,51,41,52,6,9,25,68,4,10,-1,-1,4,63,61,138,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B345,Ethan Allen Playground,Jointly Operated Playground,B,0.8,B345,97,90,104,94,99,89,48,104,42,80,-1,-1,4,83,21,48,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B346,Ericsson Playground,Jointly Operated Playground,B,1.06,B346,52,61,61,65,61,62,6,18,25,41,-1,-1,2,27,44,100,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B347,Carver Playground,Jointly Operated Playground,B,0.964,B347,11,13,15,24,80,74,20,57,10,19,-1,-1,1,3,4,1,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B348,Willoughby Playground,Jointly Operated Playground,B,0.907,B348,26,34,1,5,59,60,19,52,33,57,-1,-1,3,44,52,120,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B349,Bath Playground,Jointly Operated Playground,B,1.157,B349,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,38,-1,0.417,0.667,0.667,0.875,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B350,Stroud Playground,Jointly Operated Playground,B,1.194,B350,-1,-1,-1,-1,-1,-1,16,38,-1,-1,-1,-1,1,17,25,-1,0.333,0.333,0.667,1.0,0.0,0.25,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B352,Curtis Playground,Playground,B,1.003,B352,129,102,136,106,144,106,-1,-1,60,98,-1,-1,5,102,17,42,0.0,0.667,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B353,Bergen Beach Playground,Jointly Operated Playground,B,0.927,B353,127,101,134,105,142,105,47,103,59,97,-1,-1,5,108,17,40,0.0,0.333,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B356,North Pacific Playground,Playground,B,0.155,B356,-1,-1,-1,-1,-1,-1,4,12,-1,-1,-1,-1,6,-1,-1,-1,0.75,0.333,1.0,1.0,0.0,0.75,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B357,Jackie Robinson Playground,Jointly Operated Playground,B,1.0,B357,3,9,31,41,37,35,-1,-1,49,88,-1,-1,1,13,26,61,0.0,0.667,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,unstable,2,1,grouped in ≥2
+B358,De Hostos Playground,Jointly Operated Playground,B,1.1,B358,63,68,62,69,140,104,35,82,21,35,-1,-1,3,49,52,117,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B359,Eleanor Roosevelt Playground,Jointly Operated Playground,B,1.211,B359,27,39,2,10,51,48,19,53,55,93,-1,-1,3,53,14,23,0.125,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B360,Remsen Playground,Jointly Operated Playground,B,1.333,B360,98,-1,105,-1,100,-1,-1,-1,42,-1,-1,-1,5,-1,17,-1,0.0,0.667,0.333,1.0,0.0,0.0,beyond walk limit,beyond walk limit,robust isolated,unstable,0,1,definition-specific
+B361,Boerum Park,Jointly Operated Playground,B,0.918,B361,-1,-1,-1,-1,-1,-1,46,102,-1,-1,-1,-1,6,122,-1,-1,0.75,0.0,1.0,1.0,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B362,Chester Playground,Jointly Operated Playground,B,1.0,B362,35,45,37,46,3,4,2,8,6,13,-1,-1,4,65,45,106,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B363,Houston Playground,Jointly Operated Playground,B,0.918,B363,37,47,40,48,2,1,1,5,5,11,-1,-1,4,78,61,135,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B364,Woods Playground,Jointly Operated Playground,B,1.438,B364,2,4,30,36,34,31,11,31,14,23,-1,-1,1,8,25,58,0.0,0.0,0.0,0.812,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B366,Duke Park,Playground,B,0.137,B366,45,54,47,56,20,19,23,62,1,1,-1,-1,4,80,55,126,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B367,Livonia Park,Neighborhood Park,B,0.918,B367,37,49,41,50,6,7,25,66,4,9,-1,-1,4,61,61,137,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B369,Steeplechase Park,Community Park,B,10.01,B369,86,-1,86,-1,75,-1,12,33,30,-1,-1,-1,5,90,48,113,0.0,0.333,0.333,0.625,0.0,0.0,beyond walk limit,beyond walk limit,unstable,grouped,0,0,definition-specific
+B371,Spring Creek Park,Community Park,B,42.583,B371,97,88,104,92,99,87,28,73,42,81,-1,-1,4,81,21,50,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B372,Friends Field,Community Park,B,6.7,B372,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,38,-1,0.333,0.667,0.667,0.875,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B375,Chiarantano Playground,Jointly Operated Playground,B,0.206,B375,114,99,121,103,127,102,45,101,58,96,-1,-1,5,103,19,47,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B376,Fidler-Wyckoff House Park,Historic House Park,B,1.13,B376,-1,-1,-1,-1,-1,-1,44,100,57,95,-1,-1,5,101,17,43,0.25,0.0,0.222,1.0,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B377,Floyd Patterson Ballfields,Recreational Field/Courts,B,2.3,B377,37,49,41,50,6,7,25,66,4,9,-1,-1,4,61,61,137,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B378,University Place,Triangle/Plaza,B,1.161,B378,23,28,8,-1,47,44,4,12,17,31,-1,-1,3,31,6,7,0.0,0.333,0.0,1.0,0.0,0.5,beyond walk limit,grouped,robust isolated,grouped,1,1,definition-specific
+B379,Coney Island Creek Park,Nature Area,B,8.892,B379,-1,-1,-1,-1,-1,-1,12,-1,-1,-1,-1,-1,-1,-1,-1,-1,0.875,0.333,1.0,1.0,1.0,1.0,robust isolated,robust isolated,robust isolated,beyond walk limit,0,3,isolated in all
+B380,Robert E. Venable Park,Neighborhood Park,B,2.939,B380,-1,-1,-1,-1,-1,-1,43,99,-1,-1,-1,-1,4,77,54,-1,0.25,0.333,0.667,0.625,0.0,0.5,unstable,unstable,unstable,grouped,0,0,definition-specific
+B381,Thomas Boyland Park,Neighborhood Park,B,1.82,B381,12,16,17,28,25,23,10,28,16,29,-1,-1,3,37,15,32,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B382A,Roberto Clemente Ballfield,Recreational Field/Courts,B,1.93,B382A,55,67,91,80,88,77,39,94,23,38,-1,-1,2,20,43,96,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B382B,Jacob's Ladder Playground,Neighborhood Park,B,1.085,B382B,55,67,91,80,88,77,39,94,19,-1,-1,-1,3,43,43,96,0.0,0.0,0.0,1.0,0.0,0.0,grouped,beyond walk limit,robust isolated,grouped,1,1,definition-specific
+B383,Success Garden,Neighborhood Park,B,0.918,B383,45,-1,51,-1,12,-1,25,65,3,-1,-1,-1,4,60,54,122,0.0,0.333,0.0,0.75,0.0,0.0,beyond walk limit,beyond walk limit,unstable,grouped,0,0,definition-specific
+B384,Fresh Creek Nature Preserve,Nature Area,B,77.044,B384,98,91,105,95,100,90,42,97,42,78,-1,-1,5,93,17,39,0.333,0.0,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B385,WNYC Transmitter Park,Neighborhood Park,B,6.611,B385,-1,-1,-1,-1,-1,-1,7,20,-1,-1,-1,-1,-1,-1,44,99,0.75,0.333,1.0,1.0,1.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B386,Ten Eyck Plaza,Playground,B,0.46,B386,52,63,61,67,61,64,35,83,22,36,-1,-1,2,24,44,102,0.25,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B387,Hilltop Playground,Jointly Operated Playground,B,1.095,B387,2,8,27,34,31,27,1,3,9,17,-1,-1,1,0,24,54,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B388,Gateway Triangle,Triangle/Plaza,B,0.07,B388,23,25,8,14,47,45,4,13,17,33,-1,-1,3,33,6,14,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B389,Umma Park,Playground,B,0.111,B389,108,96,115,100,121,99,38,-1,56,-1,-1,-1,5,99,40,90,0.0,0.333,0.0,0.875,0.0,0.0,grouped,beyond walk limit,robust isolated,beyond walk limit,1,1,definition-specific
+B390,Mother Cabrini Park,Playground,B,0.467,B390,91,82,97,85,92,81,26,69,36,67,-1,-1,6,116,12,18,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B391,Lt. Federico Narvaez Tot Lot,Playground,B,0.125,B391,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,40,-1,0.333,1.0,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,robust isolated,0,1,definition-specific
+B392,Lott Park,Triangle/Plaza,B,0.06,B392,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,-1,-1,0.833,1.0,1.0,1.0,0.5,0.5,robust isolated,robust isolated,robust isolated,robust isolated,0,3,isolated in all
+B393,Sheepshead Bay Piers,Waterfront Facility,B,1.22,B393,-1,-1,-1,-1,-1,-1,41,96,-1,-1,-1,-1,5,87,36,78,0.25,0.0,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B394,Four Sparrow Marsh,Nature Area,B,64.665,B394,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0.0,0.0,0.0,0.0,0.0,1.0,unstable,unstable,unstable,unstable,0,0,definition-specific
+B395,Green Central Knoll,Neighborhood Park,B,2.741,B395,22,21,14,20,41,38,18,43,40,74,-1,-1,3,50,5,4,0.0,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B396,Nehemiah Park,Playground,B,1.648,B396,37,49,41,50,6,7,25,66,4,9,-1,-1,4,61,61,137,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B397,Carter G. Woodson Children's Park,Community Park,B,0.918,B397,35,46,37,45,1,0,1,5,6,13,-1,-1,4,79,45,105,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B398,Kosciuszko Street Garden,Garden,B,0.185,B398,27,39,2,10,51,48,19,53,55,93,-1,-1,3,53,14,23,0.125,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B399,Gardens Of Union,Garden,B,0.203,B399,-1,-1,-1,-1,-1,-1,40,95,-1,-1,-1,-1,6,126,11,15,0.417,0.333,0.667,0.75,0.0,0.5,unstable,unstable,unstable,grouped,0,0,definition-specific
+B400,Hattie Carthan Community Garden,Garden,B,0.809,B400,26,38,1,9,59,59,19,47,33,61,-1,-1,3,45,14,25,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B401,Grand Ferry Park,Neighborhood Park,B,1.7,B401,96,87,103,91,98,86,7,21,41,77,-1,-1,2,21,43,97,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B402,George Walker Jr. Park,Neighborhood Park,B,0.591,B402,45,-1,47,-1,20,-1,-1,-1,1,-1,-1,-1,4,-1,-1,-1,0.0,0.667,0.333,0.875,0.0,0.75,beyond walk limit,beyond walk limit,robust isolated,unstable,0,1,definition-specific
+B403,Harmony Park,Neighborhood Park,B,1.56,B403,2,5,30,36,34,30,11,31,14,23,-1,-1,1,7,24,53,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B404,East Flatbush Children's Playground,Playground,B,0.106,B404,1,0,26,31,117,95,1,-1,54,92,169,17,5,98,64,142,0.375,0.0,0.333,0.5,0.0,0.0,grouped,grouped,grouped,beyond walk limit,3,0,grouped in all
+B405,Epiphany Playground,Playground,B,0.5,B405,55,67,91,80,88,77,39,94,23,38,-1,-1,2,20,43,96,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B407,South Oxford Park,Neighborhood Park,B,1.187,B407,-1,-1,-1,-1,-1,-1,4,13,17,33,-1,-1,1,-1,-1,-1,0.25,0.0,0.0,1.0,0.5,1.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B408,Human Compass Garden,Garden,B,0.073,B408,90,81,96,84,90,78,26,69,36,67,-1,-1,6,116,12,18,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B409,The Amazing Garden,Garden,B,0.103,B409,90,81,96,84,90,78,26,69,36,67,-1,-1,6,116,12,18,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B410,The Backyard,Garden,B,0.225,B410,91,82,97,85,92,81,26,69,36,67,-1,-1,6,116,12,18,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B411,Summit Street Community Garden,Garden,B,0.103,B411,90,81,96,84,90,78,26,69,36,67,-1,-1,6,116,12,18,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B413,Hull Street Garden,Garden,B,0.32,B413,12,16,17,28,25,23,10,28,16,29,-1,-1,3,37,47,109,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B414,E 4th Street Garden,Garden,B,0.184,B414,-1,-1,-1,-1,-1,-1,38,93,-1,-1,-1,-1,6,136,33,74,0.5,0.0,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B415,Georgia Ave Garden,Garden,B,0.037,B415,37,48,41,49,6,6,25,65,4,7,-1,-1,4,60,54,122,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B416,TLC Sculpture Park Garden,Garden,B,0.172,B416,37,47,40,48,2,1,1,5,5,11,-1,-1,4,78,61,135,0.0,0.333,0.0,0.625,0.0,0.5,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B417,PS 4K PARADISE GARDEN,Garden,B,0.3,B417,45,58,51,61,11,10,22,61,3,3,-1,-1,4,70,54,123,0.0,0.0,0.0,0.812,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B418,Valentino Pier,Neighborhood Park,B,4.525,B418,-1,-1,-1,-1,-1,-1,-1,-1,53,91,-1,-1,6,115,12,19,0.5,0.667,0.333,1.0,0.0,0.0,unstable,grouped,robust isolated,unstable,1,1,definition-specific
+B419,Sutter Ballfields,Recreational Field/Courts,B,1.836,B419,45,59,51,61,12,12,22,60,3,3,-1,-1,4,69,54,123,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B420,Umoja Garden,Garden,B,0.206,B420,21,19,13,18,56,52,20,58,34,62,-1,-1,3,41,15,34,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B421,Brooklyn Bears Carlton Av Garden,Garden,B,0.14,B421,23,25,8,14,47,45,4,13,17,33,-1,-1,3,33,6,14,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B422,Bkln Bears Rockwell Pl Garden,Garden,B,0.082,B422,23,28,9,17,47,44,4,12,17,31,-1,-1,3,31,6,7,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B423,Project Roots,Garden,B,0.172,B423,-1,-1,-1,-1,-1,-1,35,82,-1,-1,-1,-1,3,49,-1,-1,0.583,0.0,1.0,1.0,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B424,Earth Spirit Garden,Garden,B,0.23,B424,-1,-1,-1,-1,-1,-1,5,16,-1,-1,-1,-1,-1,-1,43,94,0.75,0.333,1.0,1.0,1.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B425,St Nicholas-olive St Garden,Garden,B,0.089,B425,52,62,61,66,61,63,32,79,44,84,-1,-1,2,29,44,101,0.125,0.0,0.0,1.0,0.5,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B426,St Nicholas-powers St Garden,Garden,B,0.115,B426,-1,-1,-1,-1,-1,-1,32,79,-1,-1,-1,-1,2,29,-1,-1,0.75,0.0,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B427,Sunshine Community Garden,Garden,B,0.115,B427,-1,-1,-1,-1,-1,-1,18,42,-1,-1,-1,-1,2,23,-1,-1,0.75,0.333,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B428,Goodwin Gardens,Garden,B,0.348,B428,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,41,-1,-1,0.75,0.667,1.0,0.875,0.5,1.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B429,Hope Ballfield,Neighborhood Park,B,1.363,B429,22,23,14,22,41,40,10,25,40,76,-1,-1,3,35,5,6,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B430,Lewis Playground,Playground,B,0.161,B430,26,33,1,4,59,-1,19,54,33,56,-1,-1,3,54,52,119,0.0,0.333,0.0,0.812,0.0,0.5,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B431,Brooklyn Bridge Park,Community Park,B,21.377,B431,93,86,99,86,94,83,37,90,37,69,-1,-1,6,127,59,132,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B432,American Veterans Memorial Pier,Waterfront Facility,B,3.169,B432,-1,-1,-1,-1,-1,-1,36,85,-1,-1,-1,-1,6,133,29,64,0.5,0.0,0.556,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B433,Hendrick I. Lott House,Historic House Park,B,0.734,B433,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,17,-1,0.833,1.0,1.0,1.0,0.5,0.25,robust isolated,robust isolated,robust isolated,robust isolated,0,3,isolated in all
+B435,Tilyou Playground,Playground,B,0.299,B435,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,48,-1,0.583,0.667,0.778,1.0,0.0,0.0,unstable,unstable,robust isolated,unstable,0,1,definition-specific
+B436,Gethsemane Garden,Garden,B,0.045,B436,37,50,41,51,6,8,25,67,4,8,-1,-1,4,62,61,136,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B438,700 Decatur St Block Association,Garden,B,0.115,B438,11,12,15,23,80,73,10,26,10,18,8,-1,1,4,4,2,0.0,0.0,0.0,0.312,0.0,0.0,grouped,grouped,beyond walk limit,grouped,2,0,grouped in ≥2
+B439,All People's Church of the Apostolic Faith Community Garden,Garden,B,0.064,B439,26,34,1,5,59,60,19,52,33,57,-1,-1,3,44,52,120,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B440,Amboy Neighborhood Center,Garden,B,0.391,B440,35,44,37,46,3,3,2,8,6,12,-1,-1,4,65,45,106,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B441,American Heart,Garden,B,0.05,B441,102,92,109,96,104,91,19,52,46,85,-1,-1,3,44,62,139,0.333,0.0,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B442,Ps 149 Artsy Bloom Community Garden,Garden,B,0.056,B442,45,54,51,58,12,-1,23,62,3,6,-1,-1,4,80,54,-1,0.0,0.0,0.0,0.562,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B443,Atkins Gardeners,Garden,B,0.068,B443,45,56,49,57,18,16,31,77,50,90,-1,-1,4,75,55,129,0.0,0.0,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B444,Berry Street Garden,Garden,B,0.137,B444,-1,-1,-1,-1,-1,-1,5,15,23,-1,-1,-1,2,21,43,97,0.25,0.0,0.333,1.0,0.0,0.0,unstable,beyond walk limit,robust isolated,grouped,0,1,definition-specific
+B445,Ten Eyck Houses Garden,Garden,B,0.114,B445,-1,-1,-1,-1,-1,-1,35,83,-1,-1,-1,-1,2,24,-1,-1,0.75,0.0,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B446,Big Red Garden,Garden,B,0.043,B446,45,53,51,58,17,15,23,63,1,1,-1,-1,4,72,55,126,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B447,Causa Festival Garden,Garden,B,0.206,B447,45,53,51,58,17,15,23,63,1,1,-1,-1,4,72,55,126,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B448,Cedar Tree Garden,Garden,B,0.177,B448,26,32,1,3,57,55,19,48,33,55,-1,-1,3,47,14,28,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B449,New Vision Garden,Garden,B,0.321,B449,45,53,51,59,12,13,23,63,3,5,-1,-1,4,72,54,125,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B450,Clara's Garden,Garden,B,0.129,B450,45,59,51,61,11,10,22,61,3,3,-1,-1,4,69,54,123,0.0,0.0,0.0,0.562,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B451,Clifton Pl Memorial Park and Garden,Garden,B,0.165,B451,26,32,1,3,59,57,19,49,33,55,72,9,3,45,14,28,0.0,0.0,0.0,0.25,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B452,Concerned Residents of Barbey Street,Garden,B,0.052,B452,45,59,51,61,11,10,22,61,3,3,124,13,4,69,54,123,0.0,0.0,0.0,0.375,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B453,Concerned Residents of Montauk Avenue,Garden,B,0.091,B453,45,56,47,55,20,18,31,77,1,0,109,11,4,75,55,129,0.0,0.0,0.0,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B454,Cooper St Block Buster Bl Association,Garden,B,0.16,B454,-1,-1,-1,-1,-1,-1,10,26,-1,-1,-1,-1,3,36,-1,-1,0.75,0.333,0.889,1.0,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B455,Crystal Wells Block Association,Garden,B,0.344,B455,45,55,53,62,11,11,31,78,2,2,-1,-1,4,73,63,140,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B456,Walt L Shemal Garden,Garden,B,0.149,B456,-1,-1,-1,-1,-1,-1,34,81,-1,-1,-1,-1,1,11,23,-1,0.417,0.0,1.0,0.875,0.0,0.5,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B458,East End Community Garden,Garden,B,0.161,B458,45,59,51,61,11,10,22,61,3,3,-1,-1,4,69,55,127,0.0,0.0,0.0,0.688,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B459,Eastern Parkway Coalition,Garden,B,0.44,B459,3,9,31,41,37,35,16,37,49,88,-1,-1,1,13,26,61,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B460,Elton St Block Association,Garden,B,0.097,B460,-1,-1,-1,-1,-1,-1,17,41,48,87,152,15,4,71,54,124,0.167,0.333,0.0,0.25,0.0,0.0,unstable,grouped,grouped,grouped,2,0,grouped in ≥2
+B461,Euclid Garden,Garden,B,0.181,B461,-1,-1,-1,-1,-1,-1,33,80,47,86,-1,-1,4,74,63,141,0.25,0.333,0.0,1.0,0.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B462,Family Community Garden,Garden,B,0.275,B462,-1,-1,-1,-1,-1,-1,17,41,-1,-1,-1,-1,4,71,-1,-1,0.5,0.333,1.0,0.875,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B463,Fantasy Garden,Garden,B,0.23,B463,35,44,37,44,3,3,2,6,6,12,-1,-1,4,67,45,107,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B464,Farmers Garden,Garden,B,0.154,B464,2,8,27,34,31,27,1,3,9,17,-1,-1,1,0,24,54,0.0,0.0,0.333,1.0,0.0,0.5,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B465,First Quincy St Block Association,Garden,B,0.13,B465,-1,-1,-1,-1,-1,-1,19,51,-1,-1,103,-1,3,55,24,-1,0.25,0.333,0.667,0.0,0.0,0.0,unstable,unstable,beyond walk limit,grouped,0,0,definition-specific
+B466,First Temple Of David,Garden,B,0.049,B466,-1,-1,-1,-1,-1,-1,23,63,-1,-1,-1,-1,4,72,55,126,0.167,0.0,0.667,1.0,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B467,Floral Vineyard,Garden,B,0.107,B467,45,58,47,54,20,17,22,61,1,-1,-1,-1,4,70,55,127,0.0,0.0,0.0,1.0,0.0,0.0,grouped,beyond walk limit,robust isolated,grouped,1,1,definition-specific
+B468,Escape To Nature,Garden,B,0.032,B468,45,59,51,61,11,10,22,61,3,3,-1,-1,4,69,54,123,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B469,Good Shepherds Garden,Garden,B,0.114,B469,-1,-1,-1,-1,-1,-1,17,41,-1,-1,-1,-1,4,75,-1,-1,0.75,0.333,1.0,1.0,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B470,Granite St Block Association,Garden,B,0.172,B470,-1,-1,-1,-1,-1,-1,10,28,-1,-1,-1,-1,-1,-1,-1,-1,0.75,0.0,1.0,1.0,1.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B471,Green Gems,Garden,B,0.539,B471,45,55,53,62,11,11,31,78,2,2,-1,-1,4,73,63,140,0.0,0.0,0.0,0.812,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B472,Greene Av United Neighbors Association *,Garden,B,0.046,B472,26,38,1,9,57,55,19,47,33,61,-1,-1,3,45,14,25,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B473,Hancock T and T,Garden,B,0.081,B473,-1,-1,-1,-1,-1,-1,19,50,-1,-1,-1,-1,3,56,14,-1,0.25,0.0,0.667,0.812,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B474,Hart to Hart,Garden,B,0.332,B474,102,92,109,96,104,91,19,52,46,85,-1,-1,3,44,62,139,0.333,0.0,0.333,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B475,Herbal Garden of East NY,Garden,B,0.248,B475,45,59,51,61,11,10,22,61,3,3,-1,-1,4,69,54,123,0.0,0.0,0.0,0.562,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B476,Sh'ma Yisrael,Garden,B,0.145,B476,2,8,27,34,31,27,1,3,9,17,5,-1,1,0,24,54,0.0,0.0,0.0,0.0,0.0,0.0,grouped,grouped,beyond walk limit,grouped,2,0,grouped in ≥2
+B477,Jerome Gardens,Garden,B,0.036,B477,45,57,51,60,12,12,22,60,3,6,-1,-1,4,72,54,124,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B478,Jerry and The Senior Gents,Garden,B,0.057,B478,45,59,51,61,12,12,22,60,3,3,-1,-1,4,69,54,123,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B479,Lefferts Pl Block Association,Garden,B,0.068,B479,32,41,7,12,44,41,16,40,31,50,48,5,3,59,50,115,0.25,0.0,0.333,0.375,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B480,Lincoln Rd Block Association,Garden,B,0.065,B480,-1,-1,-1,-1,-1,-1,14,35,-1,-1,-1,-1,1,15,25,-1,0.292,0.333,0.667,0.938,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B481,Madison Square Garden Association,Garden,B,0.165,B481,22,22,14,21,-1,-1,10,24,40,75,-1,-1,3,34,5,5,0.375,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B482,Madison Street Block Association,Garden,B,0.08,B482,26,36,1,7,57,54,16,39,33,59,-1,-1,3,58,15,29,0.0,0.333,0.0,0.625,0.0,0.25,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B483,Manley's Pl,Garden,B,0.28,B483,45,56,47,55,20,18,31,77,1,0,-1,-1,4,75,55,129,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B484,Gregory's Garden,Garden,B,0.119,B484,40,52,46,53,16,14,22,61,32,51,49,6,4,70,51,116,0.25,0.0,0.333,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B485,Ps 53,Garden,B,0.061,B485,45,53,51,59,17,15,23,63,1,1,-1,-1,4,72,55,126,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B486,Green Valley Garden,Garden,B,0.19,B486,37,51,41,52,6,9,25,68,4,10,-1,-1,4,63,61,138,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B487,Preston Community Garden,Garden,B,0.058,B487,2,6,27,32,31,25,1,1,9,14,-1,-1,1,1,24,56,0.0,0.0,0.333,0.812,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B488,Red Gate Garden,Garden,B,0.104,B488,26,34,1,5,59,60,19,52,33,57,-1,-1,3,44,14,24,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B489,Red Shed Garden,Garden,B,0.123,B489,52,62,61,66,61,63,32,79,44,84,-1,-1,2,29,44,101,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B490,Santos White Garden,Garden,B,0.141,B490,-1,-1,-1,-1,-1,-1,12,33,-1,-1,-1,-1,5,90,48,113,0.5,0.333,1.0,1.0,0.5,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B491,Shield Of Faith,Garden,B,0.172,B491,45,55,47,55,20,18,31,78,1,0,109,11,4,73,55,129,0.0,0.333,0.0,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B492,St John Cantius Parish,Garden,B,0.183,B492,45,54,47,56,20,19,23,62,1,1,-1,-1,4,80,55,126,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B493,Upon This Rock Comm Garden,Garden,B,0.081,B493,45,56,47,55,20,18,31,77,1,0,-1,-1,4,75,55,129,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B494,Vernon Tandt Block Association,Garden,B,0.152,B494,26,34,1,5,58,56,19,52,33,57,24,3,3,44,52,120,0.0,0.0,0.0,0.125,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B495,Vernon/throop Av Block Association,Garden,B,0.039,B495,26,34,1,5,58,56,19,54,33,57,24,3,3,54,52,120,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B496,Victory Garden,Garden,B,0.046,B496,45,53,51,59,12,13,23,63,3,5,-1,-1,4,72,54,125,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B498,Louis Pl Friends,Garden,B,0.041,B498,-1,-1,-1,-1,-1,-1,1,3,-1,-1,-1,-1,1,3,47,110,0.792,0.333,1.0,1.0,0.5,0.5,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B499,Madison Community Greenthumb,Garden,B,0.057,B499,21,19,13,18,56,52,20,58,34,62,-1,-1,3,41,15,34,0.0,0.333,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B500,Patrick Van Doren Pocket Park,Garden,B,0.039,B500,-1,-1,-1,-1,-1,-1,20,56,-1,-1,103,-1,3,40,24,-1,0.25,0.333,0.667,0.375,0.0,0.0,unstable,unstable,beyond walk limit,grouped,0,0,definition-specific
+B501,St Mark's Block Association,Garden,B,0.211,B501,2,6,30,37,32,28,1,1,9,14,11,-1,1,1,25,57,0.0,0.0,0.0,0.375,0.0,0.0,grouped,grouped,beyond walk limit,grouped,2,0,grouped in ≥2
+B502,Shiloh Garden,Garden,B,0.074,B502,26,37,1,8,57,53,19,51,33,60,62,-1,3,55,-1,-1,0.0,0.0,0.333,0.5,0.0,0.75,grouped,grouped,beyond walk limit,grouped,2,0,grouped in ≥2
+B503,Stars Of Hope,Garden,B,0.033,B503,26,36,1,7,57,54,16,39,33,59,-1,-1,3,58,15,29,0.0,0.333,0.0,0.688,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B504,Ponderosa Garden,Garden,B,0.191,B504,-1,-1,-1,-1,-1,-1,30,76,-1,-1,-1,-1,5,92,17,38,0.75,0.333,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B505,Sterling Community Group,Garden,B,0.116,B505,2,6,30,37,32,28,1,1,9,14,-1,-1,1,1,25,57,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B506,Prophecy Garden,Garden,B,0.091,B506,-1,-1,-1,-1,-1,-1,25,65,-1,-1,-1,-1,-1,-1,-1,-1,0.75,0.0,1.0,1.0,1.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B507,A Better Community Garden,Garden,B,0.189,B507,13,17,18,29,24,20,11,30,43,83,-1,-1,1,8,47,108,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B508,Vernon Cases Community Garden,Garden,B,0.165,B508,26,34,1,5,58,56,19,52,33,57,24,3,3,44,52,120,0.0,0.333,0.0,0.125,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B509,Jordan Magic Garden,Garden,B,0.164,B509,45,59,51,61,17,15,22,60,1,1,-1,-1,4,69,55,127,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B510,Marcus Garvey Tenant's Assoc. Garden,Garden,B,0.23,B510,35,43,37,43,3,2,1,0,7,-1,-1,-1,4,66,-1,-1,0.0,0.0,0.333,1.0,0.0,1.0,grouped,beyond walk limit,robust isolated,grouped,1,1,definition-specific
+B511,Jes Good Rewards Childeren's Garden,Garden,B,0.213,B511,35,45,37,46,1,0,2,8,6,13,-1,-1,4,65,45,106,0.0,0.0,0.0,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B512,Hoparkinson R&L Block Association Garden,Garden,B,0.104,B512,-1,-1,-1,-1,-1,-1,2,7,4,8,-1,-1,4,65,61,136,0.25,0.0,0.333,0.875,0.0,0.5,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B513,United Community Centers Youth Farm,Garden,B,0.138,B513,37,50,41,51,6,8,25,67,4,8,-1,-1,4,62,61,136,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B514,Nehemiah Ten Garden,Garden,B,0.275,B514,45,57,51,60,12,12,23,63,3,6,114,12,4,72,54,124,0.0,0.0,0.0,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B515,United Community Center,Garden,B,0.525,B515,45,53,51,59,12,13,23,63,3,5,-1,-1,4,72,54,125,0.0,0.0,0.0,0.5,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B516,Powell Street Livonia Garden,Garden,B,0.459,B516,37,49,41,50,6,7,25,66,4,9,-1,-1,4,61,61,137,0.0,0.0,0.0,0.812,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B517,Phoenix Community Garden,Garden,B,0.475,B517,12,15,17,27,25,22,10,27,16,28,-1,-1,1,4,47,110,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B518,Victory Garden's Group,Garden,B,0.058,B518,-1,-1,-1,-1,-1,-1,20,56,-1,-1,-1,-1,3,40,-1,-1,0.583,0.333,1.0,1.0,0.0,0.75,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B519,Spencer St Block Association,Garden,B,0.043,B519,-1,-1,-1,-1,-1,-1,19,49,-1,-1,-1,-1,3,45,-1,-1,0.75,0.333,1.0,1.0,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B521,Oriental Garden,Garden,B,0.191,B521,45,59,51,61,12,12,22,61,3,3,114,12,4,69,54,123,0.0,0.0,0.0,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B522,Jerome-Glenmore Cornerstone Community Garden,Garden,B,0.198,B522,45,59,51,61,11,10,22,61,3,3,124,13,4,69,54,123,0.0,0.0,0.0,0.375,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B525,Sumpter Community Garden,Garden,B,0.057,B525,11,13,15,24,80,74,20,57,10,19,-1,-1,1,3,4,1,0.375,0.333,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B526,Cleveland Street Vegetable Garden,Garden,B,0.09,B526,45,58,47,54,20,17,22,61,3,3,-1,-1,4,70,54,123,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B527,Hands and Heart Garden,Garden,B,0.614,B527,37,48,41,49,6,6,25,65,4,7,-1,-1,4,60,54,122,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B528,Howard Av Block Association,Garden,B,0.219,B528,-1,-1,-1,-1,-1,-1,2,6,-1,-1,-1,-1,4,67,-1,-1,0.5,0.0,0.778,1.0,0.0,0.75,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B529,Bushwick Inlet Park,Neighborhood Park,B,35.533,B529,52,-1,61,-1,61,-1,7,21,25,40,-1,-1,2,19,44,98,0.0,0.0,0.0,1.0,0.0,0.0,beyond walk limit,grouped,robust isolated,grouped,1,1,definition-specific
+B530,Seasons of Vision,Garden,B,0.083,B530,-1,-1,-1,-1,-1,-1,11,30,-1,-1,-1,-1,1,8,25,-1,0.25,0.0,0.667,0.875,0.0,0.0,unstable,unstable,robust isolated,grouped,0,1,definition-specific
+B531,Garden of Plenty,Garden,B,0.062,B531,2,5,30,36,34,30,11,30,15,26,136,14,1,8,24,52,0.0,0.0,0.333,0.25,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B532,F.A.R.R. Community Garden,Garden,B,0.028,B532,13,17,18,29,24,20,11,30,43,83,-1,-1,1,8,47,108,0.0,0.0,0.0,0.688,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B533,Abib Newborn Garden,Garden,B,0.249,B533,37,50,41,51,6,8,25,67,4,8,-1,-1,4,62,61,136,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B535,400 Montauk Av Block Assn,Garden,B,0.092,B535,45,56,49,57,18,16,29,75,1,-1,-1,-1,4,75,55,128,0.083,0.0,0.333,0.688,0.0,0.0,grouped,beyond walk limit,unstable,grouped,1,0,definition-specific
+B536,North 5th Street Pier and Park,Waterfront Facility,B,3.083,B536,-1,-1,-1,-1,-1,-1,7,21,-1,-1,-1,-1,2,19,-1,-1,0.75,0.0,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B537,Park,Triangle/Plaza,B,0.013,B537,23,24,9,16,46,43,16,40,17,30,-1,-1,3,59,6,13,0.0,0.0,0.0,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B538,Welcome Home Garden,Garden,B,0.059,B538,12,14,17,26,25,21,20,58,16,27,68,8,3,39,15,33,0.0,0.0,0.0,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B540,Neighborhood Community Garden,Garden,B,0.073,B540,2,3,30,36,34,31,11,31,14,23,11,-1,1,7,25,58,0.083,0.0,0.0,0.375,0.0,0.0,grouped,grouped,beyond walk limit,grouped,2,0,grouped in ≥2
+B541,Berriman Playground,Playground,B,0.959,B541,97,89,104,93,99,88,28,74,42,82,102,10,4,82,21,51,0.0,0.333,0.0,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B543,East New York Farms Garden,Garden,B,0.101,B543,45,53,51,59,12,13,23,63,3,5,-1,-1,4,72,54,125,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B544,100 Quincy Street Community Garden,Garden,B,0.052,B544,-1,-1,-1,-1,-1,-1,19,48,-1,-1,103,-1,3,47,24,-1,0.375,0.333,0.667,0.0,0.0,0.0,unstable,unstable,beyond walk limit,grouped,0,0,definition-specific
+B545,Oko Farms Aquaponics Education Garden,Garden,B,0.057,B545,-1,-1,-1,-1,-1,-1,18,42,-1,-1,-1,-1,3,50,-1,-1,0.75,0.333,1.0,1.0,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B546,The Feeding Tree,Garden,B,0.039,B546,26,37,1,8,59,58,19,51,33,60,-1,-1,3,55,15,30,0.0,0.0,0.0,0.688,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B548,Park,Neighborhood Park,B,1.351,B548,97,89,104,93,99,88,28,74,42,82,102,10,4,82,21,51,0.0,0.0,0.0,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B549,Whole Neighborhood Garden,Garden,B,0.091,B549,26,32,1,3,59,57,19,49,33,55,-1,-1,3,45,14,28,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B550,Keap Fourth Community Garden,Garden,B,0.066,B550,53,65,90,79,82,75,5,14,23,37,-1,-1,2,25,43,95,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B551,Vinegar Hill Community Garden,Garden,B,0.064,B551,-1,-1,-1,-1,-1,-1,27,71,39,72,-1,-1,6,129,60,134,0.25,0.0,0.0,1.0,0.5,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B552,Grand Street Community Garden,Garden,B,0.045,B552,96,87,103,91,98,86,5,16,41,77,-1,-1,2,22,43,94,0.0,0.333,0.333,0.75,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B553,61 Franklin Street Garden,Garden,B,0.04,B553,54,66,63,70,62,66,7,20,25,40,-1,-1,2,26,44,98,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B554,Brownsville Green,Garden,B,0.025,B554,2,6,27,32,31,25,1,1,9,15,-1,-1,1,10,24,56,0.0,0.0,0.0,0.75,0.0,0.25,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B555,Beaver Noll Park,Playground,B,0.436,B555,22,20,14,19,41,37,18,46,40,73,-1,-1,-1,-1,5,3,0.0,0.0,0.0,1.0,1.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B556,Know Waste Lands,Garden,B,0.097,B556,22,21,14,20,41,38,18,44,40,74,-1,-1,3,51,5,4,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B558,Linwood Street Garden (Pagan's Garden),Garden,B,0.082,B558,45,57,51,60,12,12,17,41,3,4,-1,-1,4,75,54,124,0.0,0.333,0.0,0.688,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B559,South Brooklyn Children's Garden,Garden,B,0.083,B559,90,81,96,84,90,78,26,69,36,67,-1,-1,6,116,12,18,0.0,0.0,0.0,1.0,0.0,0.5,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B560,Pirate's Cove Garden,Garden,B,0.032,B560,90,81,96,84,90,78,26,69,36,67,-1,-1,6,116,12,18,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B561,Saratoga Farm,Garden,B,0.181,B561,12,15,17,27,25,22,10,27,16,28,-1,-1,1,4,47,110,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B562,Surfside Multi-Cultural Garden Coalition,Garden,B,0.687,B562,86,77,86,78,75,71,15,36,30,49,-1,-1,5,91,48,114,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B563,Student Farm Project,Garden,B,0.172,B563,35,45,37,46,1,0,2,8,6,13,-1,-1,4,65,45,106,0.0,0.0,0.0,0.812,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B564,Positive Seeds of Life Garden,Garden,B,0.11,B564,34,42,39,47,5,5,25,65,35,63,-1,-1,4,60,58,130,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B565,Isabahlia Community Garden,Garden,B,0.06,B565,35,44,37,44,3,3,2,6,6,12,-1,-1,4,67,45,107,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B566,Brownsville Community Farm,Garden,B,0.117,B566,35,44,37,44,3,3,2,6,6,12,-1,-1,4,67,45,107,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B567,Her-King Alagantic Block Association Garden,Garden,B,0.045,B567,2,1,30,38,34,33,24,64,14,21,-1,-1,1,5,25,59,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B568,Ashford Street Abundant Garden,Garden,B,0.133,B568,-1,-1,-1,-1,-1,-1,22,61,-1,-1,-1,-1,4,70,-1,-1,0.5,0.0,1.0,1.0,0.0,0.75,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B569,Chestnut Street Garden,Garden,B,0.086,B569,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,53,121,0.75,0.667,1.0,1.0,1.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B570,Dolly's Park,Garden,B,0.052,B570,-1,-1,-1,-1,-1,-1,21,59,-1,-1,-1,-1,6,124,-1,-1,0.75,0.333,1.0,1.0,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B571,East 43rd Street Community Garden,Garden,B,0.091,B571,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,17,37,0.75,0.667,1.0,1.0,1.0,0.0,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2
+B572,Hattie Carthan Herban Farm,Garden,B,0.137,B572,26,38,1,9,59,59,19,51,33,61,72,9,3,55,14,25,0.0,0.0,0.0,0.25,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B573,Patchen Community Square Garden,Garden,B,0.104,B573,21,19,13,18,56,52,20,56,34,62,-1,-1,3,40,15,34,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B574,Halsey Ralph & Howard Community Garden,Garden,B,0.065,B574,12,14,17,26,25,21,20,58,16,27,68,8,3,39,15,33,0.0,0.0,0.0,0.25,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B575,Halsey Garden,Garden,B,0.121,B575,26,35,1,6,59,-1,-1,-1,33,58,68,-1,3,56,15,31,0.0,0.667,0.333,0.0,0.0,0.0,grouped,grouped,beyond walk limit,unstable,2,0,grouped in ≥2
+B576,Tranquility Farm (Willoughby Ave. Garden),Garden,B,0.123,B576,26,34,1,5,59,60,19,54,33,57,-1,-1,3,54,52,120,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B577,EL Garden,Garden,B,0.114,B577,-1,-1,-1,-1,-1,-1,18,44,-1,-1,-1,-1,3,51,-1,-1,0.75,0.333,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B578,Saratoga Blake Garden,Garden,B,0.103,B578,35,44,37,44,3,3,2,6,6,12,-1,-1,4,67,45,107,0.0,0.0,0.0,0.875,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B579,Imani II Community Garden,Garden,B,0.069,B579,2,5,29,35,34,30,11,31,14,23,5,0,1,7,24,53,0.0,0.0,0.0,0.25,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B580,Java Street Community Garden,Garden,B,0.063,B580,-1,-1,-1,-1,-1,-1,7,20,-1,-1,-1,-1,-1,-1,44,99,0.75,0.333,1.0,1.0,1.0,0.5,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B581,Warwick Street Greenery Glow Garden,Garden,B,0.041,B581,40,52,46,53,16,14,17,41,32,51,49,6,4,72,51,116,0.292,0.333,0.333,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B582,Brooklyn's Finest Garden,Garden,B,0.058,B582,32,41,7,12,44,41,16,40,31,50,48,5,1,18,50,115,0.375,0.0,0.333,0.375,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B583,Hooper Grove,Garden,B,0.053,B583,53,65,90,79,82,75,5,14,23,37,-1,-1,3,42,43,95,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B584,Moffat Garden,Garden,B,0.038,B584,-1,-1,-1,-1,-1,-1,10,26,-1,-1,-1,-1,3,36,4,2,0.75,0.333,1.0,1.0,0.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B585,Prospect Plaza Park,Neighborhood Park,B,0.657,B585,-1,-1,-1,-1,-1,-1,1,0,-1,-1,-1,-1,1,1,-1,-1,0.75,0.0,1.0,1.0,0.5,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B586,Garden,Garden,B,0.091,B586,86,77,86,78,75,71,15,36,30,49,-1,-1,5,91,48,114,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B588,Greenpoint Public Park,Neighborhood Park,B,2.65,B588,-1,-1,-1,-1,-1,-1,7,20,-1,-1,-1,-1,-1,-1,44,99,0.75,0.333,1.0,1.0,1.0,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B592,Betty Carter Park,Neighborhood Park,B,0.231,B592,23,28,9,17,47,44,4,12,17,31,-1,-1,3,31,6,7,0.0,0.0,0.0,0.938,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B593,Bed-Stuy Farm,Garden,B,0.06,B593,10,11,16,25,79,72,11,29,28,47,8,1,3,38,4,0,0.125,0.333,0.333,0.062,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B594,Maple Street Community Garden,Neighborhood Park,B,1.377,B594,-1,-1,-1,-1,-1,-1,14,35,-1,-1,-1,-1,1,15,-1,-1,0.75,0.333,1.0,1.0,0.0,1.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B595,Greenpoint Landing,Neighborhood Park,B,1.486,B595,-1,-1,-1,-1,-1,-1,13,34,24,39,-1,-1,-1,-1,44,99,0.375,0.0,0.0,1.0,1.0,0.0,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B597,Kingsborough Houses Bergen Playground,Playground,B,0.322,B597,2,4,30,36,34,31,11,31,14,23,-1,-1,1,8,24,52,0.0,0.0,0.0,0.875,0.0,0.5,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B598,West 23rd St. Garden,Garden,B,1.31,B598,-1,-1,-1,-1,-1,-1,12,32,-1,-1,-1,-1,5,89,48,112,0.5,0.0,1.0,1.0,0.5,0.0,unstable,robust isolated,robust isolated,grouped,0,2,isolated in ≥2
+B599,Kingsborough Houses Pacific Playground,Playground,B,0.333,B599,2,4,29,35,34,31,11,31,14,23,5,0,1,8,24,52,0.0,0.0,0.333,0.0,0.0,0.0,grouped,grouped,grouped,grouped,3,0,grouped in all
+B600,Garden,Garden,B,0.151,B600,12,15,17,27,25,22,10,27,16,28,-1,-1,3,37,47,110,0.0,0.0,0.333,0.625,0.0,0.0,grouped,grouped,unstable,grouped,2,0,grouped in ≥2
+B601,MHBA Living Laboratory,Garden,B,0.14,B601,-1,-1,37,46,3,4,2,7,-1,-1,-1,-1,4,65,45,106,0.292,0.0,0.333,0.875,0.0,0.0,grouped,unstable,robust isolated,grouped,1,1,definition-specific
+B602,Park,Triangle/Plaza,B,0.017,B602,2,7,27,33,31,26,1,4,9,16,-1,-1,1,1,24,55,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B603,Jerzee Triangle,Triangle/Plaza,B,0.008,B603,84,75,84,76,73,69,9,23,27,46,-1,-1,5,88,35,76,0.0,0.333,0.333,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B604,Park,Triangle/Plaza,B,0.006,B604,75,72,75,73,67,67,8,22,26,44,-1,-1,6,120,31,70,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B605,Ascenzi Square,Triangle/Plaza,B,0.031,B605,-1,-1,-1,-1,-1,-1,5,16,25,42,-1,-1,2,22,44,103,0.25,0.333,0.0,1.0,0.0,0.5,unstable,grouped,robust isolated,grouped,1,1,definition-specific
+B606,Fowler Square,Triangle/Plaza,B,0.004,B606,23,28,9,17,47,44,4,12,17,31,-1,-1,3,31,6,7,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B608,St. Mark's Playground,Playground,B,0.23,B608,-1,-1,-1,-1,-1,-1,3,9,13,20,-1,-1,-1,-1,-1,-1,1.0,0.0,0.333,1.0,1.0,1.0,robust isolated,grouped,robust isolated,grouped,1,2,isolated in ≥2
+B609,Park,Triangle/Plaza,B,0.045,B609,2,7,27,33,31,26,1,4,9,16,-1,-1,1,1,24,55,0.0,0.0,0.0,1.0,0.0,0.0,grouped,grouped,robust isolated,grouped,2,1,grouped in ≥2
+B610,Park,Triangle/Plaza,B,0.032,B610,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,118,-1,-1,0.75,0.667,1.0,1.0,0.0,0.75,unstable,robust isolated,robust isolated,unstable,0,2,isolated in ≥2

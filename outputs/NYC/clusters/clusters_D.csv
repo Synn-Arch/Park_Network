@@ -1,0 +1,1133 @@
+definition,cluster_id,n_parks,is_singleton,park_ids,park_names,boroughs,park_area_acres,dominant_type,n_types,extent_km,max_walk_m,median_walk_m,internal_robust_links,link_density,median_angle_deg,share_on_main_5,share_on_main_10,nach_1600_mean,isolation_persistence_mean,ring_area_m2,overlap_other_clusters_share
+D,D-001,16,False,M088;M270;M293;M310;M311;M312;M313;M315;M324;M325;M325A;M325B;M336;M361;M370;M397,Tompkins Square Park; Dry Dock Playground; 6th St and Ave B Community Garden; Firemen's Memorial Garden; Green Oasis and Gilbert's Garden; 9th St Community Garden Park; 6BC Botanical Garden; The Creative Little Garden; Earth People; La Plaza Cultural; La Casita Garden; Flower Door Garden; De Colores Cmty Yard and Center; Lower East Side Ecology Center; Sam and Sadie Koenig Garden; 11 BC Serenity Garden,M,14.822,Garden,3,0.609,716.0,223.7,100,0.833,90.4,0.0,0.312,0.9653,0.0,339130.8,0.237
+D,D-002,15,False,B167;B167A;B168;B223OB;B223OC;B223PA;B223PB;B223PC;B223PD;B223PE;B223QA;B223QB;B223QC;B550;B583,La Guardia Playground; La Guardia Playground; Continental Army Plaza; Marcy Park South; Rodney Park South; Rodney Park Center; Rodney Park North; Strawberry Playground; Rodney Playground Center; Blue Playground; Marcy Green South; Marcy Green Center; Marcy Green North; Keap Fourth Community Garden; Hooper Grove,B,5.128,Recreational Field/Courts,5,0.646,637.9,209.3,91,0.867,88.5,0.067,0.2,1.0382,0.0,298038.8,0.015
+D,D-003,14,False,M027;M069;M098;M120A;M120B;M125A;M125B;M125C;M125D;M125E;M191;M207;M295;M395,Downing Street Playground; Vesuvio Playground; Washington Square Park; William F. Passannante Ballfield; Playground of the Americas; Minetta Green; Minetta Playground; West 4th Street Courts; Minetta Triangle; Charlton Plaza; Father Demo Square; Father Fagan Park; Mercer Playground; Fiorello La Guardia Park,M,13.519,Playground,4,0.741,752.9,318.4,59,0.648,90.4,0.5,0.929,1.0387,0.0,435152.2,0.003
+D,D-004,13,False,M033;M116;M241;M254;M334;M335;M345;M350;M357;M371;M372;M396;M408,Hamilton Fish Park; ABC Playground; Nathan Straus Playground; Gustave Hartman Square; Brisas Del Caribe; Clinton Community Garden (LES); Kenkeleba House Garden; Peachtree Garden; Los Amigos Garden; Hope Garden; Allied Productions/Le Petit Versailles; Children's Magical Garden; Siempre Verde Garden,M,6.466,Garden,5,0.505,561.4,286.5,60,0.769,98.1,0.0,0.231,1.0328,0.0,312699.2,0.255
+D,D-005,13,False,X146;X317;X337;X338;X341;X347;X349;X351;X352;X353;X354;X357;X363,Flynn Playground; Rainbow Garden; Latinos Unidos Garden; Courtlandt Avenue Association Garden; Edith Garden; Vogue Garden; Jardin de la Roca; 811 Family and Friends Garden; Family Group Garden; Yolanda García Park; P.S. 29 Ballfield; Rainbow Garden of Life and Health; Centro Cultural Rincon Criollo,X,4.478,Garden,4,0.484,506.9,231.1,71,0.91,90.6,0.0,0.154,1.0038,0.0,249274.2,0.221
+D,D-006,12,False,X114;X148B;X148B1;X148B2;X148C;X148C1;X148C3;X148C4;X148C5;X148C6;X148C7;X148D,Goble Playground; Park; Park; Park; Park; Featherbenches; Inwood Park; Townsend Walk; Jennie Jerome Playground; Walton Walk; Jerome Playground South; Walton Slope,X,2.384,Strip,5,0.533,588.7,221.9,51,0.773,91.6,0.0,0.25,0.9255,0.0,229446.4,0.182
+D,D-007,11,False,B210H;B223A;B223B;B223C;B390;B408;B409;B410;B411;B559;B560,Harold Ickes Playground; Dimattina Playground; Dimattina Playground; Park; Mother Cabrini Park; Human Compass Garden; The Amazing Garden; The Backyard; Summit Street Community Garden; South Brooklyn Children's Garden; Pirate's Cove Garden,B,4.197,Garden,4,0.589,629.2,238.0,42,0.764,89.7,0.0,0.091,0.9776,0.0,349271.6,0.002
+D,D-008,10,False,B050;B222;B223DA;B223DB;B223DC;B223DD;B223DE;B223DF;B223DK;B431,Van Voorhees Playground; Pierrepont Playground; Adam Yauch Park; Brooklyn Heights Promenade; Brooklyn Heights Promenade; Brooklyn Heights Promenade; Brooklyn Heights Promenade; Brooklyn Heights Promenade; Brooklyn Heights Promenade; Brooklyn Bridge Park,B,28.906,Triangle/Plaza,3,0.916,575.0,80.4,40,0.889,1.4,0.0,0.9,0.8518,0.0,710302.8,0.162
+D,D-009,10,False,B419;B450;B452;B458;B468;B475;B478;B509;B521;B522,Sutter Ballfields; Clara's Garden; Concerned Residents of Barbey Street; East End Community Garden; Escape To Nature; Herbal Garden of East NY; Jerry and The Senior Gents; Jordan Magic Garden; Oriental Garden; Jerome-Glenmore Cornerstone Community Garden,B,3.042,Garden,2,0.396,454.9,212.2,44,0.978,0.3,0.1,0.7,1.1747,0.0,233965.2,0.166
+D,D-010,10,False,M001;M012;M044;M172;M237;M251;M278;M287;M390;M404,Abingdon Square; Christopher Park; Jackson Square; McCarthy Square; Corporal John A. Seravalli Playground; Bleecker Playground; Jefferson Market Garden; Sheridan Square Viewing Garden; Jane Street Garden; NYC AIDS Memorial Park at St. Vincent’s Triangle,M,3.163,Triangle/Plaza,3,0.703,752.3,367.4,25,0.556,84.4,0.5,0.8,1.0149,0.0,343896.9,0.004
+D,D-011,10,False,X011#1;X011#3;X236;X266;X289;X293;X326;X334;X346;X372,Crotona Parkway Malls (1/3); Crotona Parkway Malls (3/3); Mapes Pool; Vidalia Park; Mapes Park; Garden Of Happiness; Daly Ave Garden; Mohegan Triangle; Volky Garden & Flowers; Garden of Youth,X,7.703,Garden,4,0.682,705.1,271.3,35,0.778,89.4,0.0,0.4,1.0849,0.0,342174.8,0.104
+D,D-012,9,False,B008;B440;B463;B511;B512;B565;B566;B578;B601,Betsy Head Park; Amboy Neighborhood Center; Fantasy Garden; Jes Good Rewards Childeren's Garden; Hoparkinson R&L Block Association Garden; Isabahlia Community Garden; Brownsville Community Farm; Saratoga Blake Garden; MHBA Living Laboratory,B,11.938,Garden,2,0.567,718.9,284.9,25,0.694,90.7,0.333,0.667,1.0612,0.0,317105.7,0.022
+D,D-013,9,False,B036;B223DG;B223DH;B223DI;B223DJ;B223E;B223F;B223G;B223H,Fort Stirling Park; Brooklyn Heights Promenade; Brooklyn Heights Promenade; Brooklyn Heights Promenade; Brooklyn Heights Promenade; Fruit Street Sitting Area; Squibb Park; Hillside Dog Park; Harry Chapin Playground,B,4.173,Triangle/Plaza,3,0.497,329.7,84.4,36,1.0,0.6,0.0,0.667,0.8167,0.0,179971.7,0.641
+D,D-014,9,False,M040;M041;M055;M072#1;M072#4;M095#1;M095#3;M095#5;M317,Johnny Hartman Square; Alexander Hamilton Playground; Montefiore Square; Riverside Park (1/4); Riverside Park (4/4); Broadway Malls (1/5); Broadway Malls (3/5); Broadway Malls (5/5); Frank White Memorial Garden,M,9.553,Mall,5,0.832,693.7,246.3,23,0.639,37.7,0.111,0.667,1.0732,0.0,500630.4,0.249
+D,D-015,9,False,X077;X082;X148A;X148A1;X148A2;X148A3;X148A4;X158;X295,Featherbed Triangle; University Malls; Park; Park; Plimpton Playground; Bridge Playground; Park; Sedgwick Playground; Half-Nelson Playground,X,4.303,Playground,5,0.839,570.4,257.0,29,0.806,136.4,0.0,0.0,0.9629,0.0,330029.8,0.175
+D,D-016,8,False,B061;B113A;B113B;B113C;B113E;B223I;B223IA;B233,McLaughlin Park; Cadman Plaza Park; Korean War Veterans Plaza; Columbus Park; Walt Whitman Park; Anchorage Plaza; Clumber Corner; Park,B,24.556,Neighborhood Park,4,0.823,711.7,308.1,16,0.571,103.5,0.5,0.75,0.945,0.0,457624.0,0.176
+D,D-017,8,False,B217;B298;B348;B439;B441;B474;B488;B494,Marcy Playground; Stockton Playground; Willoughby Playground; All People's Church of the Apostolic Faith Community Garden; American Heart; Hart to Hart; Red Gate Garden; Vernon Tandt Block Association,B,6.03,Garden,3,0.568,567.5,217.1,21,0.75,90.2,0.5,0.625,1.0795,0.0,314321.6,0.184
+D,D-018,8,False,B223IB;B223IC;B223JA;B223JB;B223JC;B223JD;B223K;B551,Bar and Grill Park; Park; Park; Susan Smith McKinney Steward Park; Bridge Park 3; Maritcha R. Lyons Park; Trinity Park; Vinegar Hill Community Garden,B,8.012,Triangle/Plaza,5,0.471,452.8,139.9,26,0.929,95.0,0.375,0.5,0.959,0.0,224018.9,0.331
+D,D-019,8,False,B294;B364;B507;B530;B531;B532;B597;B599,Jackie Robinson Park Playground; Woods Playground; A Better Community Garden; Seasons of Vision; Garden of Plenty; F.A.R.R. Community Garden; Kingsborough Houses Bergen Playground; Kingsborough Houses Pacific Playground,B,4.256,Garden,3,0.648,688.9,299.1,18,0.643,173.1,0.0,0.25,0.9105,0.0,261571.1,0.025
+D,D-020,8,False,M004#2;M004#3;M080;M105;M123;M124;M326;M358,Allen Street Malls (2/3); Allen Street Malls (3/3); Schiff Mall; Sara D. Roosevelt Park; Peretz Square; First Park; Liz Christy Garden; First Street Garden,M,10.594,Mall,4,0.658,617.6,140.2,21,0.75,23.8,0.5,0.875,1.0447,0.0,493934.3,0.096
+D,D-021,8,False,M013;M015;M030;M196;M242;M246;M247;M255,City Hall Park; Columbus Park; Thomas Paine Park; Playground One; Collect Pond Park; Kimlau Square; St. James Triangle; James Madison Plaza,M,16.415,Triangle/Plaza,4,0.717,722.4,324.1,17,0.607,102.5,0.25,0.75,0.9374,0.0,402587.3,0.045
+D,D-022,8,False,M021;M096#3;M096#5;M349;M351;M356;M365;M387,A Philip Randolph Square; Adam Clayton Powell Jr. Malls (3/9); Adam Clayton Powell Jr. Malls (5/9); New 123rd St Block Association Garden; Joseph Daniel Wilson Garden; P.S. 76 Garden; Our Little Green Acre Garden; TRUCE Garden,M,1.048,Garden,3,0.727,695.9,327.3,20,0.714,92.0,0.0,0.25,1.1166,0.0,306155.5,0.199
+D,D-023,8,False,M113;M113A;M337;M339;M342;M343;M352;M359,Joseph C. Sauer Park; Children's Garden; Dias Y Flores; El Sol Brilliante Jr; Community Garden Association; Vamos Sembrar; Yu Suen Garden; Campos Garden,M,0.869,Garden,2,0.286,335.6,127.7,28,1.0,1.1,0.0,0.5,1.1567,0.0,119333.3,0.303
+D,D-024,8,False,X001A#1;X006;X129;X244;X274;X291;X292;X300,Aqueduct Walk (1/5); Bergen Triangle; Devanney Triangle; Grand Playground; Mount Hope Garden; Walton Park; Mabel Hampton Playground; Davidson Playground,X,3.644,Playground,3,0.736,704.5,311.8,17,0.607,76.3,0.625,0.625,1.0753,0.0,344845.4,0.181
+D,D-025,8,False,X009;X022;X029;X064;X241;X264;X284;X290,Monsignor Raul Del Valle Square; Benjamin Gladstone Square; Lyons Square Playground; Bryant Triangle; Hoe Garden; Field Of Dreams Court; Printers Park; Longfellow Playground,X,3.958,Playground,4,0.683,680.0,339.1,19,0.679,87.8,0.0,0.25,0.9822,0.0,322265.8,0.034
+D,D-026,8,False,X081;X130;X148D1;X148E;X148F5;X258;X297;X298,Mount Eden Malls; Barry Plaza; Morris Mesa; Peace Park; Park; Cleopatra Playground; Garden Of Eden; Garden Of Life,X,3.163,Playground,5,0.533,694.4,297.8,18,0.643,94.2,0.0,0.0,0.9468,0.0,302643.9,0.334
+D,D-027,7,False,B030#1;B030#4;B144;B387;B476;B602;B609,Eastern Parkway Extension (1/6); Eastern Parkway Extension (4/6); Ocean Hill Playground; Hilltop Playground; Sh'ma Yisrael; Park; Park,B,3.249,Jointly Operated Playground,4,0.628,618.1,297.2,16,0.762,1.6,0.571,0.571,1.0824,0.0,308729.3,0.204
+D,D-028,7,False,B030#3;B030#5;B131;B219;B381;B413;B470,Eastern Parkway Extension (3/6); Eastern Parkway Extension (5/6); Rudd Playground; Callahan-Kelly Playground; Thomas Boyland Park; Hull Street Garden; Granite St Block Association,B,7.464,Garden,5,0.565,570.1,264.5,14,0.667,124.5,0.286,0.571,0.9528,0.0,375025.9,0.064
+D,D-029,7,False,B130;B255H;B255I;B255J;B255K;B255L;B414,"Greenwood Playground; Thomas J. Cuite Park; Park; Seeley Park; Sitting Area; Captain John McKenna, IV Park; E 4th Street Garden",B,6.083,Triangle/Plaza,5,0.679,689.8,133.0,16,0.762,75.9,0.0,0.0,0.9603,0.0,223126.6,0.037
+D,D-030,7,False,M002;M017;M065;M182;M195;M228;M235,Ahearn Park; Corlears Hook Park; Luther Gulick Park; Vladeck Park; Sidney Hillman Playground; Henry M. Jackson Playground; Sol Lain Plgd,M,8.586,Jointly Operated Playground,3,0.505,447.2,213.0,15,0.714,93.3,0.286,0.429,0.9992,0.0,281672.2,0.176
+D,D-031,7,False,M014;M039#7;M127;M216;M234;M333;M377,Jackie Robinson Park; Harlem River Park (7/15); Bushman Steps; Holcombe Rucker Park; Wright Brothers Playground; Bradhurst Ave Garden; Bradhurst Gardens Association,M,19.877,Garden,5,0.689,586.1,237.3,14,0.667,80.8,0.0,0.0,1.0767,0.0,411458.0,0.175
+D,D-032,7,False,M018;M023;M284;M319A;M319B;M322;M420,Carmansville Playground; Donnellan Square; Convent Garden; Sugar Hill Garden; Edgecombe Park; Harris Garden; Sugar Hill Hope Garden,M,1.493,Garden,3,0.385,463.4,219.1,16,0.762,89.8,0.143,0.143,1.0993,0.0,149994.3,0.227
+D,D-033,7,False,M020;M051;M094#2;M094#5;M184;M231;M232,Dante Park; Richard Tucker Park; Broadway Malls (2/11); Broadway Malls (5/11); Samuel N. Bennerson 2nd Playground; Damrosch Park; Lincoln Center Plaza,M,8.549,Triangle/Plaza,4,0.702,571.9,125.5,16,0.762,11.1,0.286,0.286,0.9036,0.0,319426.7,0.09
+D,D-034,7,False,M035;M096#4;M096#8;M138;M141;M159;M355,Brigadier General Charles Young Triangle; Adam Clayton Powell Jr. Malls (4/9); Adam Clayton Powell Jr. Malls (8/9); Bill Bojangles Robinson Playground; Percy E. Sutton Playground; Frederick Johnson Playground; Robert L. Clinkscales Playground and Community Garden,M,5.866,Mall,5,0.631,697.2,149.0,16,0.762,25.3,0.0,0.143,0.9649,0.0,280316.7,0.204
+D,D-035,7,False,M083;M094#10;M094#4;M097;M219;M233;M282,Sherman Square; Broadway Malls (10/11); Broadway Malls (4/11); Verdi Square; Tecumseh Playground; Matthew P. Sapolin Playground; Septuagesimo UNO,M,3.131,Triangle/Plaza,3,0.724,713.2,258.4,16,0.762,22.2,0.571,0.571,1.0178,0.0,307181.5,0.197
+D,D-036,7,False,M108A;M108F;M208E;M208F;M208G;M273;M302,Louis Cuvillier Park; Triboro Plaza; Crack Is Wack Playground; Harlem River Park; Harlem River Park; Wagner Houses Pool; Detective Omar Edwards Park,M,8.761,Triangle/Plaza,4,0.395,445.0,184.4,19,0.905,182.2,0.429,0.571,0.7962,0.0,226841.0,0.215
+D,D-037,7,False,X010A;X148G;X148G1;X148G2;X148H;X148H1;X148H2,Walter Gladwin Park; Park; Park; Park; Admiral Farragut Playground; Prospect Playground; Fairmount Playground,X,18.369,Strip,5,0.554,402.4,102.6,20,0.952,90.6,0.143,0.143,0.8604,0.0,253186.3,0.188
+D,D-038,7,False,X030;X034;X105;X296;X303;X327;X333,Macombs Dam Park; Rev. T. Wendell Foster Park and Recreation Center; Jerome Slope; Taqwa Community Farm; Sweetgum Community Garden; La Isla Garden; Woodycrest Community Garden,X,60.722,Garden,3,0.66,619.3,241.7,17,0.81,98.3,0.429,0.429,0.9675,0.0,471826.0,0.08
+D,D-039,6,False,B024;B025;B062;B425;B426;B489,Orient Grove; Cooper Park; Memorial Gore; St Nicholas-olive St Garden; St Nicholas-powers St Garden; Red Shed Garden,B,7.031,Garden,3,0.429,471.6,283.8,14,0.933,91.5,0.0,0.333,1.0247,0.0,244546.2,0.0
+D,D-040,6,False,B030#2;B030#6;B116;B510;B554;B585,Eastern Parkway Extension (2/6); Eastern Parkway Extension (6/6); Zion Triangle; Marcus Garvey Tenant's Assoc. Garden; Brownsville Green; Prospect Plaza Park,B,1.523,Garden,4,0.516,417.3,221.8,13,0.867,92.4,0.167,0.333,0.8868,0.0,270032.4,0.22
+D,D-041,6,False,B052;B082#1;B210A;B210L;B210M;B210N,Leif Ericson Park; Shore Park and Parkway (1/10); John Allen Payne Playground; 64th Street Community Garden; Park; Park,B,21.006,Strip,4,1.171,320.0,127.8,15,1.0,92.5,0.5,0.833,0.9748,0.0,486154.1,0.194
+D,D-042,6,False,B056;B442;B446;B447;B466;B485,Martin Luther King Jr. Playground; Ps 149 Artsy Bloom Community Garden; Big Red Garden; Causa Festival Garden; First Temple Of David; Ps 53,B,2.732,Garden,2,0.421,426.0,239.8,14,0.933,90.4,0.167,0.667,1.1681,0.0,157542.4,0.024
+D,D-043,6,False,B163;B417;B467;B484;B526;B568,Sperandeo Brothers Playground; PS 4K PARADISE GARDEN; Floral Vineyard; Gregory's Garden; Cleveland Street Vegetable Garden; Ashford Street Abundant Garden,B,3.568,Garden,2,0.486,492.3,205.8,14,0.933,82.2,0.167,0.5,1.1197,0.0,198755.8,0.123
+D,D-044,6,False,B210P;B210Q;B210R;B210S;B210T;B338,Dan Ross Playground; Park; Park; Park; Park; Tom McDonald Triangle,B,0.308,Strip,3,0.331,427.4,219.6,12,0.8,165.0,0.333,0.667,1.0487,0.0,163393.7,0.0
+D,D-045,6,False,B255C;B255D;B255E;B255F;B255G;B288,Purple Playground; Park; Park; Detective Joseph Mayrose Park; Butterfly Gardens; Slope Park Playground,B,3.928,Neighborhood Park,5,0.427,298.8,51.0,15,1.0,3.7,0.0,0.167,0.9345,0.0,190883.1,0.141
+D,D-046,6,False,B339;B377;B396;B436;B513;B533,Newport Playground; Floyd Patterson Ballfields; Nehemiah Park; Gethsemane Garden; United Community Centers Youth Farm; Abib Newborn Garden,B,5.353,Garden,4,0.513,537.7,162.4,13,0.867,0.6,0.167,0.167,1.1383,0.0,244511.0,0.024
+D,D-047,6,False,M096#2;M096#7;M160;M245;M303;M340,Adam Clayton Powell Jr. Malls (2/9); Adam Clayton Powell Jr. Malls (7/9); Fred Samuel Playground; Renaissance Playground; Abyssinian Tot Lot; Elizabeth Langley Memorial Garden,M,2.728,Mall,4,0.58,754.5,264.5,9,0.6,90.5,0.0,0.167,1.1459,0.0,298798.6,0.25
+D,D-048,6,False,M096#9;M296;M297;M297A;M406;M407,Adam Clayton Powell Jr. Malls (9/9); 132 St Block Association Park; Parks Council Success Garden; Margrichante Garden; Harlem Grown 134th Street Green House; Harlem Valley Garden,M,0.944,Garden,2,0.373,416.1,124.5,12,0.8,1.0,0.0,0.0,1.0909,0.0,172942.5,0.342
+D,D-049,6,False,M155;M204;M298;M305;M363;M380,Courtney Callender Playground; Moore Playground; Unity Gardens; Collyer Brothers Park; Harlem Rose Garden; United Block Association Garden,M,1.876,Garden,3,0.351,460.7,192.8,13,0.867,90.3,0.0,0.667,1.044,0.0,180483.0,0.17
+D,D-050,6,False,M183;M382;M384;M417;M418;M419,Peter Minuit Playground; 110th Street Block Association Garden; Pueblo Unido Garden; Diversity Edible Farm; Mission Garden; Villa Santruce,M,1.208,Garden,2,0.225,226.3,113.4,15,1.0,89.6,0.0,0.833,1.1527,0.0,119911.9,0.0
+D,D-051,6,False,M268;M313A;M329;M332;M354;M410,El Jardin Del Paraiso Park; 5th St Slope Garden; Generation X; The Secret Garden; Orchard Alley Garden; Sage Garden,M,1.284,Garden,1,0.325,258.1,181.3,15,1.0,0.2,0.0,0.167,0.9875,0.0,132981.9,0.567
+D,D-052,6,False,Q007;Q219#13;Q219#2;Q219#9;Q503;Q505,Bayswater Park; Rockaway Freeway (13/16); Rockaway Freeway (2/16); Rockaway Freeway (9/16); Garden; Culinary Kids Garden,Q,41.561,Parkway,3,0.692,508.2,176.0,10,0.667,82.7,0.0,0.333,0.9666,0.0,484324.8,0.089
+D,D-053,6,False,Q066B;Q066C;Q066D;Q066E;Q066G;Q066H,Triborough Bridge Playground B; Triborough Bridge Playground C; Triborough Bridge Playground D; Triborough Bridge Playground E; Sitting Area; Chappetto Square,Q,4.036,Recreational Field/Courts,3,0.41,289.7,0.0,15,1.0,0.0,0.667,0.667,1.0221,0.0,127282.1,0.301
+D,D-054,6,False,Q090;Q131;Q360E;Q360F;Q360G;Q360P,Federalist Triangle; Frank Principe Park; Hull Triangle; Technical Sergeant Thomas J. Davey Triangle; Whitefish Triangle; Park Slope,Q,7.946,Triangle/Plaza,3,0.56,397.5,207.0,15,1.0,56.4,0.0,0.167,1.0019,0.0,248690.7,0.0
+D,D-055,6,False,Q360H;Q360M;Q360Q;Q360R;Q360Y1;Q360Y2,Peter Chahales Park; Frontera Park; Sitting Area 127 CXXVII; Sitting Area; Park; Park,Q,1.697,Triangle/Plaza,3,0.572,481.3,332.5,10,0.667,37.4,0.333,0.333,0.988,0.0,184317.4,0.052
+D,D-056,6,False,Q393D;Q393F;Q393G;Q393H;Q393I;Q504,LaGuardia Landing Lights; LaGuardia Landing Lights; Laguardia Landing Lights; LaGuardia Landing Lights; Planeview Park; Park,Q,5.264,Recreational Field/Courts,2,0.497,491.1,105.6,13,0.867,97.9,0.667,0.667,1.1177,0.0,179510.6,0.176
+D,D-057,6,False,X001;X001A#3;X013;X035;X044;X343,Aqueduct Walk; Aqueduct Walk (3/5); Devoe Park; Muller Triangle; St. James Park; Davidson Ave. Community Gardeners Group,X,21.273,Community Park,4,0.753,582.2,275.6,10,0.667,90.1,0.667,0.833,1.0666,0.0,478289.3,0.19
+D,D-058,6,False,X011#2;X148H3;X148I;X148I2;X148I3;X329,Crotona Parkway Malls (2/3); Park; Park; Park; Park; Miracle Garden,X,1.914,Strip,3,0.532,565.2,174.9,13,0.867,67.8,0.167,0.167,1.0844,0.0,234575.6,0.265
+D,D-059,6,False,X026;X242;X243;X243A;X316;X319,Hines Park; Youth Village; Estella Diggs Park; Garden; Genesis Community Garden; Jackson Forest Garden,X,1.897,Garden,3,0.323,380.3,199.7,15,1.0,108.3,0.0,0.333,0.9349,0.0,157080.6,0.079
+D,D-060,6,False,X032;X052;X053;X219;X350;X356,Railroad Park; Triangle; O'Neill Triangle; Arcilla Playground; Melrose Commons Park; Little Green Garden,X,4.354,Neighborhood Park,4,0.452,568.3,292.8,11,0.733,98.4,0.0,0.333,1.0498,0.0,235796.3,0.202
+D,D-061,6,False,X033#1;X033#3;X033#5;X104;X197;X215,Mosholu Parkway (1/5); Mosholu Parkway (3/5); Mosholu Parkway (5/5); Williamsbridge Oval; Mosholu Playground; Valentine Varian House,X,52.502,Parkway,4,1.069,697.3,184.5,6,0.4,63.3,0.5,0.5,1.0444,0.0,440241.1,0.085
+D,D-062,6,False,X080;X090;X091;X110#5;X110B;X110C,Henry Hudson Park; Spuyten Duyvil Shorefront Park; Park; Henry Hudson Parkway (5/8); Phyllis Post Goodman Park; Park,X,17.509,Triangle/Plaza,4,0.678,697.3,232.0,12,0.8,142.3,0.0,0.0,0.8023,0.0,364333.1,0.028
+D,D-063,6,False,X103;X119;X217;X238;X246;X285,People's Park; Alexander's Alley; Willis Playground; Saw Mill Playground; Brook Park; Padre Plaza,X,5.435,Garden,4,0.642,717.2,209.4,12,0.8,89.3,0.0,0.0,1.0423,0.0,228998.3,0.018
+D,D-064,5,False,B055;B117;B194;B358;B423,Sternberg Park; Lindsay Triangle; Harmony Triangle; De Hostos Playground; Project Roots,B,5.397,Triangle/Plaza,4,0.431,365.5,187.1,10,1.0,75.8,0.4,0.8,1.0555,0.0,199239.2,0.0
+D,D-065,5,False,B058;B196;B223T;B223V;B346,McCarren Park; Pvt. Sonsire Triangle; Father Giorgio Triangle; Badame Sessa Triangle; Ericsson Playground,B,38.366,Triangle/Plaza,3,0.626,506.4,316.9,6,0.6,6.7,0.4,0.8,1.1264,0.0,334751.3,0.039
+D,D-066,5,False,B169B;B268;B315;B562;B586,Poseidon Playground; Nautilus Playground; Surf Playground; Surfside Multi-Cultural Garden Coalition; Garden,B,6.108,Garden,4,0.396,340.6,168.6,10,1.0,14.1,0.0,0.8,0.8937,0.0,153659.5,0.0
+D,D-067,5,False,B261;B449;B496;B515;B543,Sankofa Park; New Vision Garden; Victory Garden; United Community Center; East New York Farms Garden,B,1.898,Garden,2,0.157,162.9,53.6,10,1.0,0.0,0.0,0.0,1.1116,0.0,99234.1,0.003
+D,D-068,5,False,M011;M257;M360#1;M360#2;M360#3,Chelsea Park; Clement Clarke Moore Park; The High Line (1/4); The High Line (2/4); The High Line (3/4),M,7.952,Community Park,3,0.996,599.0,178.5,6,0.6,14.4,0.8,0.8,0.9202,0.0,389550.7,0.091
+D,D-069,5,False,M019;M067;M178;M194;M206,Coleman Playground; Sophie Irene Loeb; Catherine Slip Malls; Alfred E. Smith Playground; Tanahey Playground,M,6.172,Playground,4,0.454,468.1,140.2,9,0.9,2.2,0.0,0.2,0.8544,0.0,228583.5,0.106
+D,D-070,5,False,M072#2;M072#3;M095#2;M095#4;M140,Riverside Park (2/4); Riverside Park (3/4); Broadway Malls (2/5); Broadway Malls (4/5); Recreational Area,M,25.6,Mall,3,0.583,449.4,129.6,7,0.7,81.3,0.0,0.4,0.9754,0.0,436303.7,0.235
+D,D-071,5,False,M108H;M108T01#2;M187;M192;M286,Park; East River Esplanade (2/8); Marx Brothers Playground; Stanley Isaacs Playground; Asphalt Green,M,7.768,Community Park,5,0.681,549.2,189.8,9,0.9,73.7,0.2,0.4,0.9531,0.0,276597.2,0.389
+D,D-072,5,False,M108P;M108Q1;M108R;M108T#1;M108T#5,Sutton Parks; Andrew Haswell Green Park; Sutton Place Park; East River Walk (1/6); East River Walk (5/6),M,4.769,Neighborhood Park,3,0.528,200.0,0.0,9,0.9,0.0,0.0,0.0,0.2336,0.0,214337.9,0.368
+D,D-073,5,False,M158;M203A;M203B;M203D;M203E,Robert Moses Playground; Trygve Lie Plaza; Ralph Bunche Park; Mary O'Connor Playground; Tudor Grove Playground,M,1.843,Playground,2,0.183,88.6,55.1,10,1.0,0.9,0.4,1.0,0.7123,0.0,120033.7,0.205
+D,D-074,5,False,M167;M291;M378;M385;M386,Peck Slip; Fishbridge Garden; Pearl St Playground; DeLury Square; Imagination Playground,M,1.204,Playground,3,0.398,405.5,226.1,9,0.9,106.6,0.0,0.0,0.8681,0.0,205510.4,0.0
+D,D-075,5,False,M243;M285;M346;M364;M388,Eugene McCabe Field; Dr. Ronald E. McNair Playground; Life Spire Garden; Jackie Robinson Community Garden; Carolina Garden,M,1.441,Garden,3,0.3,282.3,126.8,10,1.0,89.7,0.0,0.0,0.9825,0.0,127363.3,0.238
+D,D-076,5,False,Q032;Q036A;Q072;Q141;Q267,McKenna Triangle; Rafferty Triangle; Short Triangle; Murray Playground; Court Square Park,Q,3.095,Triangle/Plaza,2,0.465,402.6,150.6,9,0.9,33.3,0.8,0.8,0.9999,0.0,177907.0,0.0
+D,D-077,5,False,Q035#4;Q035#6;Q122;Q363;Q495,Mall Thirty Four XXXIV (4/7); Mall Thirty Four XXXIV (6/7); Junction Playground; Northern Playground; 97th Street Block Association,Q,2.619,Mall,4,0.734,498.3,198.8,8,0.8,80.8,0.6,0.8,1.1469,0.0,271639.2,0.236
+D,D-078,5,False,Q341A;Q341C;Q341D;Q341E;Q341F,Park; Sherry Dog Run; Spargo Park; Crosson Green; Crosson Park,Q,0.894,Triangle/Plaza,2,0.306,357.7,170.3,10,1.0,92.9,0.2,0.4,0.8448,0.0,128345.0,0.238
+D,D-079,5,False,X025;X148K3;X148K4;X148L;X148L1,Hugh J. Grant Circle; Wood Park; Park; Virginia Playground; Virginia Park,X,3.037,Triangle/Plaza,3,0.424,406.9,221.0,9,0.9,26.4,0.2,0.6,0.9975,0.0,165819.4,0.027
+D,D-080,5,False,X056;X078;X086;X112;X185,Park; Franklin Triangle; Charlton-Thompson Garden; Hilton White Playground; Dunbar Playground,X,2.308,Jointly Operated Playground,3,0.469,592.4,243.8,8,0.8,90.1,0.0,0.2,0.92,0.0,164827.6,0.071
+D,D-081,5,False,X120;X153;X269;X275;X287,Highbridge Park; Merriam Playground; Cpl Fischer Park; Mosaic Success Garden; Ogden Plimpton Playground,X,4.689,Neighborhood Park,3,0.363,355.0,264.1,10,1.0,90.4,0.0,0.4,1.0183,0.0,241647.8,0.033
+D,D-082,4,False,B021;B223MA;B243;B295,Commodore Barry Park; Arbor Place; Golconda Playground; Oxport Playground,B,12.15,Community Park,4,0.499,461.4,148.6,4,0.667,7.8,0.0,0.75,1.048,0.0,213002.9,0.104
+D,D-083,4,False,B027;B270;B343;B486,Veterans Triangle; Brownsville Playground; Osborn Playground; Green Valley Garden,B,5.293,Community Park,4,0.459,336.3,141.3,6,1.0,1.5,0.5,0.5,1.134,0.0,216919.3,0.0
+D,D-084,4,False,B029#10;B029#4;B054;B404,Eastern Parkway (10/10); Eastern Parkway (4/10); Lincoln Terrace / Arthur S. Somers Park; East Flatbush Children's Playground,B,24.951,Parkway,3,0.645,667.3,118.0,3,0.5,39.8,0.25,0.75,1.078,0.0,330866.7,0.212
+D,D-085,4,False,B029#3;B029#7;B044;B459,Eastern Parkway (3/10); Eastern Parkway (7/10); Dr. Ronald McNair Park; Eastern Parkway Coalition,B,7.276,Parkway,3,0.735,286.7,143.4,5,0.833,0.2,0.0,0.5,1.0265,0.0,228071.8,0.274
+D,D-086,4,False,B038;B200;B403;B579,Fulton Park; Elizabeth Stroud Playground; Harmony Park; Imani II Community Garden,B,3.791,Neighborhood Park,3,0.407,425.7,221.8,5,0.833,1.3,0.25,1.0,1.0421,0.0,208485.5,0.023
+D,D-087,4,False,B068;B070;B255M;B255N,Parade Ground; Machate Circle; Park; Park,B,40.476,Triangle/Plaza,2,0.466,292.9,137.1,6,1.0,117.9,0.0,0.5,0.9337,0.0,203883.6,0.04
+D,D-088,4,False,B088;B140;B400;B572,Herbert Von King Park; Banneker Playground; Hattie Carthan Community Garden; Hattie Carthan Herban Farm,B,10.203,Garden,3,0.445,439.9,58.2,5,0.833,0.0,0.75,0.75,1.1799,0.0,167649.1,0.037
+D,D-089,4,False,B102;B479;B537;B582,Crispus Attucks Playground; Lefferts Pl Block Association; Park; Brooklyn's Finest Garden,B,1.067,Garden,3,0.428,501.9,288.7,4,0.667,66.7,0.0,0.5,1.0712,0.0,154171.5,0.0
+D,D-090,4,False,B107;B367;B516;B564,Lion's Pride Playground; Livonia Park; Powell Street Livonia Garden; Positive Seeds of Life Garden,B,2.415,Garden,3,0.381,421.7,178.3,4,0.667,181.8,0.0,0.0,1.1055,0.0,143088.2,0.11
+D,D-091,4,False,B123;B162;B191;B604,Alben Square; Brizzi Playground; Park; Park,B,0.798,Triangle/Plaza,2,0.39,359.4,196.4,6,1.0,7.2,1.0,1.0,1.1644,0.0,113186.3,0.0
+D,D-092,4,False,B124;B154;B401;B444,William Sheridan Playground; Berry Playground; Grand Ferry Park; Berry Street Garden,B,3.331,Garden,4,0.584,654.8,251.8,4,0.667,94.8,0.0,0.5,0.9313,0.0,185953.5,0.0
+D,D-093,4,False,B137;B422;B592;B606,Sixteen Sycamores Playground; Bkln Bears Rockwell Pl Garden; Betty Carter Park; Fowler Square,B,0.859,Garden,4,0.447,432.6,212.8,5,0.833,23.9,0.0,0.75,1.0071,0.0,135632.7,0.035
+D,D-094,4,False,B156;B260;B260A;B363,Powell Playground; Howard Playground; Howard Pool; Houston Playground,B,3.67,Community Park,3,0.392,404.9,176.2,5,0.833,90.3,0.25,0.75,0.9273,0.0,169426.0,0.071
+D,D-095,4,False,B178;B179;B180;B212,Flatbush Malls; Flatbush Malls; Flatbush Mall; Hot Spot Tot Lot,B,1.235,Mall,2,0.577,313.3,225.5,6,1.0,0.2,0.25,0.5,0.9978,0.0,384992.7,0.0
+D,D-096,4,False,B221;B223NA;B223NB;B223NC,Steuben Playground; Classon Playground; Classon Triangle; Penn Triangle,B,4.676,Playground,3,0.439,406.0,123.2,5,0.833,59.4,0.5,1.0,1.0222,0.0,160544.6,0.0
+D,D-097,4,False,B228;B362;B397;B563,Dr. Green Playground; Chester Playground; Carter G. Woodson Children's Park; Student Farm Project,B,4.039,Community Park,4,0.5,575.5,269.5,5,0.833,46.8,0.75,0.75,1.1523,0.0,205249.1,0.002
+D,D-098,4,False,B263;B322;B495;B576,Sumner Playground; Pulaski Playground; Vernon/throop Av Block Association; Tranquility Farm (Willoughby Ave. Garden),B,3.51,Garden,2,0.419,458.1,206.9,5,0.833,91.1,0.0,0.5,1.0249,0.0,170564.7,0.159
+D,D-099,4,False,B443;B453;B483;B493,Atkins Gardeners; Concerned Residents of Montauk Avenue; Manley's Pl; Upon This Rock Comm Garden,B,0.535,Garden,1,0.103,221.2,90.0,6,1.0,44.1,0.0,0.5,1.1301,0.0,73647.6,0.0
+D,D-100,4,False,M003;M024;M077;M223,Annunciation Playground; Dorrance Brooks Square; St. Nicholas Park; Jacob H. Schiff Playground,M,27.847,Jointly Operated Playground,4,0.474,645.3,238.4,4,0.667,90.2,0.5,0.75,1.0463,0.0,395490.8,0.095
+D,D-101,4,False,M004#1;M082;M122;M224,Allen Street Malls (1/3); Seward Park; Captain Jacob Joseph Playground; Straus Square,M,4.173,Mall,4,0.31,226.9,129.1,6,1.0,0.4,0.0,0.75,1.0602,0.0,195832.7,0.276
+D,D-102,4,False,M006;M145;M222;M279,Tribeca Park; Albert Capsouto Park; Grand Canal Court; Duarte Square,M,1.234,Triangle/Plaza,2,0.281,177.6,87.3,6,1.0,22.4,0.0,1.0,0.9537,0.0,120422.1,0.0
+D,D-103,4,False,M025;M283#2;M308;M366,Duane Park; Battery Park City (2/4); Washington Market Park; Tribeca Dog Run,M,10.213,Community Park,4,0.623,509.4,152.6,5,0.833,130.7,0.0,0.0,0.8371,0.0,297051.0,0.128
+D,D-104,4,False,M034;M189;M205;M320,Hancock Park; Roosevelt Triangle; Playground One Twenty Five CXXV; Old Croton Aqueduct Gatehouse,M,1.931,Triangle/Plaza,3,0.545,669.4,317.9,3,0.5,92.8,0.25,0.75,1.0308,0.0,157062.2,0.306
+D,D-105,4,False,M054;M095A;M156;M240,Mitchel Square; Broadway Malls; McKenna Square; Audubon Playground,M,2.534,Triangle/Plaza,3,0.975,332.1,132.3,6,1.0,29.6,0.0,0.25,0.9944,0.0,302089.4,0.098
+D,D-106,4,False,M061;M092A;M092B;M099,Plaza Lafayette; Haven Avenue; Park; J. Hood Wright Park,M,9.796,Neighborhood Park,4,0.631,640.0,146.2,5,0.833,98.6,0.0,0.0,0.8676,0.0,234544.5,0.0
+D,D-107,4,False,M085;M094#7;M238;M368,Straus Park; Broadway Malls (7/11); Bloomingdale Playground; West 111th St. People's Garden,M,1.377,Garden,4,0.561,527.3,305.2,4,0.667,72.1,0.5,1.0,1.0421,0.0,204844.8,0.328
+D,D-108,4,False,M094#3;M094#6;M220;M229,Broadway Malls (3/11); Broadway Malls (6/11); Frederick Douglass Playground; Happy Warrior Playground,M,4.395,Mall,3,0.408,295.6,127.4,5,0.833,13.8,0.5,0.5,1.098,0.0,272244.1,0.262
+D,D-109,4,False,M096#1;M169;M400;M405,Adam Clayton Powell Jr. Malls (1/9); Samuel Marx Triangle; Luigi's Garden of Love; Electric Ladybug Garden,M,0.421,Garden,3,0.353,546.4,134.3,4,0.667,0.1,0.0,0.5,1.1393,0.0,170787.6,0.164
+D,D-110,4,False,M096#6;M211A;M211B;M409,Adam Clayton Powell Jr. Malls (6/9); St. Nicholas Playground South; Langston Hughes Playground; Harlem Grown 127th Street Learning Annex,M,1.591,Playground,3,0.311,343.5,84.3,6,1.0,0.6,0.0,0.25,1.135,0.0,151491.1,0.367
+D,D-111,4,False,M170;M218;M413;M421,Petrosino Square; DeSalvio Playground; Rapkin-Gayle Plaza; Park,M,1.117,Neighborhood Park,3,0.418,425.3,183.3,5,0.833,100.4,0.0,0.25,0.8697,0.0,142642.5,0.002
+D,D-112,4,False,M208A;M208B;M208C;M208D,Alice Kornegay Triangle; Park; Harlem River Park; Harlem River Park,M,7.062,Triangle/Plaza,3,0.174,124.2,39.4,6,1.0,0.0,0.25,0.5,0.9811,0.0,121998.6,0.317
+D,D-113,4,False,M331;M367;M392;M401,117th St Community Garden; Peaceful Valley Garden; El Gallo Garden; Lydia's Magic Garden (El Girasol Magic Garden),M,0.317,Garden,1,0.352,313.3,218.6,6,1.0,90.3,0.0,0.25,1.1984,0.0,122469.2,0.116
+D,D-114,4,False,Q026;Q055;Q172;Q173,Park Of The Americas; Veteran's Square; Corona Plaza; American Triangle,Q,3.155,Triangle/Plaza,2,0.226,209.3,80.3,6,1.0,4.3,0.25,0.25,1.0981,0.0,112848.4,0.0
+D,D-115,4,False,Q031;Q031A;Q057;Q061,Lawrence Virgilio Playground; Doughboy Park; Sohncke Square; Steinmann Triangle,Q,5.185,Triangle/Plaza,2,0.444,296.6,160.8,6,1.0,20.2,0.5,0.5,1.0412,0.0,178497.9,0.0
+D,D-116,4,False,Q050;Q219#3;Q422;Q496,Rockaway Beach; Rockaway Freeway (3/16); Seaside Playground; Park at Beach 108 Street,Q,189.121,Jointly Operated Playground,4,0.922,554.0,255.2,5,0.833,100.5,0.25,0.25,0.8371,0.0,586199.3,0.122
+D,D-117,4,False,Q095;Q414;Q433A;Q433B,Vito Locascio Field; Rocket Playground; Park; Park,Q,4.319,Strip,3,0.296,419.8,20.5,5,0.833,0.1,0.0,0.0,0.8871,0.0,146328.2,0.138
+D,D-118,4,False,Q219#5;Q313;Q382;Q520,Rockaway Freeway (5/16); Arverne Playground; Cardozo Playground; Arverne East Nature Preserve,Q,36.696,Jointly Operated Playground,4,0.637,455.9,90.0,5,0.833,103.4,0.0,0.0,0.9653,0.0,236594.5,0.008
+D,D-119,4,False,Q357D;Q357E;Q357F;Q369,Park; Park; Park; Louis Pasteur Park,Q,3.216,Strip,2,0.541,759.7,56.5,4,0.667,0.5,0.0,0.0,0.8315,0.0,198906.0,0.0
+D,D-120,4,False,Q460;Q467;Q498;Q508,Broad Channel Park; Broad Channel American Park; Sunset Cove Park; Park,Q,30.884,Nature Area,3,0.59,289.4,145.9,6,1.0,45.7,0.0,0.0,0.7187,0.0,321211.2,0.0
+D,D-121,4,False,X008;X057;X299;X320,Claremont Park; Michel Triangle; Little Claremont Playground; Jardin De La Familia,X,39.547,Community Park,4,0.378,361.4,174.8,6,1.0,104.4,0.0,0.0,1.0223,0.0,279911.6,0.34
+D,D-122,4,False,X068;X069;X071;X108,D'Auria-Murphy Triangle; Hutton Triangle; Whalen Grove; Belmont Playground,X,2.609,Triangle/Plaza,2,0.382,394.1,239.7,6,1.0,61.4,0.0,0.0,1.054,0.0,169872.3,0.205
+D,D-123,4,False,X134;X147A;X147B;X305,Freeman Triangle; Starlight Park; Daniel Boone Playground; Concrete Plant Park,X,24.723,Neighborhood Park,3,0.831,446.7,229.8,5,0.833,128.3,0.0,0.5,0.7313,0.0,435808.2,0.069
+D,D-124,4,False,X148J2;X267;X273;X339,Boone Slope; Eae J Mitchell Park; Rock Garden Park; Angie Lee Gonzales Garden,X,1.241,Neighborhood Park,3,0.312,330.0,186.4,6,1.0,96.5,0.0,0.0,1.0122,0.0,123982.8,0.0
+D,D-125,4,False,X150H;X150I;X150J;X150K,Crescent Park; Cooney Grauer Field; Bailey Playground; Park,X,4.971,Playground,4,0.71,627.5,124.8,4,0.667,103.1,0.0,0.0,1.0443,0.0,192913.8,0.001
+D,D-126,4,False,X171;X186;X201;X259,Spuyten Duyvil Playground; Riverdale Playground; Seton Park; Raoul Wallenberg Forest,X,20.671,Jointly Operated Playground,3,0.249,195.1,0.0,6,1.0,0.0,0.0,0.0,0.9385,0.0,156649.9,0.228
+D,D-127,4,False,X207;X233;X233A;X314,Pontiac Playground; Fountain Of Youth Playground; El Flamboyan Garden; Isla Verde Garden,X,2.692,Garden,2,0.243,261.9,180.0,6,1.0,89.5,0.0,0.25,0.9705,0.0,134831.5,0.0
+D,D-128,3,False,B026;B407;B421,Cuyler Gore Park; South Oxford Park; Brooklyn Bears Carlton Av Garden,B,2.513,Neighborhood Park,2,0.257,302.2,132.8,3,1.0,24.7,0.0,0.333,1.0506,0.0,124328.8,0.0
+D,D-129,3,False,B029#8;B040;B159,Eastern Parkway (8/10); Grand Army Plaza; Mount Prospect Park,B,25.336,Neighborhood Park,3,0.434,107.8,0.0,3,1.0,0.0,0.0,0.333,0.8407,0.0,209645.8,0.11
+D,D-130,3,False,B032;B253;B321,Fort Greene Park; Albert L. Parham Playground; Edmonds Playground,B,32.427,Jointly Operated Playground,2,0.391,280.6,114.3,3,1.0,1.0,0.333,0.667,1.1142,0.0,259877.6,0.003
+D,D-131,3,False,B035;B082#4;B210W,John Paul Jones Park; Shore Park and Parkway (4/10); John J Carty Park,B,25.865,Neighborhood Park,2,0.546,329.3,60.7,3,1.0,3.7,0.333,1.0,0.9784,0.0,310390.3,0.21
+D,D-132,3,False,B043;B135;B595,Greenpoint Playground; Newtown Barge Playground; Greenpoint Landing,B,8.211,Neighborhood Park,3,0.164,96.2,0.0,3,1.0,0.0,0.333,0.667,0.9086,0.0,161436.6,0.116
+D,D-133,3,False,B079;B538;B574,Saratoga Park; Welcome Home Garden; Halsey Ralph & Howard Community Garden,B,3.398,Garden,2,0.533,363.1,136.2,3,1.0,0.3,0.333,0.333,1.1466,0.0,165167.1,0.0
+D,D-134,3,False,B082#8;B192;B192A,Shore Park and Parkway (8/10); Russell Pedersen Playground; Fort Hamilton Athletic Field,B,16.872,Community Park,3,0.523,275.5,153.1,3,1.0,0.6,0.333,0.667,1.037,0.0,260813.8,0.286
+D,D-135,3,False,B106A;B106B;B242,Police Officer John G. Scarangella Park; Lafayette Playground; Meucci Triangle,B,4.565,Jointly Operated Playground,3,0.198,211.2,42.1,3,1.0,0.4,0.667,1.0,1.1574,0.0,114880.4,0.0
+D,D-136,3,False,B115;B142;B405,Cohn Triangle; Bedford Playground; Epiphany Playground,B,1.553,Playground,2,0.162,191.4,65.2,3,1.0,0.0,0.667,1.0,1.1808,0.0,104117.3,0.028
+D,D-137,3,False,B141;B455;B471,City Line Park; Crystal Wells Block Association; Green Gems,B,6.931,Garden,2,0.296,248.3,184.2,3,1.0,1.1,0.0,0.333,0.9481,0.0,195352.2,0.0
+D,D-138,3,False,B202;B386;B445,Lithuania Square; Ten Eyck Plaza; Ten Eyck Houses Garden,B,0.613,Garden,3,0.141,156.3,117.3,3,1.0,0.0,0.333,0.333,1.0614,0.0,84873.8,0.0
+D,D-139,3,False,B223R;B223S;B226,Jaime Campiz Playground; Macri Triangle; Mt. Carmel Triangle,B,1.525,Triangle/Plaza,2,0.356,263.2,104.3,3,1.0,2.1,0.667,0.667,1.1734,0.0,136266.3,0.093
+D,D-140,3,False,B224;B224A;B573,P.O. Reinaldo Salgado Playground; Citizens For A Better Community; Patchen Community Square Garden,B,2.704,Garden,2,0.196,119.8,74.1,3,1.0,0.2,1.0,1.0,1.1541,0.0,104653.5,0.11
+D,D-141,3,False,B239;B306;B308,Sheepshead Playground; Playground 286; Yak Playground,B,3.408,Jointly Operated Playground,1,0.519,480.7,198.9,2,0.667,90.7,0.667,1.0,0.9846,0.0,185951.9,0.0
+D,D-142,3,False,B266;B293;B317,Star Spangled Playground; Classon Playground; Lafayette Gardens Playground,B,3.911,Jointly Operated Playground,2,0.344,405.9,177.8,2,0.667,1.3,0.0,1.0,1.1132,0.0,178024.1,0.037
+D,D-143,3,False,B310;B340;B555,Bushwick Playground; Garden Playground; Beaver Noll Park,B,2.71,Community Park,3,0.357,298.4,191.6,3,1.0,5.7,0.333,1.0,0.9574,0.0,136334.3,0.0
+D,D-144,3,False,B323;B502;B546,Hattie Carthan Playground; Shiloh Garden; The Feeding Tree,B,1.306,Garden,2,0.125,0.0,0.0,3,1.0,0.0,0.333,0.333,1.0964,0.0,83785.3,0.032
+D,D-145,3,False,B415;B506;B527,Georgia Ave Garden; Prophecy Garden; Hands and Heart Garden,B,0.747,Garden,1,0.212,273.1,158.3,3,1.0,92.7,0.667,0.667,1.1266,0.0,104248.3,0.0
+D,D-146,3,False,B451;B472;B549,Clifton Pl Memorial Park and Garden; Greene Av United Neighbors Association *; Whole Neighborhood Garden,B,0.319,Garden,1,0.353,365.6,197.6,3,1.0,90.1,0.0,1.0,1.1842,0.0,109909.4,0.032
+D,D-147,3,False,B487;B501;B505,Preston Community Garden; St Mark's Block Association; Sterling Community Group,B,0.394,Garden,1,0.244,256.9,198.6,3,1.0,90.1,0.667,0.667,1.1165,0.0,110891.6,0.023
+D,D-148,3,False,M005;M007;M283#3,The Battery; Bowling Green; Battery Park City (3/4),M,28.364,Community Park,3,0.49,274.0,73.1,3,1.0,133.0,0.0,0.667,0.8456,0.0,320373.3,0.122
+D,D-149,3,False,M047;M108T01#1;M375,Thomas Jefferson Park; East River Esplanade (1/8); Pleasant Park Garden,M,16.435,Community Park,3,0.425,303.8,0.0,3,1.0,0.0,0.333,0.333,0.6158,0.0,313002.8,0.36
+D,D-150,3,False,M056;M090;M341,Morningside Park; Lafayette Square; Garden Of Love,M,30.55,Community Park,3,0.312,230.6,195.7,3,1.0,1.0,0.0,0.333,1.0331,0.0,304906.6,0.167
+D,D-151,3,False,M064;M132;M171,Lillian D Wald Playground; Little Flower Playground; Cherry Clinton Playground,M,2.43,Playground,2,0.326,296.2,132.2,3,1.0,90.0,0.333,0.333,0.9293,0.0,147055.3,0.198
+D,D-152,3,False,M086;M226;M227,Stuyvesant Square; Augustus St. Gaudens Playground; Peter's Field,M,5.468,Jointly Operated Playground,2,0.339,223.0,141.0,3,1.0,1.4,0.0,1.0,1.1484,0.0,157222.6,0.0
+D,D-153,3,False,M108B;M108J;M108T01#8,Park; Park; East River Esplanade (8/8),M,4.562,Parkway,3,0.39,276.2,141.9,3,1.0,44.4,0.0,0.0,0.523,0.0,191347.1,0.367
+D,D-154,3,False,M200;M200A;M347,Booker T. Washington Playground; Anibal Aviles Playground; Mobilization For Change,M,1.996,Garden,3,0.18,134.9,115.1,3,1.0,0.1,0.0,0.0,0.9677,0.0,105444.6,0.078
+D,D-155,3,False,M215;M292;M327,Cherry Tree Park; Sunshine Playground; Maggie's Magic Garden,M,1.369,Garden,3,0.253,198.2,156.6,3,1.0,95.4,0.333,0.333,1.0337,0.0,111262.4,0.0
+D,D-156,3,False,M230;M338;M344,Poor Richard's Playground; Neighbors Of Vega Baja; Humacao Community Garden,M,1.798,Garden,2,0.315,262.9,190.7,3,1.0,90.8,0.333,0.333,1.0212,0.0,129110.4,0.011
+D,D-157,3,False,M283#1;M283#4;M283A,Battery Park City (1/4); Battery Park City (4/4); Battery Park City,M,14.446,Community Park,2,0.473,77.8,77.8,2,0.667,0.9,0.0,0.0,0.783,0.0,287776.0,0.268
+D,D-158,3,False,M328;M374;M394,William B. Washington Memorial Garden; CEP Community Garden; St. Nicholas Miracle Garden,M,0.19,Garden,1,0.08,109.2,109.2,3,1.0,99.9,0.0,0.0,1.1907,0.0,58357.3,0.232
+D,D-159,3,False,Q027#3;Q027#5;Q108,Laurelton Parkway (3/8); Laurelton Parkway (5/8); Laurelton Playground,Q,13.042,Parkway,2,0.45,110.3,75.2,2,0.667,0.0,0.667,0.667,0.9415,0.0,212378.5,0.365
+D,D-160,3,False,Q028;Q028A;Q275,Beach Channel Park; Tribute Park; Patricia A. Brackley Park,Q,13.605,Triangle/Plaza,2,0.573,505.9,0.0,2,0.667,0.0,0.0,0.0,0.8235,0.0,175108.9,0.11
+D,D-161,3,False,Q035#3;Q410;Q415,Mall Thirty Four XXXIV (3/7); Hinton Park; Louis Armstrong Playground,Q,5.048,Jointly Operated Playground,3,0.532,216.5,160.4,3,1.0,1.3,0.0,0.667,1.0594,0.0,195899.2,0.16
+D,D-162,3,False,Q035#7;Q303;Q502,Mall Thirty Four XXXIV (7/7); Travers Park; Rory Staunton Field,Q,2.681,Mall,3,0.168,73.9,29.1,3,1.0,0.6,0.333,0.667,1.1204,0.0,149674.1,0.186
+D,D-163,3,False,Q040;Q060;Q098,Elmjack Mall; Nine Heroes Plaza; Frank D. O'Connor Playground,Q,2.026,Mall,3,0.589,203.2,105.8,3,1.0,9.2,1.0,1.0,1.0397,0.0,237434.3,0.0
+D,D-164,3,False,Q094;Q177;Q424,Tudor Park; Tudor Malls; Judge Angelo Graci Triangle,Q,13.921,Community Park,3,0.652,409.0,178.1,2,0.667,29.3,0.333,0.333,1.0325,0.0,327746.5,0.241
+D,D-165,3,False,Q096A;Q096B;Q096E,Locust Grove Civic Triangle; Southern Fields; Lefferts Playground,Q,8.841,Playground,3,0.417,209.5,82.6,3,1.0,6.2,0.0,0.667,0.9841,0.0,184962.4,0.0
+D,D-166,3,False,Q100;Q100A;Q497,Flushing Greens; Daniel Carter Beard Mall; Lewis H Latimer House,Q,1.209,Triangle/Plaza,2,0.337,312.2,199.2,3,1.0,16.9,0.667,0.667,0.9494,0.0,141647.4,0.0
+D,D-167,3,False,Q162I;Q162J;Q162J01,Rockaway Beach and Boardwalk; Beach 17 Playground; Beach 9 Playground,Q,23.375,Neighborhood Park,2,0.653,483.8,0.0,2,0.667,0.0,0.667,1.0,0.8481,0.0,156304.5,0.014
+D,D-168,3,False,Q219#1;Q367;Q518,Rockaway Freeway (1/16); Hammel Playground; Bay Beach 84 Garden,Q,1.736,Garden,3,0.324,358.4,165.5,3,1.0,165.3,0.333,0.333,0.6532,0.0,138368.4,0.53
+D,D-169,3,False,Q219#12;Q219#8;Q443,Rockaway Freeway (12/16); Rockaway Freeway (8/16); Almeda Playground,Q,2.477,Parkway,2,0.387,198.3,173.8,2,0.667,45.7,0.333,0.333,0.9237,0.0,209715.2,0.162
+D,D-170,3,False,Q357A;Q357A1;Q401,Park; Park; Lost Battalion Hall Recreation Center,Q,2.467,Strip,2,0.302,353.4,185.4,3,1.0,1.8,0.667,0.667,0.8987,0.0,181925.2,0.003
+D,D-171,3,False,Q357B;Q357B01;Q377,Real Good Playground; Barrier Playground; Playground Sixty Two LXII,Q,4.118,Jointly Operated Playground,3,0.377,203.0,44.5,3,1.0,1.2,0.0,0.333,1.0084,0.0,155634.2,0.0
+D,D-172,3,False,Q360S;Q360T;Q492,Quick Brown Fox Triangle; Sitting Area; Elmhurst Park,Q,6.178,Triangle/Plaza,2,0.388,273.3,144.4,3,1.0,74.2,0.667,0.667,1.011,0.0,166555.4,0.063
+D,D-173,3,False,Q366;Q393A;Q393C,Louis C. Moser Playground; LaGuardia Landing Lights; LaGuardia Landing Lights,Q,4.725,Recreational Field/Courts,2,0.261,194.7,115.5,3,1.0,3.3,0.0,1.0,1.0882,0.0,156657.9,0.202
+D,D-174,3,False,Q473;Q474;Q474A,Sparrow's Nest Community Garden; Simeone Park; Corona Taxpayers Association,Q,2.018,Garden,2,0.16,126.5,0.0,3,1.0,0.0,0.0,0.0,0.9106,0.0,86688.4,0.0
+D,D-175,3,False,R038;R038A;R038B,Midland Playground; Midland Field; Park,R,14.901,Jointly Operated Playground,2,0.247,0.0,0.0,3,1.0,0.0,0.0,0.0,1.0082,0.0,166227.3,0.0
+D,D-176,3,False,R050;R127;R141,Forest Grove; Joseph Manna Park; Graniteville Swamp Park,R,10.418,Nature Area,2,0.326,232.2,174.7,3,1.0,6.8,1.0,1.0,0.9722,0.0,190726.2,0.0
+D,D-177,3,False,R052;R169;R173,Allison Pond Park; Goodhue Park; Snug Harbor Cemetery,R,42.29,Nature Area,2,0.415,375.0,0.0,3,1.0,0.0,0.0,0.0,0.5466,0.0,258384.2,0.193
+D,D-178,3,False,R085;R132;R138,E.M.T. Christopher J. Prescott Playground; Bunker Ponds Park; Kingdom Pond Park,R,30.598,Nature Area,2,0.352,297.4,58.3,3,1.0,91.2,0.667,0.667,0.9381,0.0,263174.0,0.0
+D,D-179,3,False,X014;X211;X332,Horseshoe Playground; Stebbins Playground; Schomberg Academy Garden,X,1.354,Garden,3,0.166,164.7,124.8,3,1.0,166.1,0.0,0.0,0.8765,0.0,94676.6,0.0
+D,D-180,3,False,X021;X031;X062,Drew Playground; McKinley Square; Beatty Plaza,X,1.149,Triangle/Plaza,2,0.317,305.5,199.0,3,1.0,105.5,0.0,0.0,0.911,0.0,115961.5,0.011
+D,D-181,3,False,X028;X047;X348,Joyce Kilmer Park; Franz Sigel Park; River Avenue Parks,X,22.23,Community Park,2,0.661,392.2,211.6,3,1.0,35.3,0.333,0.333,1.0492,0.0,294671.2,0.075
+D,D-182,3,False,X033#2;X033#4;X335,Mosholu Parkway (2/5); Mosholu Parkway (4/5); Risse Street Park,X,24.32,Parkway,2,0.462,197.0,8.4,2,0.667,0.0,0.0,0.667,1.009,0.0,200011.3,0.199
+D,D-183,3,False,X036;X252;X263,Murphy Triangle; Bathgate Playground; Quarry Ballfields,X,7.097,Neighborhood Park,3,0.405,194.1,93.1,3,1.0,6.6,0.0,0.0,1.0567,0.0,181882.4,0.163
+D,D-184,3,False,X043;X155;X200,Ryan Triangle; Patterson Playground; Clark Playground,X,3.294,Jointly Operated Playground,2,0.298,289.5,132.7,3,1.0,29.3,0.0,0.667,1.054,0.0,153883.9,0.0
+D,D-185,3,False,X051;X111;X150D,University Woods; Cedar Playground; Gasoline Alley,X,5.141,Neighborhood Park,2,0.709,494.6,194.4,2,0.667,17.0,0.667,0.667,0.9339,0.0,220331.2,0.091
+D,D-186,3,False,X110#2;X110#4;X110D,Henry Hudson Parkway (2/8); Henry Hudson Parkway (4/8); Bell Tower Park,X,3.282,Parkway,2,0.298,180.8,71.6,2,0.667,23.2,0.0,0.667,0.9623,0.0,260301.9,0.272
+D,D-187,3,False,X110#8;X110A;X152,Henry Hudson Parkway (8/8); Hackett Park; Vinmont Veteran Park,X,8.673,Jointly Operated Playground,3,0.134,0.0,0.0,3,1.0,0.0,0.0,0.0,0.9702,0.0,164004.0,0.427
+D,D-188,3,False,X123;X148K1;X148K2,Noble Playground; Park; St. Lawrence Triangle,X,3.337,Triangle/Plaza,2,0.464,366.1,197.4,3,1.0,113.2,0.0,0.333,0.9297,0.0,143102.9,0.032
+D,D-189,3,False,X148J;X245;X288,Park; River Garden; West Farms Rapids,X,1.52,Garden,3,0.475,340.8,193.8,3,1.0,65.1,0.0,0.667,0.8085,0.0,158428.0,0.0
+D,D-190,3,False,X164;X164A;X255,Dawson Playground; Wishing Well Garden; Bill Rainey Park,X,8.828,Garden,3,0.125,177.5,109.8,3,1.0,93.2,0.333,0.333,0.9866,0.0,121826.1,0.0
+D,D-191,3,False,X257;X324;X331,Mount Hope Playground; 176th Street Community Garden; Townsend Garden,X,1.096,Garden,2,0.391,341.6,181.6,3,1.0,1.2,0.0,0.333,1.1464,0.0,131922.8,0.069
+D,D-192,2,False,B001;B553,American Playground; 61 Franklin Street Garden,B,0.937,Garden,2,0.141,79.2,79.2,1,1.0,1.9,1.0,1.0,1.1312,0.0,78085.6,0.017
+D,D-193,2,False,B012;B608,Brower Park; St. Mark's Playground,B,7.243,Neighborhood Park,2,0.297,197.7,197.7,1,1.0,219.5,0.5,0.5,0.5674,0.0,147587.7,0.0
+D,D-194,2,False,B017;B481,Bushwick Playground; Madison Square Garden Association,B,3.002,Garden,2,0.15,98.0,98.0,1,1.0,0.0,0.0,0.0,1.0292,0.0,100321.8,0.0
+D,D-195,2,False,B031;B114,Fidelity Triangle; Msgr. McGolrick Park,B,9.058,Neighborhood Park,2,0.313,141.8,141.8,1,1.0,0.6,0.5,1.0,1.1166,0.0,142630.0,0.0
+D,D-196,2,False,B041;B456,Grant Gore; Walt L Shemal Garden,B,0.167,Garden,2,0.128,164.8,164.8,1,1.0,101.4,0.0,0.5,1.1439,0.0,66507.2,0.0
+D,D-197,2,False,B045;B429,Heisser Triangle; Hope Ballfield,B,1.393,Neighborhood Park,2,0.149,79.1,79.1,1,1.0,0.7,0.5,0.5,1.1389,0.0,85131.2,0.022
+D,D-198,2,False,B051;B157,Kelly Park Playground; Kelly Park Playground,B,4.942,Jointly Operated Playground,2,0.09,36.4,36.4,1,1.0,0.1,0.0,1.0,1.0886,0.0,97860.8,0.0
+D,D-199,2,False,B063;B158,Milestone Park; Garibaldi Playground,B,0.919,Neighborhood Park,2,0.082,0.0,0.0,1,1.0,0.0,0.0,1.0,1.1158,0.0,66352.9,0.0
+D,D-200,2,False,B066;B082#10,Owl's Head Park; Shore Park and Parkway (10/10),B,27.309,Community Park,2,0.568,0.0,0.0,1,1.0,0.0,1.0,1.0,0.9553,0.0,231993.4,0.55
+D,D-201,2,False,B080;B337,Asser Levy Park; Century Playground,B,23.308,Community Park,2,0.437,89.2,89.2,1,1.0,0.2,0.5,1.0,0.9118,0.0,183438.0,0.121
+D,D-202,2,False,B082#5;B432,Shore Park and Parkway (5/10); American Veterans Memorial Pier,B,12.794,Community Park,2,0.679,0.0,0.0,1,1.0,0.0,0.0,0.0,0.5475,0.0,285049.2,0.451
+D,D-203,2,False,B090;B264,Sobel Playground; Roebling Playground,B,1.348,Jointly Operated Playground,2,0.124,7.9,7.9,1,1.0,0.0,0.0,1.0,1.1397,0.0,86115.8,0.034
+D,D-204,2,False,B110;B438,Marion Hopkinson Playground; 700 Decatur St Block Association,B,1.506,Garden,2,0.248,156.7,156.7,1,1.0,2.3,1.0,1.0,1.0924,0.0,111826.3,0.0
+D,D-205,2,False,B111;B111A,Washington Park; Washington Skate Park,B,4.872,Jointly Operated Playground,2,0.077,0.0,0.0,1,1.0,0.0,0.0,0.5,0.8545,0.0,99192.4,0.0
+D,D-206,2,False,B118A;B118B,St. Mary's Park; St. Mary's Park,B,0.695,Playground,2,0.077,0.0,0.0,1,1.0,0.0,1.0,1.0,1.0591,0.0,63917.2,0.0
+D,D-207,2,False,B125;B166C,Calvert Vaux Park; Coney Island Boat Basin,B,116.997,Recreational Field/Courts,1,0.356,0.0,0.0,1,1.0,0.0,0.5,0.5,0.8913,0.0,381959.0,0.03
+D,D-208,2,False,B126;B126A,Red Hook Recreation Area; Todd Triangle,B,46.201,Community Park,2,0.237,0.0,0.0,1,1.0,0.0,0.5,0.5,0.9046,0.0,313709.5,0.0
+D,D-209,2,False,B129;B598,Kaiser Park; West 23rd St. Garden,B,27.236,Community Park,2,0.348,0.0,0.0,1,1.0,0.0,0.5,0.5,0.9451,0.0,237554.9,0.104
+D,D-210,2,False,B146;B210O,Quaker Parrot Park at the Dust Bowl; Park,B,1.69,Recreational Field/Courts,2,0.236,174.3,174.3,1,1.0,6.8,0.5,0.5,1.1478,0.0,92898.0,0.63
+D,D-211,2,False,B147;B229,Monsignor Crawford Field; Triangle,B,1.961,Recreational Field/Courts,2,0.239,173.8,173.8,1,1.0,90.5,1.0,1.0,1.1189,0.0,108581.8,0.0
+D,D-212,2,False,B153;B464,South Pacific Playground; Farmers Garden,B,2.458,Garden,2,0.204,199.1,199.1,1,1.0,90.4,0.0,0.0,1.0082,0.0,106061.3,0.119
+D,D-213,2,False,B155;B535,Triangle; 400 Montauk Av Block Assn,B,0.115,Garden,2,0.055,0.0,0.0,1,1.0,0.0,1.0,1.0,1.1271,0.0,49519.1,0.0
+D,D-214,2,False,B165;Q165,Spring Creek Park; Spring Creek Park Addition,B/Q,105.339,Nature Area,1,0.257,0.0,0.0,1,1.0,0.0,0.0,0.5,0.6392,0.0,330781.2,0.057
+D,D-215,2,False,B171;B174,Linden Sitting Area; Park,B,0.218,Triangle/Plaza,1,0.232,168.8,168.8,1,1.0,94.4,0.5,0.5,0.9931,0.0,81644.6,0.0
+D,D-216,2,False,B182;B528,Howard Malls; Howard Av Block Association,B,0.262,Garden,2,0.054,0.0,0.0,1,1.0,0.0,0.0,0.5,1.0644,0.0,54196.2,0.02
+D,D-217,2,False,B208;B273,Pfc Norton Playground; Aimee Triangle,B,0.671,Playground,2,0.195,114.6,114.6,1,1.0,0.9,0.5,1.0,1.2033,0.0,85288.5,0.0
+D,D-218,2,False,B214;B345,Linden Park; Ethan Allen Playground,B,9.913,Jointly Operated Playground,1,0.309,198.2,198.2,1,1.0,0.7,0.0,0.5,1.1134,0.0,167784.8,0.0
+D,D-219,2,False,B225;B567,St. Andrew's Playground; Her-King Alagantic Block Association Garden,B,3.531,Garden,2,0.229,137.3,137.3,1,1.0,0.1,0.5,0.5,1.1273,0.0,111582.8,0.0
+D,D-220,2,False,B230;B361,Nicholas Naquan Heyward Jr. Park; Boerum Park,B,1.963,Jointly Operated Playground,2,0.208,172.8,172.8,1,1.0,180.4,0.0,0.0,0.9211,0.0,104637.1,0.0
+D,D-221,2,False,B240;B393,Tucker Place; Sheepshead Bay Piers,B,6.492,Triangle/Plaza,2,0.299,0.0,0.0,1,1.0,0.0,1.0,1.0,0.7705,0.0,160414.6,0.0
+D,D-222,2,False,B245;B540,St. John's Park; Neighborhood Community Garden,B,9.113,Community Park,2,0.193,112.6,112.6,1,1.0,0.1,0.0,0.5,1.0625,0.0,124459.6,0.039
+D,D-223,2,False,B247;B384,Breukelen Ballfields; Fresh Creek Nature Preserve,B,92.876,Community Park,2,0.982,0.0,0.0,1,1.0,0.0,0.5,1.0,1.0356,0.0,506570.6,0.037
+D,D-224,2,False,B255A;B255B,Park; Park,B,0.116,Strip,1,0.186,87.7,87.7,1,1.0,180.4,0.5,1.0,1.2132,0.0,117289.8,0.343
+D,D-225,2,False,B258;B347,Brevoort Playground; Carver Playground,B,2.452,Jointly Operated Playground,2,0.192,118.8,118.8,1,1.0,66.2,0.0,0.0,0.9397,0.0,107245.6,0.0
+D,D-226,2,False,B259;B301,Underwood Park; Greene Playground,B,2.163,Jointly Operated Playground,2,0.252,156.5,156.5,1,1.0,0.1,0.0,0.5,1.1154,0.0,113930.4,0.0
+D,D-227,2,False,B262;B473,Potomac Playground; Hancock T and T,B,1.401,Garden,2,0.156,198.1,198.1,1,1.0,90.2,0.5,0.5,1.0954,0.0,86213.2,0.0
+D,D-228,2,False,B285;B376,Harry Maze Playground; Fidler-Wyckoff House Park,B,3.558,Historic House Park,2,0.237,193.0,193.0,1,1.0,25.3,0.5,1.0,1.09,0.0,131166.5,0.0
+D,D-229,2,False,B307;B332,Tiger Playground; Evergreen Playground,B,1.999,Jointly Operated Playground,1,0.241,177.9,177.9,1,1.0,90.0,0.0,0.0,1.12,0.0,109235.0,0.116
+D,D-230,2,False,B325;B561,Fish Playground; Saratoga Farm,B,1.188,Garden,2,0.172,0.0,0.0,1,1.0,0.0,0.5,1.0,1.1852,0.0,84569.4,0.264
+D,D-231,2,False,B366;B492,Duke Park; St John Cantius Parish,B,0.314,Garden,2,0.094,0.0,0.0,1,1.0,0.0,0.0,0.0,1.0986,0.0,62958.3,0.047
+D,D-232,2,False,B371;B548,Spring Creek Park; Park,B,43.86,Community Park,2,1.006,156.0,156.0,1,1.0,1.7,1.0,1.0,1.0024,0.0,460881.8,0.041
+D,D-233,2,False,B382A;B382B,Roberto Clemente Ballfield; Jacob's Ladder Playground,B,3.014,Neighborhood Park,2,0.157,95.1,95.1,1,1.0,3.5,1.0,1.0,1.0073,0.0,103569.3,0.0
+D,D-234,2,False,B402;Q083#2,George Walker Jr. Park; Jackie Robinson Parkway (2/17),B/Q,5.537,Neighborhood Park,2,0.221,163.7,163.7,1,1.0,2.2,0.5,0.5,0.9794,0.0,197201.9,0.185
+D,D-235,2,False,B477;B514,Jerome Gardens; Nehemiah Ten Garden,B,0.316,Garden,1,0.218,173.7,173.7,1,1.0,0.1,0.5,0.5,1.1436,0.0,84685.7,0.335
+D,D-236,2,False,B517;B600,Phoenix Community Garden; Garden,B,0.632,Garden,1,0.045,0.0,0.0,1,1.0,0.0,0.0,0.5,0.948,0.0,68448.9,0.164
+D,D-237,2,False,B529;B536,Bushwick Inlet Park; North 5th Street Pier and Park,B,39.595,Neighborhood Park,2,0.532,179.2,179.2,1,1.0,97.9,0.5,0.5,0.9226,0.0,323766.2,0.0
+D,D-238,2,False,M022;M393,De Witt Clinton Park; Oasis Garden,M,5.911,Garden,2,0.334,138.6,138.6,1,1.0,2.7,0.0,0.5,1.0307,0.0,133301.7,0.0
+D,D-239,2,False,M029;M091,Fort Tryon Park; Bennett Rest,M,71.237,Community Park,2,0.56,0.0,0.0,1,1.0,0.0,0.5,0.5,0.8894,0.0,339523.8,0.096
+D,D-240,2,False,M032;M036,Greeley Square Park; Herald Square,M,0.356,Triangle/Plaza,1,0.173,84.4,84.4,1,1.0,3.3,0.0,1.0,0.7439,0.0,82051.9,0.0
+D,D-241,2,False,M039#1;M300,Harlem River Park (1/15); Sherman Creek,M,18.0,Neighborhood Park,2,0.165,0.0,0.0,1,1.0,0.0,0.0,0.0,0.567,0.0,123062.2,0.142
+D,D-242,2,False,M039#6;M186,Harlem River Park (6/15); Brigadier General Charles Young Playground,M,8.044,Neighborhood Park,2,0.2,0.0,0.0,1,1.0,0.0,0.0,0.0,0.6785,0.0,147591.8,0.212
+D,D-243,2,False,M046;M212,Vietnam Veterans Plaza; The Queen Elizabeth II September 11th Garden,M,0.949,Triangle/Plaza,1,0.222,184.8,184.8,1,1.0,103.8,0.0,0.0,0.8566,0.0,101030.8,0.0
+D,D-244,2,False,M052;M101,Madison Square Park; Worth Square,M,6.505,Neighborhood Park,2,0.105,0.0,0.0,1,1.0,0.0,1.0,1.0,1.0559,0.0,105073.0,0.0
+D,D-245,2,False,M058;M362,Marcus Garvey Park; W 124th Street Community Garden,M,19.7,Community Park,2,0.314,79.4,79.4,1,1.0,4.7,0.5,0.5,1.1199,0.0,172813.7,0.25
+D,D-246,2,False,M060A;M060C#2,Park Avenue Malls; Park Avenue Malls (2/8),M,0.783,Mall,1,0.161,0.0,0.0,1,1.0,0.0,0.0,0.0,1.1407,0.0,138244.2,0.228
+D,D-247,2,False,M060C#8;M236,Park Avenue Malls (8/8); Samuel Seabury Playground,M,1.436,Jointly Operated Playground,2,0.209,145.6,145.6,1,1.0,2.0,0.0,0.0,1.0047,0.0,152973.6,0.206
+D,D-248,2,False,M070;M108Q,Queensboro Oval; Twenty-Four Sycamores Park,M,1.912,Playground,2,0.122,0.0,0.0,1,1.0,0.0,0.0,0.0,1.0467,0.0,79748.9,0.491
+D,D-249,2,False,M073;M348,Roger Morris Park; Morris-Jumel Ecological Education Garden,M,1.66,Garden,2,0.14,56.9,56.9,1,1.0,1.1,0.0,0.0,0.9995,0.0,67880.4,0.18
+D,D-250,2,False,M081;M108T01#5,Carl Schurz Park; East River Esplanade (5/8),M,15.142,Neighborhood Park,2,0.416,0.0,0.0,1,1.0,0.0,0.0,0.0,0.5486,0.0,213258.3,0.358
+D,D-251,2,False,M087;M094A,Sakura Park; Broadway Malls,M,3.377,Mall,2,0.184,85.1,85.1,1,1.0,0.3,0.0,0.5,1.0276,0.0,267291.7,0.103
+D,D-252,2,False,M108G;M258,Playground 103 CIII; East River Playground,M,2.428,Jointly Operated Playground,2,0.267,194.5,194.5,1,1.0,176.9,0.0,0.5,0.6364,0.0,112405.4,0.644
+D,D-253,2,False,M108N;M256,Peter Detmold Park; MacArthur Playground,M,0.9,Neighborhood Park,2,0.134,45.8,45.8,1,1.0,47.8,0.0,0.0,0.75,0.0,92108.7,0.119
+D,D-254,2,False,M144;M369,John V. Lindsay East River Park; Pier 42,M,52.561,Community Park,2,1.073,0.0,0.0,1,1.0,0.0,0.0,0.0,0.5091,0.0,489461.4,0.164
+D,D-255,2,False,M165;M201,Baruch Playground; Wald Playground,M,2.837,Jointly Operated Playground,2,0.239,164.2,164.2,1,1.0,98.4,0.0,0.0,0.8784,0.0,118967.4,0.263
+D,D-256,2,False,M177;M280,Honey Locust Park; Tramway Plaza,M,0.68,Triangle/Plaza,1,0.181,122.3,122.3,1,1.0,3.0,0.0,0.5,0.8435,0.0,84320.8,0.016
+D,D-257,2,False,M188;M188A,Abe Lebewohl Park; Abe Lebewohl Triangle,M,0.154,Triangle/Plaza,1,0.071,0.0,0.0,1,1.0,0.0,0.0,0.5,0.9958,0.0,52673.9,0.0
+D,D-258,2,False,M193;M217,Abraham Lincoln Playground; Howard Bennett Playground,M,2.423,Community Park,2,0.207,107.9,107.9,1,1.0,0.8,0.0,0.5,1.095,0.0,107577.9,0.054
+D,D-259,2,False,M214;M271A,Blake Hobbs Playground; Harlem RBI,M,1.798,Neighborhood Park,2,0.211,198.0,198.0,1,1.0,91.9,0.0,0.5,0.9724,0.0,112983.0,0.0
+D,D-260,2,False,M239;M323,P.S. 155 Playground; Diamante Garden,M,1.037,Garden,2,0.1,71.1,71.1,1,1.0,0.0,0.0,0.0,0.9641,0.0,71316.8,0.206
+D,D-261,2,False,M263;M265,Bellevue South Park; Vincent F. Albano Jr. Playground,M,1.955,Neighborhood Park,2,0.228,161.7,161.7,1,1.0,93.7,0.0,0.5,0.9814,0.0,108444.8,0.0
+D,D-262,2,False,M264;M301,Playground Eighty Nine LXXXIX; St. Gregory's Playground,M,0.67,Jointly Operated Playground,2,0.098,21.5,21.5,1,1.0,127.5,0.0,0.0,0.7876,0.0,68892.2,0.074
+D,D-263,2,False,M277;M281,Hell's Kitchen Park; Clinton Community Garden,M,0.955,Garden,2,0.074,0.0,0.0,1,1.0,0.0,0.5,0.5,1.1119,0.0,63887.8,0.455
+D,D-264,2,False,M299;M389,Pleasant Village Community Garden; St. Mark's Garden,M,0.49,Garden,1,0.207,188.7,188.7,1,1.0,92.2,0.0,0.0,1.06,0.0,85739.9,0.257
+D,D-265,2,False,M318;M414,Merchant's House Museum; Manuel Plaza,M,0.299,Historic House Park,2,0.016,0.0,0.0,1,1.0,0.0,0.0,0.0,0.6415,0.0,44890.7,0.223
+D,D-266,2,False,Q004;Q004A,Astoria Park; Ralph Demarco Park,Q,61.925,Community Park,2,0.777,0.0,0.0,1,1.0,0.0,1.0,1.0,0.8603,0.0,393192.4,0.097
+D,D-267,2,False,Q010A;Q458,Little Bay Park; Fort Totten Park,Q,116.947,Community Park,2,0.656,0.0,0.0,1,1.0,0.0,1.0,1.0,0.8321,0.0,711506.1,0.0
+D,D-268,2,False,Q012;Q012B,Crocheron Park; John Golden Park,Q,56.549,Community Park,1,0.277,0.0,0.0,1,1.0,0.0,0.5,0.5,0.9007,0.0,205310.4,0.0
+D,D-269,2,False,Q027#4;Q307,Laurelton Parkway (4/8); Delphin H. Greene Playground,Q,9.398,Jointly Operated Playground,2,0.208,104.4,104.4,1,1.0,2.2,0.0,0.0,0.962,0.0,181809.5,0.395
+D,D-270,2,False,Q034;Q065,Sabba Park; John Vincent Daniels Jr. Square,Q,0.755,Triangle/Plaza,1,0.251,165.0,165.0,1,1.0,13.3,1.0,1.0,1.01,0.0,112837.0,0.0
+D,D-271,2,False,Q041;Q152,Newtown Playground; Horsebrook Island,Q,0.749,Neighborhood Park,2,0.262,186.5,186.5,1,1.0,12.6,0.0,0.0,1.0576,0.0,89100.9,0.0
+D,D-272,2,False,Q042;Q457,Poppenhusen Park; College Point Park,Q,0.723,Recreational Field/Courts,2,0.249,193.5,193.5,1,1.0,86.6,0.0,1.0,1.0419,0.0,92346.5,0.0
+D,D-273,2,False,Q043;Q402,Proctor-Hopson Circle; Latimer Playground,Q,1.175,Jointly Operated Playground,2,0.156,183.9,183.9,1,1.0,124.8,0.0,0.5,1.013,0.0,87154.7,0.0
+D,D-274,2,False,Q045;Q435,Andrews Grove; Vernon Mall,Q,0.671,Mall,2,0.133,116.3,116.3,1,1.0,90.4,0.0,0.0,1.045,0.0,78746.1,0.0
+D,D-275,2,False,Q051;Q447,Archie Spigner Park; Brinkerhoff Mall,Q,11.362,Community Park,2,0.397,188.3,188.3,1,1.0,7.0,0.0,0.5,0.9911,0.0,196482.4,0.0
+D,D-276,2,False,Q056;Q124,Clemens Triangle; Myrtle Avenue Clemens Triangle,Q,0.023,Triangle/Plaza,1,0.063,32.1,32.1,1,1.0,3.9,1.0,1.0,1.1344,0.0,47562.4,0.0
+D,D-277,2,False,Q058;Q462,Dunningham Triangle; Manuel De Dios Unanue Triangle,Q,0.042,Triangle/Plaza,1,0.152,109.1,109.1,1,1.0,2.7,1.0,1.0,1.1128,0.0,64489.1,0.0
+D,D-278,2,False,Q063;Q423,Luke J. Lang Square; Reiff Playground,Q,1.676,Neighborhood Park,2,0.058,0.0,0.0,1,1.0,0.0,1.0,1.0,1.064,0.0,69483.1,0.0
+D,D-279,2,False,Q066F;Q137,Hoyt Playground; Columbus Square,Q,2.4,Neighborhood Park,2,0.165,61.6,61.6,1,1.0,6.1,0.0,0.5,0.9181,0.0,95650.8,0.0
+D,D-280,2,False,Q067;Q067A,Pigeon Paradise; General Hart Playground,Q,1.013,Neighborhood Park,2,0.064,0.0,0.0,1,1.0,0.0,1.0,1.0,1.0799,0.0,62078.1,0.0
+D,D-281,2,False,Q086;Q419,Flushing Fields; Hart Playground,Q,8.488,Community Park,2,0.194,166.4,166.4,1,1.0,0.2,0.5,0.5,0.9824,0.0,206805.8,0.0
+D,D-282,2,False,Q107;Q406,Springfield Park; Springfield Park North,Q,26.841,Community Park,2,0.625,0.0,0.0,1,1.0,0.0,0.0,0.5,1.0018,0.0,225875.9,0.0
+D,D-283,2,False,Q116;Q160,One Room Schoolhouse Park; O'Sullivan Plaza,Q,0.144,Triangle/Plaza,1,0.143,119.6,119.6,1,1.0,0.3,0.0,0.5,1.03,0.0,68364.0,0.0
+D,D-284,2,False,Q121;Q121A,Detective Keith L Williams Park; William Simmons Community Garden Club,Q,8.279,Community Park,2,0.151,0.0,0.0,1,1.0,0.0,0.5,0.5,0.7501,0.0,125699.5,0.0
+D,D-285,2,False,Q127;Q489,Marconi Park; George Washington Carver Botanical Garden,Q,4.713,Garden,2,0.173,54.8,54.8,1,1.0,0.0,0.0,0.0,1.0448,0.0,106519.5,0.0
+D,D-286,2,False,Q130;Q349,Motor Parkway; Telephone Playground,Q,14.974,Jointly Operated Playground,2,0.331,197.9,197.9,1,1.0,6.9,0.5,0.5,0.8967,0.0,403511.9,0.0
+D,D-287,2,False,Q133A;Q133B,Hempstead Ballfield; Hempstead Bench Spread,Q,2.208,Recreational Field/Courts,2,0.079,153.2,153.2,1,1.0,145.7,0.0,0.0,0.8409,0.0,58020.9,0.002
+D,D-288,2,False,Q162H;Q162H01,Beach 30th Street Playground; Park,Q,8.376,Nature Area,2,0.318,34.1,34.1,1,1.0,0.8,0.0,0.0,0.7619,0.0,89584.8,0.024
+D,D-289,2,False,Q178#1;Q381,Mall Forty Two XLII (1/3); Francis Lewis Playground,Q,1.714,Jointly Operated Playground,2,0.13,49.7,49.7,1,1.0,0.5,0.0,0.0,0.9498,0.0,140545.5,0.197
+D,D-290,2,False,Q219#10;Q353,Rockaway Freeway (10/16); Grassmere Playground,Q,1.512,Jointly Operated Playground,2,0.236,142.2,142.2,1,1.0,82.5,0.0,0.5,1.0203,0.0,130768.2,0.218
+D,D-291,2,False,Q219#16;Q389,Rockaway Freeway (16/16); Bayside Playground,Q,1.436,Jointly Operated Playground,2,0.237,193.9,193.9,1,1.0,91.7,0.0,0.5,1.0179,0.0,112687.3,0.281
+D,D-292,2,False,Q219#6;Q403,Rockaway Freeway (6/16); Beach Channel Playground,Q,1.515,Jointly Operated Playground,2,0.182,155.5,155.5,1,1.0,2.5,0.0,0.0,0.9115,0.0,129789.6,0.488
+D,D-293,2,False,Q220D;Q220E,Foch Sitting Area; Playground One Forty,Q,1.447,Playground,2,0.284,156.9,156.9,1,1.0,29.3,0.5,1.0,1.0882,0.0,111395.4,0.0
+D,D-294,2,False,Q220F;Q220G,Maple Grove Park; Hoover - Manton Playgrounds,Q,7.078,Neighborhood Park,2,0.277,178.1,178.1,1,1.0,3.2,0.0,1.0,0.9332,0.0,164356.4,0.0
+D,D-295,2,False,Q226;Q477,Hallets Cove Playground; Two Coves Community Garden,Q,6.619,Garden,2,0.471,13.2,13.2,1,1.0,7.9,0.5,0.5,0.7514,0.0,212157.8,0.012
+D,D-296,2,False,Q254;Q514,Corporal Frank F. Fagan Sq.; Woodside Houses Park,Q,0.149,Neighborhood Park,2,0.076,44.5,44.5,1,1.0,0.2,1.0,1.0,1.163,0.0,53159.9,0.0
+D,D-297,2,False,Q262;Q452,Alameda Malls; Udalls Park Preserve,Q,44.356,Mall,2,1.369,99.8,99.8,1,1.0,48.8,0.5,0.5,0.8982,0.0,640822.3,0.0
+D,D-298,2,False,Q268;Q316,Bell Malls; Captain Dermody Triangle,Q,1.843,Mall,2,0.322,177.7,177.7,1,1.0,16.3,1.0,1.0,1.0434,0.0,276250.4,0.0
+D,D-299,2,False,Q277;Q396,South Gate Mall; Montbellier Park,Q,4.551,Community Park,2,0.196,98.5,98.5,1,1.0,50.2,0.0,0.0,0.9991,0.0,136721.7,0.0
+D,D-300,2,False,Q300A;Q300A1,Kissena Corridor Park; Holy Cow Playground,Q,46.253,Community Park,2,0.518,0.0,0.0,1,1.0,0.0,0.0,0.0,0.9527,0.0,535482.3,0.0
+D,D-301,2,False,Q301;Q493,Jamaica Playground; Discovery Garden,Q,2.756,Garden,2,0.163,57.5,57.5,1,1.0,0.0,0.0,0.0,1.0664,0.0,105897.4,0.0
+D,D-302,2,False,Q332;Q395,Woodtree Playground; Steinway Playground,Q,1.85,Jointly Operated Playground,2,0.145,80.8,80.8,1,1.0,0.0,0.5,0.5,1.044,0.0,90487.4,0.0
+D,D-303,2,False,Q360J;Q360X,Crowley Playground; Park,Q,1.7,Neighborhood Park,2,0.274,190.7,190.7,1,1.0,179.9,0.5,0.5,0.6618,0.0,108739.9,0.377
+D,D-304,2,False,Q360L;Q360W,Park; Park,Q,0.012,Strip,1,0.156,0.0,0.0,1,1.0,0.0,0.0,0.0,0.5027,0.0,64566.6,0.467
+D,D-305,2,False,Q448;Q490,Roy Wilkins Recreation Center; Locust Manor Civic Association,Q,56.887,Community Park,2,0.491,193.5,193.5,1,1.0,165.1,0.5,0.5,0.9599,0.0,311693.4,0.0
+D,D-306,2,False,R010;R062,Staats Circle; Arrochar Playground,R,1.211,Jointly Operated Playground,2,0.217,149.7,149.7,1,1.0,125.2,0.5,1.0,1.0801,0.0,100696.3,0.0
+D,D-307,2,False,R011;R021,Hero Park; Forest Mall,R,3.509,Neighborhood Park,2,0.299,129.6,129.6,1,1.0,23.0,1.0,1.0,1.0227,0.0,117781.3,0.0
+D,D-308,2,False,R012;R059,John E. White Park; Von Briesen Park,R,14.854,Neighborhood Park,1,0.394,147.9,147.9,1,1.0,89.5,0.5,0.5,0.9926,0.0,281770.7,0.0
+D,D-309,2,False,R015;R116,Walker Park; Snug Harbor Cultural Center,R,89.398,Historic House Park,2,0.553,137.1,137.1,1,1.0,21.2,0.5,1.0,1.0149,0.0,400223.0,0.046
+D,D-310,2,False,R020;R076,Egbert Triangle; Markham Playground,R,3.042,Jointly Operated Playground,2,0.215,38.4,38.4,1,1.0,0.3,1.0,1.0,1.0706,0.0,112404.8,0.0
+D,D-311,2,False,R025;R086,Mahoney Playground; Davis Playground,R,3.035,Jointly Operated Playground,2,0.122,16.3,16.3,1,1.0,0.0,0.0,0.0,0.4633,0.0,93734.4,0.0
+D,D-312,2,False,R027#3;R027A,Long Pond Park (3/4); Aesop Park,R,23.191,Jointly Operated Playground,2,0.27,83.8,83.8,1,1.0,0.7,0.5,0.5,0.7941,0.0,179270.7,0.239
+D,D-313,2,False,R028;R170,Tappen Park; Stapleton Esplanade,R,6.387,Historic House Park,2,0.403,138.3,138.3,1,1.0,2.2,0.5,0.5,0.9427,0.0,200829.5,0.0
+D,D-314,2,False,R034;R105,Austin J. McDonald Playground; Prall Playground,R,2.658,Jointly Operated Playground,2,0.269,157.9,157.9,1,1.0,11.2,1.0,1.0,0.9458,0.0,121935.6,0.0
+D,D-315,2,False,R048;R123,Jones Woods Park; Cottages Hill New Brighton Park,R,19.137,Nature Area,2,0.242,41.8,41.8,1,1.0,91.2,0.0,0.0,0.8047,0.0,187794.0,0.167
+D,D-316,2,False,R053;R094,Harris Brothers Park; Park,R,3.464,Neighborhood Park,2,0.193,103.9,103.9,1,1.0,0.3,0.5,0.5,1.0144,0.0,80900.5,0.0
+D,D-317,2,False,R075E;R075F,Park; Park,R,0.185,Strip,1,0.137,73.0,73.0,1,1.0,0.0,0.0,0.0,0.8013,0.0,247681.4,0.131
+D,D-318,2,False,R095;R096,Park; Park,R,0.809,Nature Area,2,0.231,162.8,162.8,1,1.0,12.8,0.0,0.0,0.8821,0.0,72290.7,0.24
+D,D-319,2,False,R097;R098,Ida Court; Park,R,7.444,Parkway,2,0.328,0.0,0.0,1,1.0,0.0,0.0,0.0,0.724,0.0,158561.7,0.11
+D,D-320,2,False,R102;R103,Park; Park,R,0.011,Strip,1,0.131,0.0,0.0,1,1.0,0.0,0.0,0.0,0.7702,0.0,60641.4,0.0
+D,D-321,2,False,R112#18;R163,Meredith Woods (18/25); Meredith Woods,R,20.626,Nature Area,1,0.371,0.0,0.0,1,1.0,0.0,0.0,0.0,1.1003,0.0,360095.6,0.213
+D,D-322,2,False,R137;R137A,Bayview Terrace Park; Garden,R,17.212,Garden,2,0.133,0.0,0.0,1,1.0,0.0,0.0,0.0,0.8206,0.0,162231.1,0.01
+D,D-323,2,False,X001A#4;X265,Aqueduct Walk (4/5); Galileo Playground,X,2.325,Community Park,2,0.405,260.3,260.3,1,1.0,162.0,0.0,0.0,0.8131,0.0,153213.1,0.357
+D,D-324,2,False,X001B;X040,Barnhill Square; Poe Park,X,2.351,Playground,2,0.567,486.5,486.5,0,0.0,80.0,0.0,0.0,1.0623,0.0,115265.3,0.37
+D,D-325,2,False,X017;X037,Richman (Echo) Park; O'Brien Oval,X,4.637,Neighborhood Park,2,0.176,0.0,0.0,1,1.0,0.0,0.5,1.0,1.0366,0.0,106972.7,0.0
+D,D-326,2,False,X045;X228,St. Mary's Park; I-Am-Park,X,35.854,Community Park,2,0.192,0.0,0.0,1,1.0,0.0,0.0,1.0,1.0578,0.0,191791.1,0.027
+D,D-327,2,False,X046;X193,Seton Falls Park; Stars & Stripes Playground,X,37.624,Jointly Operated Playground,2,0.205,0.0,0.0,1,1.0,0.0,0.0,1.0,0.9617,0.0,220037.6,0.0
+D,D-328,2,False,X049;X149,Schneider Sampson Square; Miele Park,X,0.415,Mall,2,0.194,153.7,153.7,1,1.0,50.3,0.0,0.0,1.1091,0.0,89162.0,0.0
+D,D-329,2,False,X061;X174,Flood Triangle; Webster Playground,X,0.878,Playground,2,0.228,148.5,148.5,1,1.0,102.6,0.0,0.5,1.0844,0.0,90057.6,0.0
+D,D-330,2,False,X065;X088,Woodrow Wilson Triangle; Pugsley Creek Park,X,67.999,Nature Area,2,0.598,138.0,138.0,1,1.0,1.2,0.0,1.0,0.8473,0.0,382000.8,0.295
+D,D-331,2,False,X070;X150E,Heath Triangle; Fordham Landing Playground,X,4.613,Playground,2,0.405,186.4,186.4,1,1.0,4.4,0.0,0.0,0.7887,0.0,196000.2,0.097
+D,D-332,2,False,X084;X095,D'Onofrio Square; Marcus Garvey Square,X,1.602,Triangle/Plaza,1,0.257,130.3,130.3,1,1.0,8.2,0.5,0.5,0.998,0.0,130750.4,0.003
+D,D-333,2,False,X101A;X256,Samuel H. Young Park; Pelham Bay Little League,X,2.515,Recreational Field/Courts,1,0.055,0.0,0.0,1,1.0,0.0,1.0,1.0,1.0434,0.0,62756.8,0.0
+D,D-334,2,False,X118A;X262,Harding Park Beautification Project; Harding Park,X,3.336,Garden,2,0.26,148.5,148.5,1,1.0,102.4,0.0,0.0,0.7932,0.0,131013.5,0.0
+D,D-335,2,False,X136;X137,Harris Park; Jerome Park,X,18.865,Neighborhood Park,1,0.339,0.0,0.0,1,1.0,0.0,0.0,0.5,0.9601,0.0,256236.7,0.015
+D,D-336,2,False,X160;X177,Caserta Playground; Castle Hill Playground,X,2.283,Jointly Operated Playground,1,0.196,193.5,193.5,1,1.0,0.0,0.0,1.0,1.1404,0.0,113457.5,0.0
+D,D-337,2,False,X168;X328,Nelson Playground; Las Casitas Community Garden,X,1.457,Garden,2,0.149,120.1,120.1,1,1.0,0.0,0.0,0.0,1.046,0.0,85779.8,0.183
+D,D-338,2,False,X182;X277A,Millbrook Playground; United We Stand Garden,X,1.371,Garden,2,0.156,75.6,75.6,1,1.0,0.0,0.0,0.0,0.9522,0.0,85874.6,0.696
+D,D-339,2,False,X194;X216,Captain Rivera Playground; Abigail Playground,X,1.744,Playground,1,0.194,195.3,195.3,1,1.0,12.5,0.0,0.0,0.9479,0.0,105236.4,0.015
+D,D-340,2,False,X205;X208,FDNY-EMT Yadira Arroyo Playground; Haviland Playground,X,1.181,Jointly Operated Playground,1,0.1,0.0,0.0,1,1.0,0.0,0.0,0.0,1.043,0.0,72765.9,0.057
+D,D-341,2,False,X206;X286,Morgan Playground; Rev Lena Irons Unity Park,X,1.111,Jointly Operated Playground,2,0.151,51.1,51.1,1,1.0,0.1,0.0,1.0,1.0729,0.0,90028.1,0.03
+D,D-342,2,False,X235;X313,Grove Hill Playground; El Batey Borincano Garden,X,1.415,Garden,2,0.101,65.2,65.2,1,1.0,0.2,0.0,0.0,1.0442,0.0,75100.5,0.048
+D,D-343,2,False,X270;X361,Freeman Garden; Synergi Urban Garden UCFP,X,0.377,Garden,1,0.037,0.0,0.0,1,1.0,0.0,0.0,0.0,1.05,0.0,50649.0,0.0
+D,D-344,2,False,X271;X358,Grant Park; College Avenue Garden,X,5.159,Garden,2,0.294,127.7,127.7,1,1.0,91.7,0.5,0.5,0.9998,0.0,137328.1,0.165
+D,D-345,2,False,X276;X345,Granja Farm OTF; St. Ann's Block Association Garden,X,0.407,Garden,1,0.173,115.4,115.4,1,1.0,101.9,0.0,0.5,1.1366,0.0,80057.1,0.014
+D,D-346,2,False,X280;X302,Washington Park; Thorpe Family Playground,X,0.736,Playground,1,0.114,74.9,74.9,1,1.0,4.8,0.0,0.0,1.0757,0.0,75149.3,0.0
+D,D-347,2,False,X281;X323,Stop & Go Playground; El Batey de Doña Provi Garden,X,0.439,Garden,2,0.363,359.5,359.5,1,1.0,91.8,0.0,0.0,1.1027,0.0,84720.1,0.189
+D,D-348,2,False,X304;X307,Tiffany Street Pier; Barretto Point Park,X,16.977,Neighborhood Park,2,0.202,0.0,0.0,1,1.0,0.0,0.0,0.0,0.7644,0.0,153150.1,0.0
+D,D-349,2,False,X340;X342,CS 134 Community Improvement Garden; Model T Senior Citizen's Garden,X,0.434,Garden,1,0.081,0.0,0.0,1,1.0,0.0,0.0,0.0,0.2585,0.0,62531.2,0.0
+D,D-S-B002,1,True,B002,Amersfort Park,B,3.503,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.046,0.667,90576.2,0.0
+D,D-S-B003,1,True,B003,Bartel-Pritchard Square,B,1.705,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,0.7479,0.667,47926.8,0.0
+D,D-S-B006,1,True,B006,Beattie Square,B,0.013,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.169,0.333,34915.4,0.0
+D,D-S-B007,1,True,B007,Bensonhurst Park,B,17.284,Recreational Field/Courts,1,0.0,0.0,,0,,,1.0,1.0,1.0594,0.667,152756.1,0.0
+D,D-S-B016,1,True,B016,Maria Hernandez Park,B,6.721,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.1062,0.333,98407.1,0.0
+D,D-S-B019,1,True,B019,Carroll Park,B,1.914,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.014,0.667,72069.1,0.0
+D,D-S-B022,1,True,B022,Sarah J.S. Tompkins Garnet Playground,B,1.1,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0064,0.667,58146.2,0.0
+D,D-S-B023,1,True,B023,Lafayette Playground,B,0.533,Playground,1,0.0,0.0,,0,,,0.0,1.0,1.0865,0.333,51390.4,0.144
+D,D-S-B029#1,1,True,B029#1,Eastern Parkway (1/10),B,2.691,Parkway,1,0.0,0.0,,0,,,1.0,1.0,1.1006,0.667,128538.8,0.6
+D,D-S-B029#2,1,True,B029#2,Eastern Parkway (2/10),B,2.591,Parkway,1,0.0,0.0,,0,,,0.0,1.0,0.8059,0.333,130516.7,0.592
+D,D-S-B029#5,1,True,B029#5,Eastern Parkway (5/10),B,2.419,Parkway,1,0.0,0.0,,0,,,0.0,1.0,1.1324,0.667,129841.8,0.592
+D,D-S-B029#6,1,True,B029#6,Eastern Parkway (6/10),B,2.496,Parkway,1,0.0,0.0,,0,,,1.0,1.0,0.9979,0.333,128912.6,0.595
+D,D-S-B029#9,1,True,B029#9,Eastern Parkway (9/10),B,2.552,Parkway,1,0.0,0.0,,0,,,0.0,1.0,0.9529,0.667,126904.5,0.614
+D,D-S-B033,1,True,B033,Fort Hamilton Triangle,B,0.079,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.215,0.333,42177.8,0.005
+D,D-S-B037,1,True,B037,Freedom Triangle,B,0.004,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.2029,0.333,33602.5,0.0
+D,D-S-B042,1,True,B042,Gravesend Park,B,4.998,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.0228,1.0,98931.6,0.0
+D,D-S-B047A,1,True,B047A,Highland Park Childrens Garden,B,0.421,Garden,1,0.0,0.0,,0,,,1.0,1.0,0.8869,0.667,28930.2,0.0
+D,D-S-B049,1,True,B049,Irving Square Park,B,2.849,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.025,0.333,80607.4,0.0
+D,D-S-B060,1,True,B060,McKinley Park,B,8.239,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1053,0.333,131003.0,0.0
+D,D-S-B077,1,True,B077,Coffey Park,B,8.204,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0145,0.333,105501.0,0.0
+D,D-S-B078,1,True,B078,Grace Playground,B,2.729,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.0676,0.333,76658.2,0.007
+D,D-S-B082#2,1,True,B082#2,Shore Park and Parkway (2/10),B,6.488,Community Park,1,0.0,0.0,,0,,,0.0,0.0,1.0686,0.333,157451.1,0.479
+D,D-S-B082#3,1,True,B082#3,Shore Park and Parkway (3/10),B,13.738,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.9948,0.333,159403.1,0.464
+D,D-S-B082#7,1,True,B082#7,Shore Park and Parkway (7/10),B,18.171,Community Park,1,0.0,0.0,,0,,,0.0,0.0,1.0197,0.333,160245.7,0.46
+D,D-S-B082#9,1,True,B082#9,Shore Park and Parkway (9/10),B,8.241,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.9445,0.667,160572.6,0.465
+D,D-S-B087,1,True,B087,Sunset Park,B,23.383,Community Park,1,0.0,0.0,,0,,,0.0,1.0,1.144,0.333,162553.2,0.0
+D,D-S-B089,1,True,B089,Lowry Triangle,B,0.112,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.9426,0.333,43168.0,0.0
+D,D-S-B093,1,True,B093,Weeksville Playground,B,0.293,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0164,0.333,45432.1,0.288
+D,D-S-B094,1,True,B094,Sgt. Joyce Kilmer Square,B,0.001,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1542,0.333,32408.3,0.0
+D,D-S-B095,1,True,B095,Ennis Playground,B,0.615,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8813,0.667,52539.9,0.0
+D,D-S-B096,1,True,B096,Sgt. William Dougherty Playground,B,0.429,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0368,0.667,47589.7,0.0
+D,D-S-B097,1,True,B097,Sledge Playground,B,0.335,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1485,0.667,46334.9,0.0
+D,D-S-B098,1,True,B098,Martin Luther Playground,B,0.953,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1878,0.667,56206.2,0.0
+D,D-S-B099,1,True,B099,Lt. Joseph Petrosino Park,B,0.909,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1153,1.0,56386.1,0.0
+D,D-S-B100,1,True,B100,Seth Low Playground/ Bealin Square,B,4.91,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.164,0.667,104962.3,0.0
+D,D-S-B103,1,True,B103,Cypress Hills Playground,B,4.921,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.087,0.333,87906.6,0.0
+D,D-S-B105,1,True,B105,Taaffe Playground,B,1.838,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0079,0.333,82955.3,0.008
+D,D-S-B109,1,True,B109,Bill Brown Playground,B,3.302,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0857,0.333,86687.7,0.0
+D,D-S-B121,1,True,B121,Dodger Playground,B,0.286,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0654,0.333,45080.8,0.006
+D,D-S-B127,1,True,B127,Martinez Playground,B,1.373,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,1.0,0.9987,0.333,61167.9,0.0
+D,D-S-B128,1,True,B128,Colonel David Marcus Playground,B,2.582,Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1989,0.667,84669.8,0.0
+D,D-S-B132,1,True,B132,Gilbert Ramirez Park,B,1.066,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9413,0.333,66201.3,0.0
+D,D-S-B139,1,True,B139,Heckscher Playground,B,1.232,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1597,0.333,62088.7,0.03
+D,D-S-B145,1,True,B145,Thomas Greene Playground,B,2.542,Community Park,1,0.0,0.0,,0,,,1.0,1.0,0.9901,0.333,77220.3,0.0
+D,D-S-B148,1,True,B148,Rolph Henry Playground,B,0.227,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1337,0.333,43486.0,0.0
+D,D-S-B149A,1,True,B149A,Elton Playground,B,0.625,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0501,0.333,54602.2,0.931
+D,D-S-B149B,1,True,B149B,Linwood Playground,B,0.715,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9503,0.333,56288.8,0.768
+D,D-S-B150,1,True,B150,Kolbert Playground,B,1.673,Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9655,1.0,65374.4,0.0
+D,D-S-B151,1,True,B151,Dome Playground,B,1.194,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.1723,0.667,63583.6,0.0
+D,D-S-B152,1,True,B152,Rappaport Playground,B,1.122,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1805,0.667,60678.3,0.0
+D,D-S-B160,1,True,B160,Ketchum Triangle,B,0.014,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1084,0.667,35693.0,0.0
+D,D-S-B161,1,True,B161,James Forten Playground,B,0.623,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1196,0.333,51488.4,0.0
+D,D-S-B164,1,True,B164,Bath Beach Park,B,2.933,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9684,1.0,61527.7,0.0
+D,D-S-B165A,1,True,B165A,Spring Creek Park,B,2.202,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,,0.0,27197.2,0.689
+D,D-S-B166B,1,True,B166B,Homecrest Playground,B,2.216,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8891,0.667,68397.3,0.0
+D,D-S-B166D,1,True,B166D,McGuire Fields,B,74.22,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.864,0.667,302530.0,0.007
+D,D-S-B166E,1,True,B166E,Sixteen Lindens Triangle,B,0.246,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.8259,0.333,40702.3,0.0
+D,D-S-B169A,1,True,B169A,Brighton Playground,B,1.225,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0425,0.333,34556.5,0.032
+D,D-S-B172,1,True,B172,Heffernan Triangle,B,0.027,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0908,0.333,36444.2,0.0
+D,D-S-B173,1,True,B173,Fraser Square,B,0.527,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,0.9637,0.333,49216.6,0.0
+D,D-S-B175,1,True,B175,Dahill Triangle,B,0.064,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1178,0.333,37779.9,0.0
+D,D-S-B176,1,True,B176,Trust Triangle,B,0.079,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.1574,0.333,39168.7,0.0
+D,D-S-B184,1,True,B184,Avenue R Mall,B,0.258,Mall,1,0.0,0.0,,0,,,0.0,1.0,1.0969,0.333,90185.8,0.0
+D,D-S-B190,1,True,B190,Barone Triangle,B,0.149,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1691,0.333,41183.3,0.0
+D,D-S-B193,1,True,B193,Hamilton Metz Field,B,2.309,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0336,0.667,72834.6,0.0
+D,D-S-B197,1,True,B197,Mellett Playground,B,1.093,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.1758,0.667,58717.3,0.0
+D,D-S-B205,1,True,B205,Corporal Wiltshire Square,B,0.073,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1749,0.667,41652.9,0.0
+D,D-S-B206,1,True,B206,Sunners Playground,B,0.191,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0739,0.667,43542.1,0.0
+D,D-S-B207,1,True,B207,Sarsfield Playground,B,0.593,Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1599,0.333,58839.9,0.0
+D,D-S-B209,1,True,B209,Galapo Playground,B,0.56,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1742,0.667,51611.5,0.0
+D,D-S-B210B,1,True,B210B,D'Emic Playground,B,1.185,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9928,0.333,59984.7,0.0
+D,D-S-B210C,1,True,B210C,Cough Triangle,B,0.038,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.2577,0.333,37382.3,0.0
+D,D-S-B210F,1,True,B210F,Admiral Triangle,B,0.281,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1256,0.333,47621.9,0.012
+D,D-S-B210G,1,True,B210G,Triangle Three Sixteen,B,0.272,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.9074,0.333,45660.7,0.292
+D,D-S-B210I,1,True,B210I,Gonzalo Plasencia Playground,B,1.218,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1591,0.333,61862.9,0.0
+D,D-S-B210J,1,True,B210J,Pena Herrera Playground,B,0.736,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1383,0.333,56720.8,0.0
+D,D-S-B210U,1,True,B210U,Park,B,0.002,Strip,1,0.0,0.0,,0,,,0.0,1.0,1.246,0.333,37220.1,0.239
+D,D-S-B210V,1,True,B210V,Park,B,0.609,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.8782,0.333,59630.4,0.355
+D,D-S-B211,1,True,B211,Lady Moody Triangle,B,0.039,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0744,0.667,39426.4,0.0
+D,D-S-B213,1,True,B213,Gravesend Triangle,B,0.076,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.1061,0.667,39516.6,0.0
+D,D-S-B215,1,True,B215,Decatur Playground,B,0.802,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.081,0.333,54413.3,0.069
+D,D-S-B216,1,True,B216,Raymond Bush Playground,B,2.014,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1432,0.333,70188.5,0.0
+D,D-S-B218,1,True,B218,Paerdegat Park,B,3.573,Community Park,1,0.0,0.0,,0,,,0.0,0.0,1.087,0.333,90760.1,0.0
+D,D-S-B220,1,True,B220,Washington Hall Park,B,0.913,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1597,0.333,55814.2,0.0
+D,D-S-B223U,1,True,B223U,Lentol Garden,B,0.772,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.1681,0.333,60564.6,0.064
+D,D-S-B227,1,True,B227,P.S. 125 Playground,B,0.208,Playground,1,0.0,0.0,,0,,,1.0,1.0,0.702,0.333,45488.5,0.123
+D,D-S-B231,1,True,B231,Samuel Goldberg Triangle,B,0.015,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0939,0.333,35022.8,0.0
+D,D-S-B232,1,True,B232,Dean Playground,B,1.371,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9209,0.333,63119.4,0.0
+D,D-S-B234,1,True,B234,Tilden Playground,B,1.164,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.1236,1.0,59083.4,0.0
+D,D-S-B235,1,True,B235,Herman Dolgon Playground,B,1.901,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0915,0.667,68610.5,0.0
+D,D-S-B236,1,True,B236,Glenwood Playground,B,1.419,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1258,0.667,63995.7,0.0
+D,D-S-B237,1,True,B237,John Hancock Playground,B,1.552,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1224,0.333,70633.6,0.097
+D,D-S-B244,1,True,B244,McDonald Playground,B,3.476,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.1957,0.667,86242.0,0.0
+D,D-S-B246,1,True,B246,Jerome Playground,B,0.694,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.0776,0.333,52758.9,0.0
+D,D-S-B248,1,True,B248,Fox Playground,B,2.272,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.2,0.667,74469.4,0.0
+D,D-S-B249,1,True,B249,Van Dyke Playground,B,1.418,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,0.9435,0.333,61524.8,0.352
+D,D-S-B250,1,True,B250,Nostrand Playground,B,3.06,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9927,0.667,81678.2,0.0
+D,D-S-B251,1,True,B251,Manhattan Beach Park,B,42.915,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.952,1.0,214410.6,0.0
+D,D-S-B252,1,True,B252,West Playground,B,2.399,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0434,0.667,78773.1,0.0
+D,D-S-B254,1,True,B254,Wingate Park,B,5.687,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9663,0.333,102478.0,0.0
+D,D-S-B255O,1,True,B255O,Park,B,0.057,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.7416,0.333,38358.8,0.0
+D,D-S-B257,1,True,B257,Frost Playground,B,0.748,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8671,0.333,53901.2,0.0
+D,D-S-B265,1,True,B265,Rainbow Playground,B,0.46,Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1818,1.0,49653.3,0.0
+D,D-S-B267,1,True,B267,Winthrop Playground,B,1.252,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8501,0.667,69203.9,0.0
+D,D-S-B269,1,True,B269,Jesse Owens Playground,B,2.325,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1005,0.333,73489.5,0.101
+D,D-S-B271,1,True,B271,Railroad Playground,B,2.316,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,0.9608,0.667,74091.9,0.0
+D,D-S-B272,1,True,B272,Marlboro Playground,B,1.051,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0307,0.333,59027.2,0.0
+D,D-S-B274,1,True,B274,Bayview Playground,B,1.393,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0058,1.0,68116.2,0.0
+D,D-S-B275,1,True,B275,Grady Playground,B,3.374,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9614,0.667,69822.8,0.0
+D,D-S-B277,1,True,B277,Benson Playground,B,0.933,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1158,0.667,57183.7,0.0
+D,D-S-B278,1,True,B278,Sam Leggio Triangle,B,0.014,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.0324,0.667,29750.9,0.0
+D,D-S-B279,1,True,B279,Wilson Playground,B,1.605,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1138,0.333,73493.5,0.021
+D,D-S-B282,1,True,B282,Patrick O'Rourke Playground,B,1.23,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0241,0.667,62556.1,0.0
+D,D-S-B283,1,True,B283,Belmont Playground,B,0.495,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0292,0.333,49929.8,0.154
+D,D-S-B284,1,True,B284,Marc And Jason's Playground,B,1.148,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.8238,0.333,66432.6,0.004
+D,D-S-B286,1,True,B286,Bartlett Playground,B,1.055,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9865,0.333,58111.0,0.195
+D,D-S-B287,1,True,B287,Andries Playground,B,0.964,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1661,0.667,62248.8,0.0
+D,D-S-B289,1,True,B289,Cutinella Triangle,B,0.077,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1851,0.333,38469.3,0.0
+D,D-S-B290,1,True,B290,Public Place,B,0.124,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.176,0.333,56500.9,0.0
+D,D-S-B291,1,True,B291,Power Playground,B,2.336,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1352,0.333,74125.5,0.0
+D,D-S-B292,1,True,B292,Pratt Playground,B,0.918,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,0.9297,0.333,55742.1,0.012
+D,D-S-B296,1,True,B296,Luna Playground,B,1.709,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.6698,0.333,71312.7,0.298
+D,D-S-B297,1,True,B297,Albemarle Playground,B,0.538,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.8991,0.667,50794.6,0.0
+D,D-S-B300,1,True,B300,Oracle Playground,B,0.699,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9209,0.333,52950.2,0.013
+D,D-S-B302,1,True,B302,Charlie's Place,B,1.29,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9174,0.333,61125.3,0.186
+D,D-S-B304,1,True,B304,Kennedy King Playground,B,0.784,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0813,0.667,53960.6,0.0
+D,D-S-B305,1,True,B305,P.S. 279 Playground,B,0.231,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9836,0.333,46806.1,0.033
+D,D-S-B309,1,True,B309,Pink Playground,B,0.997,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9729,0.333,56841.6,0.0
+D,D-S-B311,1,True,B311,Ten Eyck Playground,B,1.091,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8868,0.333,58023.8,0.0
+D,D-S-B312,1,True,B312,Woodruff Playground,B,0.537,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1372,0.333,54374.4,0.0
+D,D-S-B313,1,True,B313,El Shabazz Playground,B,0.917,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0795,0.333,63179.2,0.0
+D,D-S-B316,1,True,B316,DiGilio Playground,B,0.851,Community Park,1,0.0,0.0,,0,,,0.0,0.0,1.1299,0.667,57901.5,0.0
+D,D-S-B320,1,True,B320,Park Slope Playground,B,1.036,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0856,0.333,59258.4,0.0
+D,D-S-B324,1,True,B324,Jacob Joffe Fields,B,2.94,Community Park,1,0.0,0.0,,0,,,0.0,1.0,1.1502,0.667,82810.9,0.0
+D,D-S-B326,1,True,B326,Cobble Hill Park,B,0.592,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9845,0.333,54551.7,0.0
+D,D-S-B329,1,True,B329,Lindower Park,B,6.51,Community Park,1,0.0,0.0,,0,,,0.0,0.0,1.0429,0.667,99879.6,0.0
+D,D-S-B330,1,True,B330,Hickman Playground,B,2.716,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1554,0.333,85990.6,0.0
+D,D-S-B331,1,True,B331,Neptune Playground,B,1.171,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.5228,0.333,69583.0,0.001
+D,D-S-B334,1,True,B334,Fermi Playground,B,1.052,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1576,0.333,66385.6,0.054
+D,D-S-B335,1,True,B335,Bildersee Playground,B,1.435,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1626,0.667,71851.9,0.0
+D,D-S-B342,1,True,B342,100% Playground,B,1.601,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1202,0.333,64878.6,0.0
+D,D-S-B349,1,True,B349,Bath Playground,B,1.131,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1395,0.667,68401.5,0.0
+D,D-S-B350,1,True,B350,Stroud Playground,B,1.183,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.7443,0.333,66840.2,0.0
+D,D-S-B352,1,True,B352,Curtis Playground,B,0.981,Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9114,0.667,56630.8,0.0
+D,D-S-B353,1,True,B353,Bergen Beach Playground,B,0.928,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0589,0.333,56667.1,0.0
+D,D-S-B356,1,True,B356,North Pacific Playground,B,0.159,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0883,0.333,41580.7,0.114
+D,D-S-B357,1,True,B357,Jackie Robinson Playground,B,1.005,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.041,0.667,56870.2,0.0
+D,D-S-B359,1,True,B359,Eleanor Roosevelt Playground,B,1.155,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1247,0.333,61059.6,0.0
+D,D-S-B360,1,True,B360,Remsen Playground,B,1.017,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,0.9212,0.667,59358.6,0.0
+D,D-S-B369,1,True,B369,Steeplechase Park,B,10.002,Community Park,1,0.0,0.0,,0,,,0.0,1.0,0.9178,0.333,54674.1,0.0
+D,D-S-B372,1,True,B372,Friends Field,B,6.403,Community Park,1,0.0,0.0,,0,,,0.0,1.0,0.8534,0.667,103863.8,0.0
+D,D-S-B375,1,True,B375,Chiarantano Playground,B,0.212,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1161,0.333,43096.4,0.0
+D,D-S-B378,1,True,B378,University Place,B,1.123,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0451,0.333,74215.7,0.0
+D,D-S-B379,1,True,B379,Coney Island Creek Park,B,8.891,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.3148,0.333,135122.6,0.1
+D,D-S-B380,1,True,B380,Robert E. Venable Park,B,2.95,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0602,0.333,77552.7,0.099
+D,D-S-B383,1,True,B383,Success Garden,B,0.948,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.1085,0.333,60598.5,0.0
+D,D-S-B385,1,True,B385,WNYC Transmitter Park,B,6.44,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8913,0.333,105116.4,0.136
+D,D-S-B388,1,True,B388,Gateway Triangle,B,0.079,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0978,0.333,40093.1,0.0
+D,D-S-B389,1,True,B389,Umma Park,B,0.112,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1194,0.333,44199.1,0.0
+D,D-S-B391,1,True,B391,Lt. Federico Narvaez Tot Lot,B,0.129,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1359,1.0,40822.8,0.0
+D,D-S-B392,1,True,B392,Lott Park,B,0.072,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.7538,1.0,40278.4,0.0
+D,D-S-B394,1,True,B394,Four Sparrow Marsh,B,64.628,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,,0.0,197289.1,0.011
+D,D-S-B395,1,True,B395,Green Central Knoll,B,2.74,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1741,0.333,78949.3,0.0
+D,D-S-B398,1,True,B398,Kosciuszko Street Garden,B,0.193,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1092,0.333,42652.9,0.023
+D,D-S-B399,1,True,B399,Gardens Of Union,B,0.201,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1887,0.333,43991.1,0.0
+D,D-S-B416,1,True,B416,TLC Sculpture Park Garden,B,0.176,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.1761,0.333,42141.8,0.0
+D,D-S-B418,1,True,B418,Valentino Pier,B,4.523,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8805,0.667,96137.6,0.0
+D,D-S-B420,1,True,B420,Umoja Garden,B,0.207,Garden,1,0.0,0.0,,0,,,1.0,1.0,1.0067,0.333,45360.0,0.045
+D,D-S-B424,1,True,B424,Earth Spirit Garden,B,0.239,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.143,0.333,43815.6,0.273
+D,D-S-B427,1,True,B427,Sunshine Community Garden,B,0.113,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.9221,0.333,40509.1,0.002
+D,D-S-B428,1,True,B428,Goodwin Gardens,B,0.366,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.9184,0.667,48892.1,0.0
+D,D-S-B430,1,True,B430,Lewis Playground,B,0.166,Playground,1,0.0,0.0,,0,,,1.0,1.0,0.8417,0.333,41945.1,0.0
+D,D-S-B433,1,True,B433,Hendrick I. Lott House,B,0.751,Historic House Park,1,0.0,0.0,,0,,,0.0,0.0,1.0996,1.0,53571.8,0.0
+D,D-S-B435,1,True,B435,Tilyou Playground,B,0.3,Playground,1,0.0,0.0,,0,,,1.0,1.0,0.9114,0.667,44786.8,0.0
+D,D-S-B448,1,True,B448,Cedar Tree Garden,B,0.183,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1126,0.333,43396.8,0.129
+D,D-S-B454,1,True,B454,Cooper St Block Buster Bl Association,B,0.165,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.1787,0.333,41820.6,0.63
+D,D-S-B460,1,True,B460,Elton St Block Association,B,0.098,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.161,0.333,39751.1,0.017
+D,D-S-B461,1,True,B461,Euclid Garden,B,0.185,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.1209,0.333,44246.6,0.0
+D,D-S-B462,1,True,B462,Family Community Garden,B,0.274,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1247,0.333,40997.5,0.609
+D,D-S-B465,1,True,B465,First Quincy St Block Association,B,0.127,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0089,0.333,40916.9,0.217
+D,D-S-B469,1,True,B469,Good Shepherds Garden,B,0.12,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1137,0.333,40700.6,0.037
+D,D-S-B480,1,True,B480,Lincoln Rd Block Association,B,0.063,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0824,0.333,38977.1,0.685
+D,D-S-B482,1,True,B482,Madison Street Block Association,B,0.081,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0137,0.333,39696.2,0.173
+D,D-S-B490,1,True,B490,Santos White Garden,B,0.151,Garden,1,0.0,0.0,,0,,,1.0,1.0,0.974,0.333,41269.8,0.0
+D,D-S-B491,1,True,B491,Shield Of Faith,B,0.171,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0591,0.333,41997.9,0.0
+D,D-S-B498,1,True,B498,Louis Pl Friends,B,0.042,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.8954,0.333,38594.3,0.251
+D,D-S-B499,1,True,B499,Madison Community Greenthumb,B,0.058,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1197,0.333,39015.7,0.052
+D,D-S-B500,1,True,B500,Patrick Van Doren Pocket Park,B,0.041,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.1457,0.333,37693.3,0.015
+D,D-S-B503,1,True,B503,Stars Of Hope,B,0.037,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.1687,0.333,37932.8,0.0
+D,D-S-B504,1,True,B504,Ponderosa Garden,B,0.192,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.2235,0.333,42556.8,0.0
+D,D-S-B508,1,True,B508,Vernon Cases Community Garden,B,0.164,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0399,0.333,41521.7,0.764
+D,D-S-B518,1,True,B518,Victory Garden's Group,B,0.059,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0853,0.333,39106.2,0.309
+D,D-S-B519,1,True,B519,Spencer St Block Association,B,0.042,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0935,0.333,38754.5,0.063
+D,D-S-B525,1,True,B525,Sumpter Community Garden,B,0.054,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0017,0.333,38986.9,0.093
+D,D-S-B541,1,True,B541,Berriman Playground,B,0.976,Playground,1,0.0,0.0,,0,,,1.0,1.0,0.9272,0.333,56719.3,0.0
+D,D-S-B544,1,True,B544,100 Quincy Street Community Garden,B,0.058,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0268,0.333,39079.9,0.0
+D,D-S-B545,1,True,B545,Oko Farms Aquaponics Education Garden,B,0.058,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.2198,0.333,39047.0,0.0
+D,D-S-B552,1,True,B552,Grand Street Community Garden,B,0.046,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1344,0.333,38636.0,0.374
+D,D-S-B556,1,True,B556,Know Waste Lands,B,0.097,Garden,1,0.0,0.0,,0,,,1.0,1.0,0.9422,0.333,39620.7,0.0
+D,D-S-B558,1,True,B558,Linwood Street Garden (Pagan's Garden),B,0.082,Garden,1,0.0,0.0,,0,,,1.0,1.0,1.1673,0.333,41936.4,0.036
+D,D-S-B569,1,True,B569,Chestnut Street Garden,B,0.09,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0219,0.667,42367.6,0.0
+D,D-S-B570,1,True,B570,Dolly's Park,B,0.049,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0109,0.333,38866.3,0.0
+D,D-S-B571,1,True,B571,East 43rd Street Community Garden,B,0.091,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0216,0.667,39821.5,0.0
+D,D-S-B575,1,True,B575,Halsey Garden,B,0.127,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0005,0.667,40978.9,0.091
+D,D-S-B577,1,True,B577,EL Garden,B,0.118,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0383,0.333,40653.7,0.089
+D,D-S-B580,1,True,B580,Java Street Community Garden,B,0.069,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.9882,0.333,39475.3,0.052
+D,D-S-B581,1,True,B581,Warwick Street Greenery Glow Garden,B,0.038,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1488,0.333,37715.8,0.392
+D,D-S-B584,1,True,B584,Moffat Garden,B,0.038,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.075,0.333,38650.7,0.354
+D,D-S-B588,1,True,B588,Greenpoint Public Park,B,2.649,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.6156,0.333,79838.8,0.136
+D,D-S-B593,1,True,B593,Bed-Stuy Farm,B,0.06,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0825,0.333,39249.8,0.167
+D,D-S-B594,1,True,B594,Maple Street Community Garden,B,0.14,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0617,0.333,40964.9,0.652
+D,D-S-B603,1,True,B603,Jerzee Triangle,B,0.008,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0594,0.333,35352.6,0.0
+D,D-S-B605,1,True,B605,Ascenzi Square,B,0.032,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.09,0.333,36252.6,0.089
+D,D-S-B610,1,True,B610,Park,B,0.033,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.5984,0.667,36849.0,0.0
+D,D-S-M008,1,True,M008,Bryant Park,M,9.612,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,0.9257,0.333,115355.5,0.0
+D,D-S-M009,1,True,M009,Bennett Park,M,1.821,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0266,0.333,67757.1,0.0
+D,D-S-M016,1,True,M016,Cooper Triangle,M,0.165,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.9097,0.333,42547.3,0.235
+D,D-S-M026,1,True,M026,Dyckman House Museum,M,0.544,Historic House Park,1,0.0,0.0,,0,,,0.0,0.0,0.8658,0.333,50606.3,0.0
+D,D-S-M031,1,True,M031,Amelia Gorman Park,M,1.771,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.6835,0.333,65364.9,0.1
+D,D-S-M038,1,True,M038,James J Walker Park,M,1.666,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.0557,0.333,63944.1,0.0
+D,D-S-M039#10,1,True,M039#10,Harlem River Park (10/15),M,2.423,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.333,88271.6,0.576
+D,D-S-M039#11,1,True,M039#11,Harlem River Park (11/15),M,3.979,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.0,42831.7,0.733
+D,D-S-M039#12,1,True,M039#12,Harlem River Park (12/15),M,6.94,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.5973,0.0,78746.0,0.497
+D,D-S-M039#14,1,True,M039#14,Harlem River Park (14/15),M,3.709,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.6741,1.0,57301.4,0.827
+D,D-S-M039#2,1,True,M039#2,Harlem River Park (2/15),M,8.038,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.6002,0.667,96190.2,0.417
+D,D-S-M039#3,1,True,M039#3,Harlem River Park (3/15),M,4.021,Parkway,1,0.0,0.0,,0,,,1.0,1.0,1.2818,0.333,163543.3,0.393
+D,D-S-M039#4,1,True,M039#4,Harlem River Park (4/15),M,3.105,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.7932,1.0,51698.3,0.943
+D,D-S-M039#5,1,True,M039#5,Harlem River Park (5/15),M,3.607,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.0,49567.2,0.675
+D,D-S-M039#9,1,True,M039#9,Harlem River Park (9/15),M,3.904,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.8282,0.667,55836.2,0.913
+D,D-S-M043,1,True,M043,Isham Park,M,19.955,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.9695,0.333,130858.8,0.0
+D,D-S-M045,1,True,M045,John Jay Park,M,3.317,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.7252,0.333,76997.6,0.537
+D,D-S-M048,1,True,M048,Joan Of Arc Park,M,1.58,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0067,0.333,59523.0,0.0
+D,D-S-M059,1,True,M059,Murphy Brothers Playground,M,1.239,Playground,1,0.0,0.0,,0,,,0.0,1.0,0.7413,0.667,70239.7,0.0
+D,D-S-M060B,1,True,M060B,Park Avenue Malls,M,0.621,Mall,1,0.0,0.0,,0,,,0.0,1.0,1.1171,0.333,109662.7,0.0
+D,D-S-M060C#1,1,True,M060C#1,Park Avenue Malls (1/8),M,0.596,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.1089,1.0,111218.6,0.544
+D,D-S-M060C#3,1,True,M060C#3,Park Avenue Malls (3/8),M,0.562,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.1589,0.333,108699.3,0.58
+D,D-S-M060C#4,1,True,M060C#4,Park Avenue Malls (4/8),M,0.555,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.1223,0.667,109473.6,0.577
+D,D-S-M060C#5,1,True,M060C#5,Park Avenue Malls (5/8),M,0.568,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.1094,0.667,109541.2,0.551
+D,D-S-M060C#6,1,True,M060C#6,Park Avenue Malls (6/8),M,0.611,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.1052,1.0,113584.4,0.557
+D,D-S-M060C#7,1,True,M060C#7,Park Avenue Malls (7/8),M,0.544,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.1375,0.333,106611.9,0.592
+D,D-S-M062,1,True,M062,Grand Army Plaza,M,0.678,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0585,0.333,44502.0,0.0
+D,D-S-M066,1,True,M066,Dr. Gertrude B. Kelly Playground,M,0.53,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.76,0.333,50443.9,0.0
+D,D-S-M076,1,True,M076,St. Vartan Park,M,2.772,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0406,0.333,84025.2,0.047
+D,D-S-M079,1,True,M079,St. Catherine's Park,M,1.416,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1782,0.667,62254.0,0.0
+D,D-S-M089,1,True,M089,Union Square Park,M,6.504,Community Park,1,0.0,0.0,,0,,,0.0,1.0,0.8931,0.667,105095.4,0.0
+D,D-S-M093,1,True,M093,Father Duffy Square,M,0.077,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.8612,0.333,41831.5,0.0
+D,D-S-M094#1,1,True,M094#1,Broadway Malls (1/11),M,0.509,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.1163,0.667,105213.3,0.576
+D,D-S-M094#11,1,True,M094#11,Broadway Malls (11/11),M,0.568,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.0445,0.333,103991.1,0.586
+D,D-S-M094#8,1,True,M094#8,Broadway Malls (8/11),M,0.483,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.1467,0.333,102527.0,0.591
+D,D-S-M094#9,1,True,M094#9,Broadway Malls (9/11),M,0.515,Mall,1,0.0,0.0,,0,,,0.0,0.0,1.0952,0.333,110567.2,0.549
+D,D-S-M108T#3,1,True,M108T#3,East River Walk (3/6),M,1.339,Waterfront Facility,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.667,180202.1,0.399
+D,D-S-M108T#4,1,True,M108T#4,East River Walk (4/6),M,0.483,Waterfront Facility,1,0.0,0.0,,0,,,0.0,0.0,0.4134,0.333,86106.1,0.343
+D,D-S-M108T#6,1,True,M108T#6,East River Walk (6/6),M,1.056,Waterfront Facility,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.333,109285.6,0.573
+D,D-S-M108T01#4,1,True,M108T01#4,East River Esplanade (4/8),M,1.176,Waterfront Facility,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.0,108574.6,0.61
+D,D-S-M110,1,True,M110,William McCray Playground,M,0.472,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.2204,0.333,49768.8,0.163
+D,D-S-M111,1,True,M111,James Weldon Johnson Playground,M,1.047,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,0.874,0.333,64691.0,0.05
+D,D-S-M148,1,True,M148,White Playground,M,0.687,Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9126,0.333,53345.1,0.007
+D,D-S-M154,1,True,M154,Mathews-Palmer Playground,M,0.483,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0943,0.333,50205.1,0.298
+D,D-S-M161,1,True,M161,McCaffrey Playground,M,0.442,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1289,0.333,49001.9,0.0
+D,D-S-M164,1,True,M164,Asser Levy Playground,M,2.765,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.8713,0.333,77396.5,0.0
+D,D-S-M166,1,True,M166,Harlem Art Park,M,0.354,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9353,0.333,46808.5,0.277
+D,D-S-M180,1,True,M180,Lt. Wm. Tighe Triangle,M,0.185,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.8656,0.0,37783.0,0.692
+D,D-S-M190,1,True,M190,Sheltering Arms Playground,M,1.457,Community Park,1,0.0,0.0,,0,,,1.0,1.0,1.0611,0.333,68922.1,0.0
+D,D-S-M198,1,True,M198,"Martin Luther King, Jr. Playground",M,1.085,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8656,0.333,59062.1,0.0
+D,D-S-M199,1,True,M199,Monsignor Kett Playground,M,0.956,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.1414,0.333,57466.3,0.03
+D,D-S-M203C,1,True,M203C,Dag Hammarskjold Plaza,M,1.584,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0997,0.333,77507.0,0.001
+D,D-S-M209,1,True,M209,Mill Rock Park,M,8.588,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,,0.0,112156.0,0.0
+D,D-S-M213,1,True,M213,Mae Grant Playground,M,0.969,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8188,0.333,57406.8,0.0
+D,D-S-M221,1,True,M221,Gutenberg Playground,M,0.637,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1126,0.333,52521.0,0.293
+D,D-S-M225,1,True,M225,Wagner Playground,M,1.269,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.947,0.333,59365.1,0.015
+D,D-S-M244,1,True,M244,Sol Bloom Playground,M,0.859,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0198,0.333,54983.7,0.0
+D,D-S-M249,1,True,M249,Penn South Playground,M,0.571,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9177,0.333,55970.2,0.084
+D,D-S-M259,1,True,M259,McKinley Playground,M,0.563,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0383,0.333,50948.8,0.017
+D,D-S-M288,1,True,M288,Ramon Aponte Park,M,0.176,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0631,0.333,42064.8,0.031
+D,D-S-M289,1,True,M289,East River Esplanade,M,1.713,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.3067,0.0,112574.5,0.283
+D,D-S-M290,1,True,M290,Pier 107 CVII,M,0.415,Waterfront Facility,1,0.0,0.0,,0,,,0.0,0.0,,0.0,47513.7,0.69
+D,D-S-M294,1,True,M294,Ruppert Park,M,1.0,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.0647,0.667,56815.1,0.0
+D,D-S-M304,1,True,M304,West 186th Street Basketball Court,M,0.12,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,1.0946,0.667,40895.8,0.0
+D,D-S-M306,1,True,M306,W 104th Street Garden,M,0.317,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0284,0.333,43571.4,0.127
+D,D-S-M307,1,True,M307,W 87th Street Garden,M,0.097,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.9826,0.333,40226.0,0.127
+D,D-S-M314,1,True,M314,Miracle Garden,M,0.115,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0893,0.333,39575.3,0.838
+D,D-S-M316,1,True,M316,Edward P. Bowman Park,M,0.051,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.2033,0.333,38715.9,0.792
+D,D-S-M321,1,True,M321,Lower East Side Playground,M,0.828,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8123,0.333,54647.8,0.065
+D,D-S-M330,1,True,M330,Family Community Garden,M,0.043,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.2445,0.333,38766.7,0.006
+D,D-S-M353,1,True,M353,Riverside Park South,M,71.89,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.9365,0.333,267932.8,0.0
+D,D-S-M360#4,1,True,M360#4,The High Line (4/4),M,1.503,Community Park,1,0.0,0.0,,0,,,1.0,1.0,0.8714,0.333,104735.0,0.292
+D,D-S-M373,1,True,M373,La Perla Garden,M,0.047,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1601,0.333,39151.2,0.227
+D,D-S-M376,1,True,M376,West Harlem Piers,M,4.71,Waterfront Facility,1,0.0,0.0,,0,,,0.0,0.0,0.7056,0.0,138200.3,0.192
+D,D-S-M379,1,True,M379,Canal Park,M,0.67,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9587,0.667,57104.7,0.0
+D,D-S-M383,1,True,M383,La Cuevita Garden,M,0.058,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1159,0.333,39272.2,0.24
+D,D-S-M398,1,True,M398,Dorothy K. McGowan Memorial Garden,M,0.043,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1938,0.0,38728.7,0.027
+D,D-S-M399,1,True,M399,Bella Abzug Park,M,2.591,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9293,0.333,104780.8,0.0
+D,D-S-M402,1,True,M402,Chelsea Green,M,0.237,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0132,0.667,43790.0,0.0
+D,D-S-M403,1,True,M403,Walter Miller III Memorial Garden (La Casa Frela),M,0.047,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.1765,0.333,35392.2,0.603
+D,D-S-M416,1,True,M416,Park,M,0.311,Waterfront Facility,1,0.0,0.0,,0,,,0.0,0.0,0.9058,0.333,46724.2,0.101
+D,D-S-Q001A,1,True,Q001A,Alley Athletic Playground,Q,27.46,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.7571,1.0,155947.8,0.0
+D,D-S-Q002,1,True,Q002,Grover Cleveland Playground,Q,5.12,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9983,0.667,90992.6,0.0
+D,D-S-Q003,1,True,Q003,Ashmead Park,Q,0.059,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0903,0.333,37625.3,0.0
+D,D-S-Q006,1,True,Q006,Bowne Park,Q,11.772,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.0642,0.667,123312.4,0.0
+D,D-S-Q008,1,True,Q008,Brookville Park,Q,88.795,Community Park,1,0.0,0.0,,0,,,0.0,1.0,0.9818,0.333,364002.1,0.022
+D,D-S-Q009,1,True,Q009,Hermon A. MacNeil Park,Q,30.159,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,0.9493,0.667,173283.0,0.0
+D,D-S-Q011,1,True,Q011,Poppenhusen Playground,Q,1.163,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0288,0.333,59001.8,0.0
+D,D-S-Q013,1,True,Q013,Veterans Grove,Q,0.651,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9902,0.333,55022.1,0.0
+D,D-S-Q014,1,True,Q014,Astoria Heights Playground,Q,2.336,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9562,0.667,75458.3,0.0
+D,D-S-Q017,1,True,Q017,The Olde Towne of Flushing Burial Ground,Q,3.097,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,0.9123,0.667,86402.7,0.0
+D,D-S-Q018,1,True,Q018,Gordon Triangle,Q,0.104,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.9911,0.333,40418.5,0.0
+D,D-S-Q019,1,True,Q019,Garlinge Triangle,Q,0.009,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.8884,0.333,34234.0,0.026
+D,D-S-Q021B,1,True,Q021B,McLaughlin Playground,Q,0.307,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9799,1.0,30397.8,0.0
+D,D-S-Q021C,1,True,Q021C,Seven Gables Playground,Q,1.334,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9564,0.667,40333.4,0.0
+D,D-S-Q022,1,True,Q022,Margaret I. Carman Green - Weeping Beech,Q,2.565,Playground,1,0.0,0.0,,0,,,1.0,1.0,0.8031,0.333,81817.6,0.0
+D,D-S-Q023,1,True,Q023,Rufus King Park,Q,11.426,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1123,0.333,120468.3,0.068
+D,D-S-Q025,1,True,Q025,Major Mark Park,Q,0.937,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.8564,0.667,58828.0,0.0
+D,D-S-Q027#1,1,True,Q027#1,Laurelton Parkway (1/8),Q,8.029,Parkway,1,0.0,0.0,,0,,,0.0,1.0,1.0297,0.667,132587.9,0.585
+D,D-S-Q027#2,1,True,Q027#2,Laurelton Parkway (2/8),Q,5.166,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.9427,0.333,122014.3,0.599
+D,D-S-Q027#6,1,True,Q027#6,Laurelton Parkway (6/8),Q,4.243,Parkway,1,0.0,0.0,,0,,,0.0,1.0,1.164,0.333,122665.9,0.28
+D,D-S-Q027#7,1,True,Q027#7,Laurelton Parkway (7/8),Q,7.539,Parkway,1,0.0,0.0,,0,,,0.0,0.0,1.1232,0.333,128543.0,0.576
+D,D-S-Q027#8,1,True,Q027#8,Laurelton Parkway (8/8),Q,6.042,Parkway,1,0.0,0.0,,0,,,1.0,1.0,1.0528,0.333,122845.3,0.377
+D,D-S-Q029,1,True,Q029,William F Moore Park,Q,0.196,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1639,0.333,44987.4,0.0
+D,D-S-Q030,1,True,Q030,Midland Malls,Q,1.8,Mall,1,0.0,0.0,,0,,,1.0,1.0,1.0451,0.667,232243.0,0.0
+D,D-S-Q033,1,True,Q033,Mall Eighteen,Q,0.079,Mall,1,0.0,0.0,,0,,,0.0,0.0,0.9706,0.333,44268.3,0.0
+D,D-S-Q035#1,1,True,Q035#1,Mall Thirty Four XXXIV (1/7),Q,0.11,Mall,1,0.0,0.0,,0,,,0.0,1.0,1.1922,0.333,89053.0,0.705
+D,D-S-Q035#2,1,True,Q035#2,Mall Thirty Four XXXIV (2/7),Q,0.137,Mall,1,0.0,0.0,,0,,,0.0,1.0,1.1815,0.333,100148.6,0.593
+D,D-S-Q035#5,1,True,Q035#5,Mall Thirty Four XXXIV (5/7),Q,0.126,Mall,1,0.0,0.0,,0,,,0.0,1.0,1.1908,0.667,97379.7,0.645
+D,D-S-Q037,1,True,Q037,Neponsit Mall,Q,0.587,Mall,1,0.0,0.0,,0,,,1.0,1.0,1.1336,1.0,138498.4,0.0
+D,D-S-Q038,1,True,Q038,Benninger Playground,Q,0.582,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0057,0.667,52817.1,0.0
+D,D-S-Q044,1,True,Q044,L/CPL Thomas P. Noonan Jr. Playground,Q,1.071,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0851,0.667,59590.9,0.0
+D,D-S-Q046,1,True,Q046,Josephine Caminiti Playground,Q,0.413,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1431,0.333,48343.2,0.0
+D,D-S-Q047,1,True,Q047,Queens Village Veterans Plaza,Q,0.287,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.985,0.667,47278.7,0.0
+D,D-S-Q048,1,True,Q048,Rainey Park,Q,9.712,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0448,0.333,118534.8,0.002
+D,D-S-Q052,1,True,Q052,Captain Tilly Park,Q,9.308,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9605,0.667,116451.0,0.0
+D,D-S-Q053,1,True,Q053,Equity Playground,Q,1.314,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8726,0.667,65876.8,0.0
+D,D-S-Q059,1,True,Q059,Catharine Turner Richardson Park,Q,0.514,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.9751,0.333,54781.8,0.0
+D,D-S-Q062,1,True,Q062,Fleetwood Triangle,Q,0.027,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1926,0.667,36373.3,0.0
+D,D-S-Q069,1,True,Q069,Middleburgh Triangle,Q,0.002,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0957,0.667,32973.7,0.0
+D,D-S-Q070,1,True,Q070,Trolley Car Triangle,Q,0.03,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.0917,0.333,36408.5,0.0
+D,D-S-Q073,1,True,Q073,Plaut Triangle,Q,0.267,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.9679,0.667,47456.7,0.0
+D,D-S-Q075,1,True,Q075,Glendale Veterans Triangle,Q,0.006,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1404,0.333,33902.4,0.0
+D,D-S-Q076,1,True,Q076,Legion Triangle,Q,0.045,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.9947,0.667,39357.8,0.0
+D,D-S-Q079,1,True,Q079,Wellbrock Triangle,Q,0.008,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0534,0.333,34159.8,0.0
+D,D-S-Q080,1,True,Q080,Veterans Plaza,Q,0.097,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.9476,0.333,41750.5,0.0
+D,D-S-Q082,1,True,Q082,Wayanda Park,Q,2.565,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.8844,0.333,74358.1,0.002
+D,D-S-Q083#1,1,True,Q083#1,Jackie Robinson Parkway (1/17),Q,3.337,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.8572,0.667,71274.9,0.404
+D,D-S-Q083#10,1,True,Q083#10,Jackie Robinson Parkway (10/17),Q,4.854,Parkway,1,0.0,0.0,,0,,,1.0,1.0,1.0655,1.0,61259.0,0.758
+D,D-S-Q083#11,1,True,Q083#11,Jackie Robinson Parkway (11/17),Q,2.213,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.9531,0.333,106550.2,0.653
+D,D-S-Q083#12,1,True,Q083#12,Jackie Robinson Parkway (12/17),Q,2.567,Parkway,1,0.0,0.0,,0,,,1.0,1.0,0.7484,1.0,92414.4,0.436
+D,D-S-Q083#13,1,True,Q083#13,Jackie Robinson Parkway (13/17),Q,3.69,Parkway,1,0.0,0.0,,0,,,1.0,1.0,0.952,0.667,59390.8,0.702
+D,D-S-Q083#14,1,True,Q083#14,Jackie Robinson Parkway (14/17),Q,2.281,Parkway,1,0.0,0.0,,0,,,0.0,0.0,1.0172,1.0,53402.9,0.344
+D,D-S-Q083#15,1,True,Q083#15,Jackie Robinson Parkway (15/17),Q,4.752,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.9465,1.0,65705.5,0.835
+D,D-S-Q083#16,1,True,Q083#16,Jackie Robinson Parkway (16/17),Q,1.56,Parkway,1,0.0,0.0,,0,,,1.0,1.0,1.06,0.667,84483.2,0.659
+D,D-S-Q083#17,1,True,Q083#17,Jackie Robinson Parkway (17/17),Q,3.321,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.2072,1.0,42941.9,0.655
+D,D-S-Q083#3,1,True,Q083#3,Jackie Robinson Parkway (3/17),Q,2.638,Parkway,1,0.0,0.0,,0,,,1.0,1.0,1.0509,0.667,51110.7,0.571
+D,D-S-Q083#4,1,True,Q083#4,Jackie Robinson Parkway (4/17),Q,1.772,Parkway,1,0.0,0.0,,0,,,1.0,1.0,0.9383,1.0,93992.5,0.214
+D,D-S-Q083#5,1,True,Q083#5,Jackie Robinson Parkway (5/17),Q,2.301,Parkway,1,0.0,0.0,,0,,,0.0,0.0,1.0801,1.0,54590.2,0.71
+D,D-S-Q083#6,1,True,Q083#6,Jackie Robinson Parkway (6/17),Q,0.801,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.262,1.0,61621.2,0.627
+D,D-S-Q083#7,1,True,Q083#7,Jackie Robinson Parkway (7/17),Q,1.024,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.6431,0.667,69216.4,0.499
+D,D-S-Q083#8,1,True,Q083#8,Jackie Robinson Parkway (8/17),Q,2.121,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.0,1.0,57231.8,0.339
+D,D-S-Q083#9,1,True,Q083#9,Jackie Robinson Parkway (9/17),Q,1.231,Parkway,1,0.0,0.0,,0,,,0.0,0.0,1.0184,0.667,72893.5,0.707
+D,D-S-Q084B,1,True,Q084B,Tepper Triangle,Q,0.316,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.9995,0.667,37150.3,0.0
+D,D-S-Q085,1,True,Q085,Gorman Playground,Q,2.862,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.1578,0.333,80621.4,0.0
+D,D-S-Q089B,1,True,Q089B,Harvey Park,Q,9.136,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.896,0.667,124528.2,0.0
+D,D-S-Q092,1,True,Q092,Police Officer Edward Byrne Park,Q,4.709,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.8672,0.667,106403.3,0.0
+D,D-S-Q094D,1,True,Q094D,Gemini Fields,Q,10.756,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.9146,0.333,188802.7,0.338
+D,D-S-Q096G,1,True,Q096G,Park,Q,0.009,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.909,0.667,54260.9,0.0
+D,D-S-Q101,1,True,Q101,Middle Village Playground,Q,0.442,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0118,0.667,49475.0,0.0
+D,D-S-Q102,1,True,Q102,Juniper Valley Park,Q,53.453,Community Park,1,0.0,0.0,,0,,,1.0,1.0,1.0992,0.667,277220.8,0.0
+D,D-S-Q103,1,True,Q103,Raymond O’Connor Park,Q,5.364,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0185,0.667,91125.6,0.0
+D,D-S-Q104,1,True,Q104,Queensbridge Park,Q,20.851,Community Park,1,0.0,0.0,,0,,,1.0,1.0,0.9804,0.0,239189.3,0.0
+D,D-S-Q105,1,True,Q105,Howard Von Dohlen Playground,Q,1.374,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8846,0.333,61861.5,0.008
+D,D-S-Q106,1,True,Q106,Daniel M. O'Connell Playground,Q,2.168,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.1449,1.0,71970.5,0.0
+D,D-S-Q118,1,True,Q118,Police Officer Nicholas Demutiis Park,Q,1.165,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.93,0.333,59130.3,0.0
+D,D-S-Q119,1,True,Q119,Frederick B. Judge Playground,Q,2.231,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.0246,0.667,76639.6,0.0
+D,D-S-Q120,1,True,Q120,Harvard Playground,Q,0.586,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9334,0.667,52838.7,0.0
+D,D-S-Q123,1,True,Q123,Astoria Health Playground,Q,0.206,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0423,0.333,43135.1,0.0
+D,D-S-Q126,1,True,Q126,Francis Lewis Park,Q,16.626,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9173,1.0,135551.5,0.0
+D,D-S-Q128,1,True,Q128,London Planetree Playground,Q,1.804,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.1183,0.333,67724.6,0.0
+D,D-S-Q129,1,True,Q129,"Phil ""Scooter"" Rizzuto Park",Q,5.29,Community Park,1,0.0,0.0,,0,,,0.0,1.0,1.0696,0.333,89944.8,0.0
+D,D-S-Q133,1,True,Q133,Pat Williams Playground,Q,0.522,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9981,0.333,35065.3,0.004
+D,D-S-Q134,1,True,Q134,Jack Breininger Park,Q,3.73,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0277,0.667,85332.1,0.0
+D,D-S-Q135A,1,True,Q135A,McKee Triangle,Q,0.055,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.1201,0.667,33304.4,0.0
+D,D-S-Q136,1,True,Q136,Playground 115,Q,0.286,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.955,0.667,45042.4,0.0
+D,D-S-Q139,1,True,Q139,Drumm Triangle,Q,0.166,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.9351,0.667,40565.4,0.0
+D,D-S-Q140,1,True,Q140,Barclay Triangle,Q,0.078,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1307,0.667,38954.9,0.0
+D,D-S-Q142,1,True,Q142,Jacob Riis Triangle,Q,0.025,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.1659,0.667,36210.4,0.0
+D,D-S-Q147,1,True,Q147,Ruoff Triangle,Q,0.054,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1536,0.333,38541.4,0.0
+D,D-S-Q148,1,True,Q148,Catholic War Veterans Square,Q,0.006,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1382,0.333,33960.7,0.0
+D,D-S-Q151,1,True,Q151,Grand Slope,Q,0.196,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0094,0.667,58950.8,0.0
+D,D-S-Q157,1,True,Q157,Metro Triangle,Q,0.013,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0789,0.667,34941.9,0.0
+D,D-S-Q159,1,True,Q159,Father Reilly Square,Q,0.028,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.1101,0.667,36754.5,0.0
+D,D-S-Q162E,1,True,Q162E,Beach 59th St Playground,Q,0.654,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9337,0.333,31863.5,0.0
+D,D-S-Q168,1,True,Q168,Alexander Grey Triangle,Q,0.014,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.0244,0.667,34895.0,0.0
+D,D-S-Q174A,1,True,Q174A,St. Michael's Playground,Q,5.411,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.038,0.667,97462.5,0.0
+D,D-S-Q178#2,1,True,Q178#2,Mall Forty Two XLII (2/3),Q,0.565,Mall,1,0.0,0.0,,0,,,1.0,1.0,0.9782,0.667,96129.6,0.327
+D,D-S-Q178#3,1,True,Q178#3,Mall Forty Two XLII (3/3),Q,0.357,Mall,1,0.0,0.0,,0,,,0.0,0.0,0.9949,0.667,107024.5,0.552
+D,D-S-Q186,1,True,Q186,Jackson Mill Green,Q,0.137,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1031,0.333,48954.4,0.0
+D,D-S-Q190,1,True,Q190,Corporal Ruoff Square,Q,0.084,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1698,0.333,49525.4,0.0
+D,D-S-Q203,1,True,Q203,David J O'Connell Square,Q,0.056,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1535,0.333,38865.4,0.0
+D,D-S-Q205A,1,True,Q205A,Big Bush Playground,Q,3.152,Community Park,1,0.0,0.0,,0,,,0.0,1.0,0.9068,0.333,84206.2,0.271
+D,D-S-Q205B,1,True,Q205B,Nathan Weidenbaum Playground,Q,0.71,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9112,0.333,49675.4,0.459
+D,D-S-Q206,1,True,Q206,Eight Oaks Triangle,Q,0.048,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.864,0.667,38376.8,0.0
+D,D-S-Q207,1,True,Q207,MacDonald Park,Q,1.871,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0012,0.333,83515.2,0.0
+D,D-S-Q208,1,True,Q208,Litchhult Square,Q,0.029,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0985,0.667,36547.2,0.0
+D,D-S-Q209,1,True,Q209,Lawrence Triangle,Q,0.117,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.1167,1.0,42416.6,0.0
+D,D-S-Q211,1,True,Q211,Maple Playground,Q,0.985,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,0.8753,0.333,57927.6,0.017
+D,D-S-Q212,1,True,Q212,Queens Valley Playground,Q,0.977,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.7818,0.333,56649.7,0.0
+D,D-S-Q213,1,True,Q213,Studley Triangle,Q,0.018,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1915,0.667,34640.3,0.0
+D,D-S-Q214,1,True,Q214,Leonard Square,Q,0.081,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1531,0.333,40967.7,0.0
+D,D-S-Q215,1,True,Q215,Whitey Ford Field,Q,3.453,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.7187,0.333,81103.0,0.0
+D,D-S-Q217,1,True,Q217,Lt. Frank McConnell Park,Q,0.204,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,0.9641,0.333,46982.2,0.0
+D,D-S-Q218,1,True,Q218,Dutch Kills Playground,Q,2.737,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.818,0.667,81276.1,0.0
+D,D-S-Q219#11,1,True,Q219#11,Rockaway Freeway (11/16),Q,0.313,Parkway,1,0.0,0.0,,0,,,1.0,1.0,1.0013,0.333,80668.3,0.656
+D,D-S-Q219#14,1,True,Q219#14,Rockaway Freeway (14/16),Q,2.845,Parkway,1,0.0,0.0,,0,,,0.0,0.0,1.0759,0.333,92783.6,0.753
+D,D-S-Q219#15,1,True,Q219#15,Rockaway Freeway (15/16),Q,0.17,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.9934,0.333,70860.9,0.469
+D,D-S-Q219#4,1,True,Q219#4,Rockaway Freeway (4/16),Q,0.105,Parkway,1,0.0,0.0,,0,,,1.0,1.0,1.0791,0.667,86510.3,0.659
+D,D-S-Q219#7,1,True,Q219#7,Rockaway Freeway (7/16),Q,0.26,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.8063,0.333,82100.3,0.767
+D,D-S-Q220B,1,True,Q220B,Norelli-Hargreaves Playground,Q,1.297,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.909,0.667,69013.0,0.0
+D,D-S-Q220C,1,True,Q220C,Dr. Charles R. Drew Park,Q,6.398,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,1.0012,0.333,96302.6,0.0
+D,D-S-Q221,1,True,Q221,Farm Playground,Q,3.862,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0721,0.333,83893.9,0.0
+D,D-S-Q222,1,True,Q222,Glenwood Landing,Q,0.114,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.898,0.333,43682.1,0.0
+D,D-S-Q223,1,True,Q223,Fresh Meadows Park,Q,1.14,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.9502,0.667,67914.1,0.0
+D,D-S-Q225,1,True,Q225,Broad Channel Veteran's Park,Q,0.651,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.8687,0.667,79080.2,0.362
+D,D-S-Q231,1,True,Q231,Sergeant Colyer Square,Q,0.049,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1042,0.333,38130.1,0.0
+D,D-S-Q232,1,True,Q232,Dwyer Square,Q,0.003,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1301,0.333,33201.0,0.0
+D,D-S-Q243,1,True,Q243,Norelli-Hargreaves Memorial Triangle,Q,0.037,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1775,0.667,37730.2,0.0
+D,D-S-Q245,1,True,Q245,Hollis Veterans Square,Q,0.017,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1372,0.667,36014.5,0.0
+D,D-S-Q246,1,True,Q246,Travis Triangle,Q,0.221,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.1153,0.333,52954.7,0.0
+D,D-S-Q257,1,True,Q257,Lt. Clinton L .Whiting Square,Q,0.078,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.0283,0.667,40943.6,0.0
+D,D-S-Q259,1,True,Q259,Memorial Circle,Q,0.145,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.9129,0.333,45391.6,0.0
+D,D-S-Q266,1,True,Q266,Westbourne Playground,Q,1.629,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0545,1.0,75740.6,0.0
+D,D-S-Q281,1,True,Q281,Nakks Malls,Q,0.284,Mall,1,0.0,0.0,,0,,,0.0,0.0,0.9401,0.333,92058.5,0.001
+D,D-S-Q283,1,True,Q283,225 Street Malls,Q,0.7,Mall,1,0.0,0.0,,0,,,1.0,1.0,1.0652,0.667,191130.3,0.0
+D,D-S-Q284,1,True,Q284,Sixteen Oaks Grove,Q,0.255,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1186,0.333,46833.9,0.0
+D,D-S-Q285,1,True,Q285,Al Stabile Playground,Q,0.494,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.066,0.333,50548.9,0.0
+D,D-S-Q289,1,True,Q289,Pinocchio Playground,Q,1.015,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9431,0.667,60356.4,0.0
+D,D-S-Q290,1,True,Q290,"""Uncle"" Vito F. Maranzano Glendale Playground",Q,1.149,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9439,0.333,58812.7,0.0
+D,D-S-Q291,1,True,Q291,Starr Playground,Q,0.889,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0609,0.667,55364.2,0.0
+D,D-S-Q293,1,True,Q293,Saul Weprin Playground,Q,1.52,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0598,0.667,63851.9,0.0
+D,D-S-Q294,1,True,Q294,Utopia Playground,Q,3.117,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,0.9817,0.333,84207.7,0.0
+D,D-S-Q296,1,True,Q296,Playground Thirty Five XXXV,Q,0.22,Playground,1,0.0,0.0,,0,,,1.0,1.0,0.9336,0.667,43302.9,0.0
+D,D-S-Q298,1,True,Q298,Paul Raimonda Playground,Q,1.304,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0854,0.667,60778.9,0.0
+D,D-S-Q299,1,True,Q299,Overlook Park,Q,2.574,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.7703,0.333,86251.9,0.0
+D,D-S-Q302,1,True,Q302,Evergreen Park,Q,2.955,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.001,0.667,81092.2,0.0
+D,D-S-Q304,1,True,Q304,Ehrenreich-Austin Playground,Q,1.221,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1035,0.667,68465.5,0.0
+D,D-S-Q305,1,True,Q305,Mafera Park,Q,6.795,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.8567,0.667,116059.9,0.0
+D,D-S-Q306,1,True,Q306,The Painter's Playground,Q,1.698,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0501,0.667,69597.9,0.0
+D,D-S-Q308,1,True,Q308,Bowne Playground,Q,1.288,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.96,0.333,61026.5,0.016
+D,D-S-Q310,1,True,Q310,Glen Oaks Oval,Q,2.912,Community Park,1,0.0,0.0,,0,,,0.0,1.0,0.9707,0.667,70971.4,0.0
+D,D-S-Q314,1,True,Q314,Fresh Meadows Playground,Q,1.364,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.7374,0.333,61380.5,0.0
+D,D-S-Q317,1,True,Q317,Tall Oak Playground,Q,1.48,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.024,0.667,63418.1,0.0
+D,D-S-Q318,1,True,Q318,Playground Eighty LXXX,Q,1.374,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9832,0.667,62378.2,0.0
+D,D-S-Q319,1,True,Q319,Annadale Playground,Q,1.006,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1632,0.667,56910.4,0.0
+D,D-S-Q320,1,True,Q320,Vleigh Playground,Q,2.242,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9858,0.333,73865.1,0.0
+D,D-S-Q321,1,True,Q321,Van Alst Playground,Q,1.032,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1724,0.333,60996.2,0.0
+D,D-S-Q322,1,True,Q322,Bellaire Playground,Q,0.809,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0992,0.333,54612.7,0.0
+D,D-S-Q325,1,True,Q325,Gladys Warren Triangle,Q,0.12,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0974,0.667,42056.6,0.0
+D,D-S-Q326,1,True,Q326,James A. Bland Playground,Q,0.546,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.7703,0.667,51814.7,0.0
+D,D-S-Q327,1,True,Q327,Castlewood Playground,Q,2.058,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1483,0.667,49044.9,0.0
+D,D-S-Q328,1,True,Q328,Bellerose Playground,Q,0.996,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0639,1.0,56849.9,0.0
+D,D-S-Q329,1,True,Q329,Pomonok Playground,Q,3.595,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,0.9892,0.667,80957.1,0.0
+D,D-S-Q330,1,True,Q330,Locust Manor Playground,Q,2.002,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0265,1.0,74199.1,0.0
+D,D-S-Q333,1,True,Q333,Ravenswood Playground,Q,2.822,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1326,0.667,84460.9,0.0
+D,D-S-Q334,1,True,Q334,Playground Twenty One,Q,1.439,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,0.9668,0.667,63518.9,0.0
+D,D-S-Q335,1,True,Q335,Russell Sage Playground,Q,1.526,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9227,0.333,63853.2,0.0
+D,D-S-Q336,1,True,Q336,Judge Moses Weinstein Playground,Q,3.193,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.9836,0.667,83874.6,0.0
+D,D-S-Q337,1,True,Q337,Maurice A FitzGerald Playground,Q,1.217,Playground,1,0.0,0.0,,0,,,0.0,1.0,1.0803,1.0,60896.6,0.0
+D,D-S-Q338,1,True,Q338,Admiral Playground,Q,0.759,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,0.6456,0.667,56474.3,0.0
+D,D-S-Q339,1,True,Q339,Cambria Playground,Q,4.655,Community Park,1,0.0,0.0,,0,,,0.0,0.0,1.038,1.0,89619.7,0.0
+D,D-S-Q340,1,True,Q340,Torsney Playground,Q,2.084,Playground,1,0.0,0.0,,0,,,0.0,1.0,1.2054,0.667,80066.3,0.0
+D,D-S-Q341B,1,True,Q341B,Latham Park,Q,0.019,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.4462,0.333,33033.2,0.924
+D,D-S-Q342,1,True,Q342,Electric Playground,Q,1.723,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.5291,0.667,66019.8,0.0
+D,D-S-Q343,1,True,Q343,Whitestone Playground,Q,1.648,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0017,0.667,64826.9,0.0
+D,D-S-Q344,1,True,Q344,Emerald Playground,Q,1.264,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1224,0.667,63322.3,0.0
+D,D-S-Q345,1,True,Q345,Redfern Playground,Q,3.039,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.882,0.667,78076.2,0.0
+D,D-S-Q346,1,True,Q346,Challenge Playground,Q,2.034,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1037,0.667,71846.7,0.0
+D,D-S-Q347,1,True,Q347,Colden Playground,Q,1.469,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0036,0.667,62647.6,0.0
+D,D-S-Q348,1,True,Q348,Willow Lake Playground,Q,1.309,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8491,1.0,62819.5,0.0
+D,D-S-Q351,1,True,Q351,Peters Field,Q,2.875,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0525,1.0,80004.2,0.0
+D,D-S-Q352,1,True,Q352,Hillside Playground,Q,1.122,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0227,0.667,63724.0,0.0
+D,D-S-Q354,1,True,Q354,Playground Seventy Five,Q,0.749,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1372,0.667,54391.9,0.0
+D,D-S-Q355,1,True,Q355,Strippoli Square,Q,0.072,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.1294,0.667,39623.6,0.0
+D,D-S-Q356,1,True,Q356,Alley Park,Q,2.403,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.5391,1.0,45678.4,0.0
+D,D-S-Q357G,1,True,Q357G,Turtle Playground,Q,0.477,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.939,0.667,51147.3,0.0
+D,D-S-Q357I,1,True,Q357I,Nassau Mall,Q,0.836,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0779,0.333,55677.7,0.209
+D,D-S-Q357J,1,True,Q357J,Nassau Mall South,Q,0.834,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.0187,0.333,58856.5,0.198
+D,D-S-Q358,1,True,Q358,Detective William T. Gunn Playground,Q,2.838,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,0.8195,0.667,85825.1,0.0
+D,D-S-Q359,1,True,Q359,Haggerty Park,Q,3.865,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0159,1.0,87566.0,0.0
+D,D-S-Q360A,1,True,Q360A,Park,Q,0.011,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.8424,0.667,52074.7,0.0
+D,D-S-Q360C,1,True,Q360C,Park,Q,0.006,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.7955,0.667,45039.6,0.0
+D,D-S-Q360D,1,True,Q360D,Park,Q,0.005,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.9071,0.667,43130.5,0.0
+D,D-S-Q360I,1,True,Q360I,Park,Q,0.014,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.9994,0.333,45441.7,0.572
+D,D-S-Q360N,1,True,Q360N,Hoffman Park,Q,2.856,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.7552,0.333,81012.8,0.007
+D,D-S-Q360U,1,True,Q360U,Notorious LIC Park,Q,0.313,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.8999,0.333,46079.5,0.0
+D,D-S-Q360V,1,True,Q360V,Park,Q,0.002,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.3994,0.333,34629.7,0.642
+D,D-S-Q361,1,True,Q361,Moore Homestead Playground,Q,2.036,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.0322,0.333,71786.7,0.0
+D,D-S-Q362,1,True,Q362,Playground Ninety,Q,1.252,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.7674,0.333,60160.7,0.0
+D,D-S-Q364,1,True,Q364,Marie Curie Playground,Q,2.551,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.845,0.333,78675.5,0.0
+D,D-S-Q370,1,True,Q370,Freedom Square Playground,Q,0.371,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1542,0.333,54725.9,0.0
+D,D-S-Q373,1,True,Q373,Helen Marshall Playground,Q,4.225,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9983,0.333,87443.7,0.0
+D,D-S-Q375,1,True,Q375,Willets Point Playground,Q,1.092,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1325,0.667,60649.6,0.0
+D,D-S-Q376,1,True,Q376,Cedar Grove Playground,Q,0.619,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.5504,0.667,51274.5,0.0
+D,D-S-Q378,1,True,Q378,Ampere Playground,Q,1.267,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0521,0.333,73924.8,0.0
+D,D-S-Q379,1,True,Q379,Briarwood Playground,Q,1.299,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0596,1.0,72354.2,0.0
+D,D-S-Q383,1,True,Q383,Middle Village Veterans Triangle,Q,0.032,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.8773,0.667,36168.5,0.0
+D,D-S-Q385,1,True,Q385,Ditmars Playground,Q,0.989,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1114,0.667,62339.7,0.0
+D,D-S-Q386,1,True,Q386,Centreville Playground,Q,2.094,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9155,0.333,68511.7,0.0
+D,D-S-Q387A,1,True,Q387A,Bayside Fields,Q,2.599,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.8383,0.333,74973.1,0.0
+D,D-S-Q387B,1,True,Q387B,Clearview Park,Q,5.573,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.7228,0.333,85473.4,0.0
+D,D-S-Q387C,1,True,Q387C,Park,Q,0.019,Strip,1,0.0,0.0,,0,,,1.0,1.0,0.9375,0.333,91150.8,0.0
+D,D-S-Q387D,1,True,Q387D,Clearview's Tail,Q,0.018,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.333,56042.7,0.0
+D,D-S-Q387E,1,True,Q387E,Baybridge Green,Q,0.346,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.667,141292.3,0.0
+D,D-S-Q388,1,True,Q388,Linnaeus Park,Q,2.059,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.9334,0.667,72820.0,0.0
+D,D-S-Q390,1,True,Q390,Clintonville Playground,Q,1.54,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1059,1.0,74322.8,0.0
+D,D-S-Q391,1,True,Q391,Joseph Austin Playground,Q,3.812,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.872,0.667,85235.1,0.0
+D,D-S-Q394,1,True,Q394,Conch Playground,Q,2.123,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9709,0.333,56489.6,0.0
+D,D-S-Q397,1,True,Q397,Auburndale Playground,Q,0.685,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.6755,1.0,55332.2,0.0
+D,D-S-Q398,1,True,Q398,Rosemary's Playground,Q,2.024,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,1.1373,0.667,70359.5,0.0
+D,D-S-Q399,1,True,Q399,Bay Terrace Playground,Q,0.967,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,0.6969,0.667,56644.9,0.0
+D,D-S-Q400,1,True,Q400,Oakland Gardens,Q,1.335,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.798,0.333,43832.0,0.0
+D,D-S-Q404,1,True,Q404,East Springfield Playground,Q,1.145,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0621,1.0,63005.2,0.0
+D,D-S-Q405,1,True,Q405,Hollis Playground,Q,0.973,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9988,1.0,56484.7,0.0
+D,D-S-Q407,1,True,Q407,Lanett Playground,Q,1.034,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.872,0.667,61944.4,0.0
+D,D-S-Q408,1,True,Q408,Harold Schneiderman Playground,Q,0.878,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1146,0.667,59884.6,0.0
+D,D-S-Q409,1,True,Q409,Park,Q,0.001,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.9108,0.667,33011.3,0.0
+D,D-S-Q412,1,True,Q412,Gwen Ifill Park,Q,15.848,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.9195,0.667,153939.3,0.0
+D,D-S-Q413,1,True,Q413,Rochdale Park,Q,9.242,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,0.9843,0.667,124455.7,0.0
+D,D-S-Q417,1,True,Q417,Park,Q,0.015,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.31,0.667,59039.4,0.0
+D,D-S-Q421,1,True,Q421,Walter Ward Playground,Q,0.94,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0269,1.0,64514.6,0.0
+D,D-S-Q425,1,True,Q425,Yellowstone Park,Q,1.779,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0139,0.333,67008.4,0.0
+D,D-S-Q426,1,True,Q426,North Rochdale Playground,Q,1.071,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.2095,0.667,59826.9,0.0
+D,D-S-Q427,1,True,Q427,South Rochdale Playground,Q,0.954,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0044,0.667,61109.1,0.0
+D,D-S-Q428,1,True,Q428,Horace Harding Playground,Q,1.304,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9684,0.333,62341.1,0.0
+D,D-S-Q429,1,True,Q429,Spirit Playground,Q,0.786,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1071,0.333,56070.1,0.0
+D,D-S-Q430,1,True,Q430,Sunrise Playground,Q,1.025,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0057,1.0,56828.1,0.0
+D,D-S-Q434,1,True,Q434,Long Island Mews,Q,0.311,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,0.815,0.667,54145.5,0.0
+D,D-S-Q436,1,True,Q436,Athens Square,Q,0.925,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,1.2011,0.667,59784.4,0.0
+D,D-S-Q437,1,True,Q437,Murray Hill Playground,Q,1.206,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.017,0.667,59481.0,0.0
+D,D-S-Q439,1,True,Q439,Private William Gray Playground,Q,0.068,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.233,0.333,39376.6,0.029
+D,D-S-Q440,1,True,Q440,Hilton Holiday Gardens,Q,1.204,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.9413,1.0,62640.9,0.0
+D,D-S-Q444,1,True,Q444,Sean's Place,Q,0.58,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.5889,0.667,54561.6,0.0
+D,D-S-Q445,1,True,Q445,Frank Golden Park,Q,11.402,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.6417,0.333,149444.2,0.0
+D,D-S-Q450,1,True,Q450,Corona Golf Playground,Q,1.72,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9156,0.667,52488.2,0.0
+D,D-S-Q451,1,True,Q451,Underbridge Dog Run,Q,0.474,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9468,0.667,39593.8,0.0
+D,D-S-Q456,1,True,Q456,Gene Gray Playground,Q,0.227,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8986,0.667,43416.9,0.0
+D,D-S-Q459,1,True,Q459,Dubos Point Wildlife Sanctuary,Q,53.268,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.8217,0.667,295231.3,0.0
+D,D-S-Q461,1,True,Q461,Powell's Cove Park,Q,59.596,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.8051,0.333,277438.0,0.0
+D,D-S-Q464,1,True,Q464,Brant Point Wildlife Sanctuary,Q,19.683,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.6372,0.667,144725.8,0.011
+D,D-S-Q465,1,True,Q465,Socrates Sculpture Park,Q,6.283,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,0.9342,0.333,113117.1,0.025
+D,D-S-Q469,1,True,Q469,Seagirt Ave Wetlands,Q,5.321,Nature Area,1,0.0,0.0,,0,,,0.0,1.0,0.7315,0.333,117195.2,0.0
+D,D-S-Q471,1,True,Q471,Hunter's Point South Park,Q,22.952,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8702,0.333,234917.9,0.08
+D,D-S-Q472,1,True,Q472,Vernam Barbadoes Peninsula,Q,23.945,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.3156,0.333,166616.6,0.059
+D,D-S-Q475,1,True,Q475,Project Eden,Q,0.106,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.155,0.667,39863.9,0.0
+D,D-S-Q476,1,True,Q476,College Point Fields,Q,26.887,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,1.0,1.063,0.667,173688.0,0.0
+D,D-S-Q478,1,True,Q478,Broad Channel Wetlands,Q,37.928,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,,0.0,222117.8,0.129
+D,D-S-Q483,1,True,Q483,Corona Health Sanctuary,Q,0.095,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1832,0.333,39623.5,0.0
+D,D-S-Q484,1,True,Q484,Edgemere Urban Renewal Park,Q,0.927,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.1207,0.333,59768.1,0.034
+D,D-S-Q486,1,True,Q486,B.C.C.A. Mini-park and Garden,Q,0.096,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0087,1.0,40100.5,0.0
+D,D-S-Q487,1,True,Q487,Block Association #81,Q,0.116,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.2141,0.667,40585.9,0.0
+D,D-S-Q488,1,True,Q488,George Eagle Carr Community Garden,Q,0.119,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.8786,0.333,40853.2,0.201
+D,D-S-Q491,1,True,Q491,Carlos R. Lillo Park,Q,0.089,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,0.942,0.667,40593.4,0.0
+D,D-S-Q494,1,True,Q494,Flight 587 Memorial Park,Q,0.15,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.7572,0.0,24272.9,0.849
+D,D-S-Q499,1,True,Q499,Bay Breeze Park,Q,4.794,Waterfront Facility,1,0.0,0.0,,0,,,0.0,0.0,0.9924,0.333,87206.1,0.0
+D,D-S-Q500,1,True,Q500,Park,Q,0.019,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0584,0.667,34989.9,0.0
+D,D-S-Q501,1,True,Q501,Sergeant Collins Triangle,Q,0.118,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.9823,0.667,41662.4,0.0
+D,D-S-Q506,1,True,Q506,Gateway Park,Q,0.901,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,0.9788,0.333,66096.8,0.008
+D,D-S-Q507,1,True,Q507,Windmill Community Garden,Q,0.057,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.7782,0.667,38991.8,0.0
+D,D-S-Q509,1,True,Q509,Nameoke Park,Q,0.318,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.063,0.667,45929.0,0.0
+D,D-S-Q511,1,True,Q511,Edgemere Coalition,Q,0.322,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0934,0.333,46144.1,0.19
+D,D-S-Q512,1,True,Q512,Garden,Q,0.1,Garden,1,0.0,0.0,,0,,,0.0,1.0,0.9727,0.667,39724.4,0.0
+D,D-S-Q515,1,True,Q515,Legacy Park,Q,0.293,Playground,1,0.0,0.0,,0,,,0.0,1.0,1.2651,0.333,45535.7,0.0
+D,D-S-Q519,1,True,Q519,Laurelton Community Garden of Resilience,Q,0.054,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0568,0.333,38961.1,0.0
+D,D-S-Q523,1,True,Q523,Beach 43rd Street Waterfront Park,Q,0.239,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.4093,0.333,35300.8,0.0
+D,D-S-Q527,1,True,Q527,LIC Pier,Q,0.131,Waterfront Facility,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.333,42881.6,0.0
+D,D-S-R002,1,True,R002,Pleasant Plains Plaza,R,0.055,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.1176,0.667,41441.5,0.0
+D,D-S-R004,1,True,R004,Barrett Triangle,R,0.16,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.074,0.333,45403.8,0.0
+D,D-S-R008,1,True,R008,Faber Pool and Park,R,4.337,Community Park,1,0.0,0.0,,0,,,0.0,0.0,1.0044,0.667,84484.1,0.0
+D,D-S-R009,1,True,R009,Amundsen Circle,R,0.916,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0015,1.0,36251.8,0.0
+D,D-S-R019,1,True,R019,Veterans Park,R,1.324,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9455,0.667,61036.2,0.0
+D,D-S-R024,1,True,R024,Tompkinsville Park,R,0.423,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,0.9927,0.667,50104.9,0.0
+D,D-S-R026,1,True,R026,Gerard P. Dugan Playground,R,3.275,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.7742,1.0,84236.2,0.0
+D,D-S-R027#1,1,True,R027#1,Long Pond Park (1/4),R,27.84,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.2595,0.333,173172.8,0.639
+D,D-S-R027#2,1,True,R027#2,Long Pond Park (2/4),R,22.509,Nature Area,1,0.0,0.0,,0,,,1.0,1.0,1.0618,1.0,178737.5,0.367
+D,D-S-R027#4,1,True,R027#4,Long Pond Park (4/4),R,18.392,Nature Area,1,0.0,0.0,,0,,,1.0,1.0,1.1243,0.667,146105.1,0.552
+D,D-S-R029,1,True,R029,Westerleigh Park,R,2.901,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0205,0.333,74931.4,0.0
+D,D-S-R032,1,True,R032,Maple Woods,R,0.765,Nature Area,1,0.0,0.0,,0,,,1.0,1.0,1.267,0.333,54566.9,0.016
+D,D-S-R033,1,True,R033,Levy Playground,R,0.489,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0375,0.667,49555.2,0.0
+D,D-S-R035,1,True,R035,De Matti Park,R,2.334,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,1.1082,0.667,78600.9,0.0
+D,D-S-R036,1,True,R036,Bobbie Lewis Jr. Playground,R,0.271,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.5692,0.667,44663.9,0.0
+D,D-S-R037,1,True,R037,Liotti Ikefugi Playground,R,0.408,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9213,0.333,48279.2,0.0
+D,D-S-R042,1,True,R042,Kaltenmeier Playground,R,1.018,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.1202,0.667,69613.9,0.0
+D,D-S-R045,1,True,R045,Schmul Park,R,7.39,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.814,0.333,75050.5,0.0
+D,D-S-R060,1,True,R060,Dodgers Triangle,R,0.034,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.6835,0.667,36430.9,0.0
+D,D-S-R061,1,True,R061,Rev. Dr. Maggie Howard Playground,R,4.094,Jointly Operated Playground,1,0.0,0.0,,0,,,1.0,1.0,0.7855,0.333,85040.3,0.0
+D,D-S-R063,1,True,R063,Old Town Playground,R,2.585,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1121,1.0,75034.5,0.0
+D,D-S-R064,1,True,R064,Christopher J. Igneri Playground,R,1.145,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9181,0.333,43750.3,0.0
+D,D-S-R066,1,True,R066,North Shore Esplanade,R,1.616,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.9995,0.333,122893.8,0.006
+D,D-S-R067,1,True,R067,Gen. Douglas MacArthur Park,R,5.132,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.9943,0.333,101370.4,0.275
+D,D-S-R068,1,True,R068,The Big Park,R,3.01,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,0.8736,0.667,74777.6,0.0
+D,D-S-R069,1,True,R069,Terrace Playground,R,1.922,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9905,1.0,73304.4,0.0
+D,D-S-R070,1,True,R070,Clove's Tail,R,1.982,Recreational Field/Courts,1,0.0,0.0,,0,,,1.0,1.0,0.9641,0.333,61984.3,0.522
+D,D-S-R071,1,True,R071,Great Kills Veterans Playground,R,1.064,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8959,1.0,58529.5,0.0
+D,D-S-R072,1,True,R072,Clawson Playground,R,3.591,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9398,1.0,91217.6,0.0
+D,D-S-R073,1,True,R073,Naples Playground,R,3.214,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9224,0.667,76990.4,0.0
+D,D-S-R075A,1,True,R075A,Father Macris Park,R,13.46,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.9655,1.0,144430.2,0.053
+D,D-S-R075B,1,True,R075B,Westwood Park,R,6.559,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,1.1028,0.667,96712.7,0.0
+D,D-S-R075C,1,True,R075C,Ingram Woods,R,3.768,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.9938,0.667,83549.5,0.0
+D,D-S-R075G,1,True,R075G,Bradys Pond Park,R,6.398,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,1.1426,0.667,116673.1,0.0
+D,D-S-R077,1,True,R077,St. George Park,R,0.092,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.5594,0.333,39187.6,0.154
+D,D-S-R078,1,True,R078,Northerleigh Park,R,3.953,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8952,0.333,92992.4,0.0
+D,D-S-R080,1,True,R080,Annadale Green,R,0.281,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,0.9262,0.667,45188.8,0.0
+D,D-S-R087,1,True,R087,Dongan Playground,R,1.05,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9196,0.667,69369.5,0.0
+D,D-S-R088,1,True,R088,High Rock Park,R,94.035,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.7353,0.667,321245.5,0.0
+D,D-S-R089,1,True,R089,Greencroft Playground,R,3.228,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.969,0.667,78053.0,0.0
+D,D-S-R090,1,True,R090,Lieutenant John H. Martinson Playground,R,1.375,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0306,0.667,62767.3,0.0
+D,D-S-R099,1,True,R099,Park,R,0.554,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.9893,0.333,40327.3,0.002
+D,D-S-R100,1,True,R100,Drumgoole Tot Lot,R,0.677,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9547,0.667,43746.6,0.0
+D,D-S-R101,1,True,R101,Wegener Park,R,3.462,Nature Area,1,0.0,0.0,,0,,,0.0,1.0,1.044,0.667,67162.6,0.0
+D,D-S-R107,1,True,R107,New Dorp Park,R,0.785,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,1.1712,1.0,55708.4,0.0
+D,D-S-R109,1,True,R109,CPL. Thompson Park,R,10.782,Community Park,1,0.0,0.0,,0,,,0.0,1.0,0.8878,0.333,121181.1,0.0
+D,D-S-R111,1,True,R111,Lt. Lia Playground,R,1.314,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0029,0.333,60950.1,0.088
+D,D-S-R112#17,1,True,R112#17,Meredith Woods (17/25),R,0.032,Nature Area,1,0.0,0.0,,0,,,1.0,1.0,0.9355,0.667,78062.2,0.807
+D,D-S-R112#21,1,True,R112#21,Meredith Woods (21/25),R,0.028,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.4476,0.0,63386.3,0.985
+D,D-S-R112#22,1,True,R112#22,Meredith Woods (22/25),R,0.025,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.0,78572.7,0.7
+D,D-S-R112#24,1,True,R112#24,Meredith Woods (24/25),R,2.257,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,1.0926,0.333,189743.0,0.637
+D,D-S-R112#4,1,True,R112#4,Meredith Woods (4/25),R,0.032,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.3864,0.667,72208.6,0.606
+D,D-S-R112#6,1,True,R112#6,Meredith Woods (6/25),R,0.037,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.667,78054.8,0.402
+D,D-S-R112#7,1,True,R112#7,Meredith Woods (7/25),R,30.253,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,1.0345,0.667,225607.8,0.302
+D,D-S-R112#9,1,True,R112#9,Meredith Woods (9/25),R,0.154,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.667,221428.4,0.354
+D,D-S-R114,1,True,R114,Jennifer's Playground,R,1.637,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8763,1.0,64613.2,0.118
+D,D-S-R115,1,True,R115,Deere Park,R,39.105,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.5307,0.667,226882.4,0.0
+D,D-S-R117,1,True,R117,Alice Austen Park,R,15.514,Historic House Park,1,0.0,0.0,,0,,,0.0,0.0,0.8267,0.667,152124.0,0.0
+D,D-S-R118,1,True,R118,Reed's Basket Willow Swamp Park,R,52.648,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.466,0.667,347340.0,0.0
+D,D-S-R121,1,True,R121,Siedenburg Park,R,22.867,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.8267,0.667,163597.8,0.0
+D,D-S-R124,1,True,R124,Eibs Pond Park,R,16.495,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.7146,0.333,163307.8,0.035
+D,D-S-R125,1,True,R125,Lopez Playground,R,1.115,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,1.1071,0.333,62230.7,0.105
+D,D-S-R126,1,True,R126,Gaeta Park,R,1.789,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0652,1.0,76135.8,0.0
+D,D-S-R128,1,True,R128,Shooters Island,R,34.666,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,,0.0,187203.8,0.0
+D,D-S-R131,1,True,R131,Huguenot Ponds Park,R,1.531,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.9585,0.667,68389.8,0.0
+D,D-S-R133,1,True,R133,Arbutus Woods Park,R,2.619,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.667,77244.6,0.001
+D,D-S-R136,1,True,R136,Hybrid Oak Woods Park,R,9.756,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.9513,1.0,126421.9,0.0
+D,D-S-R139,1,True,R139,Tottenville Shore Park,R,9.545,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.8088,1.0,207799.2,0.0
+D,D-S-R140,1,True,R140,King Fisher Park,R,16.829,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.8582,0.667,185861.7,0.0
+D,D-S-R144,1,True,R144,Sobel Court Park,R,1.137,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.1447,0.333,63757.8,0.0
+D,D-S-R145,1,True,R145,Seaside Wildlife Nature Park,R,19.319,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,0.7437,1.0,155817.4,0.0
+D,D-S-R146,1,True,R146,Joe Holzka Community Garden,R,0.445,Garden,1,0.0,0.0,,0,,,1.0,1.0,0.9339,0.333,51805.3,0.0
+D,D-S-R147,1,True,R147,South Beach Wetlands,R,5.185,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,,0.0,95159.7,0.0
+D,D-S-R148,1,True,R148,Last Chance Pond Park,R,3.979,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.9287,0.333,91839.2,0.303
+D,D-S-R150,1,True,R150,Graniteville Quarry Park,R,4.463,Nature Area,1,0.0,0.0,,0,,,1.0,1.0,0.889,0.667,90968.4,0.0
+D,D-S-R151,1,True,R151,Isle Of Meadows,R,87.456,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,,0.0,272895.6,0.0
+D,D-S-R152,1,True,R152,Carlton Park,R,1.284,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,1.0268,0.667,65140.3,0.0
+D,D-S-R153,1,True,R153,Fairview Park,R,43.856,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.8386,0.667,366314.4,0.042
+D,D-S-R156,1,True,R156,Sylvan Grove Cemetery,R,2.684,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0447,0.333,77032.8,0.427
+D,D-S-R158,1,True,R158,Fort Hill Park,R,0.776,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.8431,0.333,58989.6,0.0
+D,D-S-R159,1,True,R159,Old Place Creek Park,R,45.803,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,1.1286,1.0,428932.7,0.0
+D,D-S-R160,1,True,R160,Heritage Park,R,9.928,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.7953,0.333,129379.7,0.0
+D,D-S-R161,1,True,R161,Laredo Avenue Parcel,R,2.222,Nature Area,1,0.0,0.0,,0,,,0.0,1.0,0.8124,0.667,81613.0,0.0
+D,D-S-R162,1,True,R162,Olmsted-Beil House Park,R,2.76,Historic House Park,1,0.0,0.0,,0,,,1.0,1.0,0.6469,0.667,79738.8,0.0
+D,D-S-R164,1,True,R164,Targee Street Triangle,R,0.201,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.1561,0.333,51485.8,0.0
+D,D-S-R165,1,True,R165,Blueberry Park,R,0.724,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9836,0.667,57073.0,0.028
+D,D-S-R166,1,True,R166,Manor Park,R,1.777,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,1.002,0.667,53736.5,0.0
+D,D-S-R167,1,True,R167,Richmond Terrace Park,R,11.186,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,1.0148,0.667,119807.7,0.0
+D,D-S-R168,1,True,R168,Park,R,0.05,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.8628,1.0,37693.1,0.0
+D,D-S-X001A#2,1,True,X001A#2,Aqueduct Walk (2/5),X,1.847,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.9715,0.333,98912.9,0.698
+D,D-S-X001A#5,1,True,X001A#5,Aqueduct Walk (5/5),X,1.326,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.8608,0.333,97175.1,0.645
+D,D-S-X005,1,True,X005,Bryan Park,X,0.139,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0643,0.333,41916.8,0.0
+D,D-S-X007,1,True,X007,Castle Hill Park,X,8.569,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8053,0.333,144502.3,0.384
+D,D-S-X012,1,True,X012,Church Triangle,X,0.077,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0748,0.333,40224.2,0.178
+D,D-S-X015,1,True,X015,Joseph Rodman Drake Park & Enslaved African Burial Ground,X,2.536,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0263,0.667,74435.5,0.0
+D,D-S-X016,1,True,X016,Owen F. Dolen Park,X,1.414,Neighborhood Park,1,0.0,0.0,,0,,,1.0,1.0,0.9502,0.333,62575.9,0.0
+D,D-S-X018,1,True,X018,Echo Triangle,X,0.062,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.0174,0.333,39012.2,0.0
+D,D-S-X019,1,True,X019,Ewen Park,X,7.878,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9979,0.333,102921.4,0.0
+D,D-S-X020,1,True,X020,Fort Independence Playground,X,2.726,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8467,0.333,110448.1,0.0
+D,D-S-X023,1,True,X023,Graham Triangle,X,0.126,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.1121,0.333,44474.6,0.0
+D,D-S-X038,1,True,X038,Washington's Walk,X,4.788,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8587,0.333,169196.0,0.0
+D,D-S-X041,1,True,X041,Pulaski Park,X,1.455,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.8884,0.333,67984.1,0.013
+D,D-S-X042,1,True,X042,Rose Hill Park,X,0.745,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,0.8813,0.333,68538.0,0.0
+D,D-S-X055,1,True,X055,Brust Park,X,2.099,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9406,0.333,83507.3,0.044
+D,D-S-X058,1,True,X058,Keltch Park,X,0.418,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.0469,0.333,62349.1,0.0
+D,D-S-X059,1,True,X059,Sergeant Johnson Triangle,X,0.116,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.1181,0.667,31574.1,0.0
+D,D-S-X060,1,True,X060,Sheridan Triangle,X,0.071,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.0203,0.667,27016.5,0.0
+D,D-S-X063,1,True,X063,Martin Luther King Triangle,X,0.034,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.586,0.333,37116.4,0.0
+D,D-S-X067,1,True,X067,Martin Luther King Triangle,X,0.104,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.0366,0.333,40967.5,0.0
+D,D-S-X073,1,True,X073,Young Park,X,0.058,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0671,0.333,38080.0,0.0
+D,D-S-X079,1,True,X079,Major General John R Brown Triangle,X,0.124,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,0.9782,0.333,41737.3,0.0
+D,D-S-X085,1,True,X085,Slattery Playground,X,0.933,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1189,0.333,55992.2,0.0
+D,D-S-X087,1,True,X087,Zimmerman Playground,X,1.002,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8371,0.333,57612.0,0.054
+D,D-S-X088A,1,True,X088A,Waterfront Garden,X,0.278,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.3784,0.333,33902.5,0.774
+D,D-S-X088B,1,True,X088B,Clason Point Park,X,14.864,Community Park,1,0.0,0.0,,0,,,0.0,0.0,0.6786,0.333,122406.4,0.263
+D,D-S-X093,1,True,X093,Van Nest Park,X,0.382,Playground,1,0.0,0.0,,0,,,0.0,1.0,1.0423,0.667,53547.8,0.0
+D,D-S-X094,1,True,X094,Bridge Park,X,7.152,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.3987,0.667,251192.7,0.451
+D,D-S-X096,1,True,X096,Rita Ley Triangle,X,0.019,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.8258,1.0,23168.0,0.0
+D,D-S-X102,1,True,X102,Ciccarone Park,X,0.799,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0647,0.333,54151.5,0.0
+D,D-S-X106,1,True,X106,Evelina Antonetty Playground,X,0.714,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8841,0.333,54200.5,0.0
+D,D-S-X107,1,True,X107,Hawkins Park,X,0.145,Triangle/Plaza,1,0.0,0.0,,0,,,1.0,1.0,1.044,0.333,41175.4,0.0
+D,D-S-X110#1,1,True,X110#1,Henry Hudson Parkway (1/8),X,1.064,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.9856,0.333,122599.9,0.578
+D,D-S-X110#3,1,True,X110#3,Henry Hudson Parkway (3/8),X,4.156,Parkway,1,0.0,0.0,,0,,,0.0,0.0,1.0816,0.333,106320.7,0.664
+D,D-S-X110#6,1,True,X110#6,Henry Hudson Parkway (6/8),X,4.669,Parkway,1,0.0,0.0,,0,,,0.0,0.0,0.6835,0.667,98994.9,0.363
+D,D-S-X110#7,1,True,X110#7,Henry Hudson Parkway (7/8),X,1.067,Parkway,1,0.0,0.0,,0,,,0.0,0.0,1.1161,0.333,128951.8,0.558
+D,D-S-X113,1,True,X113,Hunts Point Playground,X,0.732,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1471,0.333,53777.5,0.0
+D,D-S-X115,1,True,X115,Mott Playground,X,0.958,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,1.0,0.9071,0.667,56304.5,0.0
+D,D-S-X116,1,True,X116,Rev J Polite Playground,X,1.787,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0545,0.333,73912.0,0.0
+D,D-S-X121,1,True,X121,Bufano Park,X,1.909,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1047,0.667,68648.8,0.0
+D,D-S-X122,1,True,X122,Colucci Playground,X,4.014,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9536,1.0,75611.1,0.0
+D,D-S-X124,1,True,X124,Watson Gleason Playground,X,3.381,Neighborhood Park,1,0.0,0.0,,0,,,0.0,1.0,0.9751,0.333,87730.9,0.0
+D,D-S-X131,1,True,X131,Lozada Playground,X,1.033,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.696,0.333,57472.7,0.001
+D,D-S-X133,1,True,X133,Derosa O'Boyle Triangle,X,0.117,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.1296,1.0,40371.5,0.0
+D,D-S-X138,1,True,X138,Playground One Thirty Four CXXXIV,X,1.95,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.6905,0.333,83689.9,0.262
+D,D-S-X139,1,True,X139,Gouverneur Morris Triangle,X,0.036,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.178,0.333,36284.0,0.0
+D,D-S-X141,1,True,X141,Rienzi Playground,X,1.237,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0248,1.0,59670.0,0.0
+D,D-S-X145,1,True,X145,La Finca del Sur Community Garden,X,0.254,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.2586,0.333,48899.9,0.0
+D,D-S-X148M,1,True,X148M,Chief Dennis L. Devlin Park,X,0.489,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,0.9359,0.333,53740.9,0.0
+D,D-S-X148M1,1,True,X148M1,Havemeyer Playground,X,0.452,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9716,0.333,52662.7,0.136
+D,D-S-X150G,1,True,X150G,Siren Slope,X,0.304,Parkway,1,0.0,0.0,,0,,,0.0,0.0,1.13,0.333,50255.5,0.0
+D,D-S-X150L,1,True,X150L,Van Cortlandt's Tail,X,0.34,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.0161,0.333,42547.3,0.006
+D,D-S-X151,1,True,X151,P.O. Serrano Playground,X,2.655,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.1565,0.667,78463.7,0.0
+D,D-S-X154,1,True,X154,Melrose Playground,X,1.077,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9112,0.333,56726.8,0.098
+D,D-S-X156,1,True,X156,Eastchester Playground,X,1.067,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9176,0.667,57392.9,0.0
+D,D-S-X157,1,True,X157,Mazzei Playground,X,1.536,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0597,0.667,66515.7,0.0
+D,D-S-X159,1,True,X159,Captain William Harry Thompson Playground,X,1.03,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9657,0.0,57336.0,0.035
+D,D-S-X161,1,True,X161,Gun Hill Playground,X,0.678,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0273,0.333,52789.4,0.091
+D,D-S-X162,1,True,X162,Parkside Playground,X,0.756,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.6047,0.333,55630.4,0.056
+D,D-S-X163,1,True,X163,Loreto Playground,X,2.202,Community Park,1,0.0,0.0,,0,,,0.0,0.0,1.0197,1.0,72721.6,0.0
+D,D-S-X165,1,True,X165,Edenwald Playground,X,2.34,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9404,0.667,88336.7,0.0
+D,D-S-X166,1,True,X166,Behagen Playground,X,3.309,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1135,0.333,80638.0,0.0
+D,D-S-X169,1,True,X169,Agnes Haywood Playground,X,1.295,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0491,0.333,60662.6,0.005
+D,D-S-X170,1,True,X170,The Pearly Gates,X,0.677,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0342,0.333,52524.9,0.0
+D,D-S-X172,1,True,X172,Allerton Playground,X,1.631,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0985,0.667,64711.0,0.0
+D,D-S-X175,1,True,X175,Riverbend Playground,X,0.637,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0913,0.333,59520.1,0.0
+D,D-S-X176,1,True,X176,Taylor Playground,X,0.919,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0516,0.333,57605.3,0.0
+D,D-S-X178,1,True,X178,Matthews Muliner Playground,X,1.04,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8562,0.667,57458.3,0.0
+D,D-S-X179,1,True,X179,Al Quiñones Playground,X,1.792,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.8898,0.333,71610.4,0.046
+D,D-S-X180,1,True,X180,Whalen Playground,X,0.325,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,0.0,1.0523,0.333,47098.0,0.034
+D,D-S-X183,1,True,X183,Bruckner Playground,X,1.01,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.0,1.0,59213.2,0.0
+D,D-S-X187,1,True,X187,Givan Square,X,1.601,Playground,1,0.0,0.0,,0,,,1.0,1.0,1.0319,0.667,86810.2,0.0
+D,D-S-X188,1,True,X188,Wakefield Playground,X,1.103,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.094,1.0,70640.4,0.0
+D,D-S-X190,1,True,X190,Tiffany Playground,X,1.143,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.088,0.333,61623.4,0.0
+D,D-S-X191A,1,True,X191A,Bicentennial Veterans Memorial Park,X,9.52,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8012,1.0,125697.1,0.0
+D,D-S-X191D,1,True,X191D,Park,X,0.008,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.5395,1.0,53645.9,0.0
+D,D-S-X195A,1,True,X195A,Colgate Close,X,1.975,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.7378,0.333,70417.6,0.12
+D,D-S-X195B,1,True,X195B,Park,X,0.005,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.9756,0.667,37062.8,0.0
+D,D-S-X195C,1,True,X195C,Park,X,0.008,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.9497,0.667,56261.5,0.0
+D,D-S-X195D,1,True,X195D,Park,X,0.007,Strip,1,0.0,0.0,,0,,,0.0,0.0,0.7872,0.333,67855.3,0.061
+D,D-S-X195F,1,True,X195F,Park,X,0.027,Strip,1,0.0,0.0,,0,,,0.0,0.0,1.1482,0.333,149898.1,0.0
+D,D-S-X196,1,True,X196,Haffen Park,X,9.163,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.9583,0.667,108669.6,0.0
+D,D-S-X202,1,True,X202,Marble Hill Playground,X,1.828,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1301,0.333,67353.3,0.0
+D,D-S-X203,1,True,X203,Randall Playground,X,0.999,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9262,0.333,57215.6,0.0
+D,D-S-X204,1,True,X204,Story Playground,X,2.219,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.1876,0.333,72455.3,0.036
+D,D-S-X209,1,True,X209,Wave Hill,X,20.969,Historic House Park,1,0.0,0.0,,0,,,0.0,1.0,0.9511,0.333,137956.3,0.0
+D,D-S-X214,1,True,X214,Magenta Playground,X,0.899,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0055,0.333,58199.5,0.083
+D,D-S-X221,1,True,X221,Space Time Playground,X,1.28,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9468,0.333,60640.8,0.043
+D,D-S-X222,1,True,X222,Gouverneur Playground,X,1.039,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0119,0.333,63896.7,0.059
+D,D-S-X224,1,True,X224,MacLaughlin Playground,X,0.284,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.184,0.333,48771.9,0.075
+D,D-S-X232,1,True,X232,Burns Playground,X,1.684,Jointly Operated Playground,1,0.0,0.0,,0,,,0.0,0.0,0.9508,0.667,67082.2,0.0
+D,D-S-X239,1,True,X239,Castle Hill Little League Field,X,2.22,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,1.1315,0.333,70421.3,0.0
+D,D-S-X247,1,True,X247,Fox Park,X,0.962,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8768,0.333,61198.6,0.054
+D,D-S-X248,1,True,X248,Barretto Park,X,0.12,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0515,0.333,40749.5,0.0
+D,D-S-X251,1,True,X251,Co-op City Field,X,3.381,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.7705,1.0,79361.0,0.0
+D,D-S-X253,1,True,X253,Ambrosini Field,X,6.054,Recreational Field/Courts,1,0.0,0.0,,0,,,1.0,1.0,0.4758,0.333,107701.6,0.0
+D,D-S-X260,1,True,X260,Julio Carballo Fields,X,3.355,Recreational Field/Courts,1,0.0,0.0,,0,,,0.0,0.0,0.9501,0.333,82313.7,0.0
+D,D-S-X268,1,True,X268,Givans Creek Woods,X,10.101,Nature Area,1,0.0,0.0,,0,,,0.0,1.0,0.8632,1.0,146771.8,0.0
+D,D-S-X272,1,True,X272,Ranaqua Playground,X,0.972,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0161,0.333,57877.1,0.016
+D,D-S-X277,1,True,X277,St. Luke's Park,X,0.439,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.2292,0.333,47257.0,0.801
+D,D-S-X278,1,True,X278,Boston Garden,X,0.025,Triangle/Plaza,1,0.0,0.0,,0,,,0.0,1.0,1.2096,0.667,36278.3,0.0
+D,D-S-X279,1,True,X279,City Island Wetlands,X,5.443,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.667,113108.4,0.0
+D,D-S-X282,1,True,X282,Seabury Playground,X,0.189,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.0374,0.333,43119.2,0.0
+D,D-S-X283,1,True,X283,Beanstalk Playground,X,0.331,Playground,1,0.0,0.0,,0,,,0.0,0.0,0.0,0.333,46628.7,0.395
+D,D-S-X294,1,True,X294,Palmer Inlet,X,6.997,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,,0.0,120746.3,0.0
+D,D-S-X306,1,True,X306,Garrison Park,X,1.064,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,1.0796,0.333,60310.1,0.362
+D,D-S-X308,1,True,X308,North Brother Island,X,30.802,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,0.4328,0.0,161529.8,0.059
+D,D-S-X309,1,True,X309,South Brother Island,X,21.097,Nature Area,1,0.0,0.0,,0,,,0.0,0.0,,0.0,144200.1,0.066
+D,D-S-X315,1,True,X315,Bryant Hill Garden,X,0.354,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0596,0.333,46787.2,0.0
+D,D-S-X318,1,True,X318,Franklin Memorial Garden,X,0.115,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0496,0.333,41499.2,0.072
+D,D-S-X321,1,True,X321,Claremont Neighborhood Garden,X,0.195,Garden,1,0.0,0.0,,0,,,1.0,1.0,1.1445,0.333,42639.9,0.0
+D,D-S-X322,1,True,X322,Jardin De Las Rosas,X,0.054,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.973,0.333,38933.9,0.0
+D,D-S-X325,1,True,X325,Taylor-Soundview Block Assoc. Garden,X,0.14,Garden,1,0.0,0.0,,0,,,0.0,1.0,1.0031,0.667,42802.5,0.0
+D,D-S-X330,1,True,X330,P.S. 186 Day Treatment Program,X,0.071,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0449,0.333,38145.7,0.003
+D,D-S-X336,1,True,X336,Hunts Point Riverside Park,X,1.402,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.4804,0.667,63935.5,0.0
+D,D-S-X344,1,True,X344,Mill Pond Park,X,10.31,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8055,0.0,138383.7,0.02
+D,D-S-X355,1,True,X355,Leave it Better Kids' Garden,X,0.244,Garden,1,0.0,0.0,,0,,,0.0,0.0,0.9661,0.333,44845.4,0.381
+D,D-S-X362,1,True,X362,Catherine Scott Promenade,X,0.535,Waterfront Facility,1,0.0,0.0,,0,,,1.0,1.0,1.0384,1.0,64744.7,0.0
+D,D-S-X364,1,True,X364,Havemeyer Garden Association,X,0.136,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0952,0.667,45200.1,0.0
+D,D-S-X365,1,True,X365,Black Joy Farm,X,0.104,Garden,1,0.0,0.0,,0,,,0.0,0.0,1.0768,0.333,40579.0,0.119
+D,D-S-X367,1,True,X367,Dr. Thomasina Bushby Park,X,0.259,Neighborhood Park,1,0.0,0.0,,0,,,0.0,0.0,0.8847,0.333,44320.8,0.0
+D,D-S-X369,1,True,X369,Watson Houses Playground,X,0.261,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.055,0.333,45982.2,0.184
+D,D-S-X373,1,True,X373,Justice Sotomayor Houses Playground,X,0.228,Playground,1,0.0,0.0,,0,,,0.0,0.0,1.2349,0.333,43509.9,0.0

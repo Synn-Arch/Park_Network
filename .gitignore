@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# OSMnx cache
+cache/
+
+# Generated network files (regenerate from notebook)
+Data/nyc_walk_network/
+
+# Derived analysis data (regenerate from STEP notebooks)
+Data/derived/

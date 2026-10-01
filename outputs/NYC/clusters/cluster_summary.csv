@@ -1,0 +1,9 @@
+,D,N1,N2,N3
+clusters,1132.0,1219.0,1174.0,1991.0
+multi-park,349.0,340.0,329.0,47.0
+singletons,783.0,879.0,845.0,1944.0
+median parks (multi),3.0,3.0,3.0,2.0
+median max walk m (multi),197.7,391.4,336.3,413.6
+median ring area ha,7.49,7.51,7.44,5.63
+mean overlap share,0.104,0.241,0.211,0.367
+multi-park clusters touching a top-5% main street,0.45,0.468,0.465,0.085
